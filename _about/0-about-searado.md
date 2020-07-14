@@ -7,10 +7,10 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) was established b
 #### **Our Vision**
 Value and foster doping-free sport in Southeast Asia.
 
-### **Our Mission**
+#### **Our Mission**
 To promote and co-ordinate the fight against doping of all forms in sports in Southeast Asia.
 
-### **Our Core Values**
+#### **Our Core Values**
 ##### **Independence**
 - We are impartial, objective, equitable and balanced.
 - We avoid improper influences or conflicts of interest that would undermine our independent and unbiased judgement.
@@ -31,7 +31,7 @@ To promote and co-ordinate the fight against doping of all forms in sports in So
 ##### **Proactive**
 - We will benchmark off and apply best practice standards to all our activities.
 
-### **Strategic Objectives**
+#### **Strategic Objectives**
 ##### **1. Education**
 To assist and co-ordinate education initiatives among member countries, regional organizations and international organizations
 ##### **Outcome**
