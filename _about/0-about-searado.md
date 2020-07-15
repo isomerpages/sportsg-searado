@@ -15,7 +15,6 @@ To promote and co-ordinate the fight against doping of all forms in sports in So
 - We are impartial, objective, equitable and balanced.
 - We avoid improper influences or conflicts of interest that would undermine our independent and unbiased judgement.
 
-
 ##### **Ethical Approach**
 - We will conduct our activities in accordance with the highest standards of ethical behavior.
 - We will develop policies, procedures and practices that reflect justice, equity and integrity.
