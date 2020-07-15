@@ -18,7 +18,7 @@ To promote and co-ordinate the fight against doping of all forms in sports in So
 
 #### **Our Core Values**
 ##### **Independence**
-<ul class="list-style-f4"> 
+<ul class="list-style-none f4"> 
 <li> We are impartial, objective, equitable and balanced. </li>
 <li> We avoid improper influences or conflicts of interest that would undermine our independent and unbiased judgement. </li>
 </ul>
