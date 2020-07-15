@@ -20,6 +20,7 @@ To promote and co-ordinate the fight against doping of all forms in sports in So
 ##### **Independence**
 <div class="p-5">
 - We are impartial, objective, equitable and balanced.
+
 - We avoid improper influences or conflicts of interest that would undermine our independent and unbiased judgement.
 </div>
 
