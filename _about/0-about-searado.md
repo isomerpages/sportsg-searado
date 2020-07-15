@@ -2,25 +2,18 @@
 title: About Searado
 permalink: /about/about-searado/
 ---
-<div class="p-5">
 The Southeast Asia Regional Anti-Doping Organization (SEARADO) was established by National Olympic Committees (NOCs) and government representatives from Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Timor-Leste, Singapore, Thailand and Vietnam with the assistance of the World Anti-Doping Agency (WADA) on 30 November 2006 in Doha, Qatar. The SEARADO office is currently located in Singapore.
-</div>
 
 #### **Our Vision** 
-<div class="p-5">
 Value and foster doping-free sport in Southeast Asia. 
-</div>
 
 #### **Our Mission**
-<div class="p-5">
 To promote and co-ordinate the fight against doping of all forms in sports in Southeast Asia.
-</div>
 
 #### **Our Core Values**
 ##### **Independence**
 - We are impartial, objective, equitable and balanced.
 - We avoid improper influences or conflicts of interest that would undermine our independent and unbiased judgement.
-
 
 ##### **Ethical Approach**
 - We will conduct our activities in accordance with the highest standards of ethical behavior.
