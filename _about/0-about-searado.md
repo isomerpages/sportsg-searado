@@ -7,9 +7,9 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) was established b
 </div>
 
 <div class="p-2">
-    <p class="text-bold">
         <h3 class="text-green">
-Our Vision </p> </h3>
+Our Vision </h3>
+</div>
 <div class="p-5">
 Value and foster doping-free sport in Southeast Asia. 
 </div>
