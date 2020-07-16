@@ -13,4 +13,4 @@ and these workshops:
 - Project Planning Workshop
 In addition, upon request, SEARADO collaborates with Testing Authorities and International Federations to carry Out of Competition Testing, as well as, support Regional Games Organizers in carrying out various anti-doping activities.
 
-Please fill in this [form] (https://forms.gle/EDkF5wW29D2as6ua7) if you are keen on hosting the workshop or are interested in any of the services provided.
+Please fill in this [form](https://forms.gle/EDkF5wW29D2as6ua7) if you are keen on hosting the workshop or are interested in any of the services provided.
