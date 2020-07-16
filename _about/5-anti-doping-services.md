@@ -8,7 +8,9 @@ One of the main objectives of SEARADO is to assist member countries with their a
 - Results Management
 - Therapeutic Use Exemption
 - Anti Doping Education Trainer’s Course
+
 and these workshops:
+
 - NADO Strategic Planning Workshop
 - Project Planning Workshop
 In addition, upon request, SEARADO collaborates with Testing Authorities and International Federations to carry Out of Competition Testing, as well as, support Regional Games Organizers in carrying out various anti-doping activities.
