@@ -18,5 +18,4 @@ Athletes and the support personnel can contact the respective Southeast Asia Nat
 | Timor-Leste  | Timoe-Leste NOC  |
 | Vietnam  | [Vietnam Anti-Doping Agency (VADA)](http://www.vada.org.vn/)  |
 
-![facebook](https://i.ibb.co/vjKKsp5/facebook.png | width=24)
-<img src="https://i.ibb.co/vjKKsp5/facebook.png" width"240" />
+![facebook](https://i.ibb.co/vjKKsp5/facebook.png)
