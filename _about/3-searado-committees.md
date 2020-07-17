@@ -28,3 +28,10 @@ permalink: /about/searado-committees/
 | RESULTS MANAGEMENT (RM) |
 | --- |
 | Mr. Thomas Delaye-Fontin (Advisor) |
+
+| DOPING CONTROL OFFICERS (DCO) COMMITTEE MEMBERS |
+| --- |
+| Ms. Nazima Begum Kassim (Chairperson)<br>Malaysia |  
+| Ms. Chika Hirai (Advisor)<br>Japan |
+| Ms. Irene Tan<br>Singapore |
+| Mr. Thassana Thairat<br>Thailand |
