@@ -2,6 +2,8 @@
 title: Milestones
 permalink: /about/milestones/
 ---
+| Year | Event/Activity |
+| --- | --- |
 |  2006 | <ul><li>Establishment of SEA RADO</li><li>Malaysia achieves code-compliance</li></ul> |
 | 2007 | Singapore and Thailand achieve code-compliance |
 | 2008 | Brunei Darussalam and Indonesia achieve code-compliance |
