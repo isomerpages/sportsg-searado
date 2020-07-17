@@ -4,15 +4,15 @@ permalink: /about/searado-committees/
 ---
 | COMMITTEE MEMBERS |
 | --- |
-| Mr. Abdul Salim bin Ahmed Ibrahim<br>Singapore |  
-| Mr. Raymond Ng Yong Ern<br>Singapore |
-| Mr Lim Tat<br>Singapore |
-| Ms NUUR ‘IZZAH HAFIIZAH BINTI HAJI KIFLI<br>Brunei |
 | Mr Richard Wee<br>Malaysia |
 | Mr. Syamil Hilmy<br>Malaysia |
+| Ms NUUR ‘IZZAH HAFIIZAH BINTI HAJI KIFLI<br>Brunei |
 | Mr Dara Sorn<br>Cambodia |
 | Mr Rizky Mediantoro, SH.<br>Indonesia |
 | Dr Antonio Alejandro D. Rebosa<br>Philippines |
+| Mr. Abdul Salim bin Ahmed Ibrahim<br>Singapore |  
+| Mr. Raymond Ng Yong Ern<br>Singapore |
+| Mr Lim Tat<br>Singapore |
 | Mr. Niphon Hakimi<br>Thailand |
 | Ms. Nguyen Phuong Anh<br>Vietnam |
 | Ms Nguyen Thi My Dung<br>Vietnam |
