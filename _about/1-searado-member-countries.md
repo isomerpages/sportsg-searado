@@ -17,5 +17,3 @@ Athletes and the support personnel can contact the respective Southeast Asia Nat
 | Thailand  | [Doping Control Agency of Thailand (DCAT)](http://www.dcat.in.th/EN/Home/HOME/Index/0?AspxAutoDetectCookieSupport=1)<br>[<img src="https://i.ibb.co/vjKKsp5/facebook.png" height="24">](https://www.facebook.com/DCAT-Doping-Control-Agency-of-Thailand-352557894841553/)  |
 | Timor-Leste  | Timoe-Leste NOC  |
 | Vietnam  | [Vietnam Anti-Doping Agency (VADA)](http://www.vada.org.vn/)<br>[<img src="https://i.ibb.co/vjKKsp5/facebook.png" height="24">](https://www.facebook.com/vada.org.vn)  |
-
-![BDADC Facebook Page](https://i.ibb.co/vjKKsp5/facebook.png height="24")
