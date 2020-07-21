@@ -14,7 +14,7 @@ Powered by ADAMS, the new Athlete Central is a simple, smart and reliable way fo
 - Improved adherence to International Standards for Testing and Investigations (ISTI)
 - A dedicated Help Desk
 
-[![App Store](/images/download-apple.png "WADA Athlete Central")](https://apps.apple.com/ch/app/athlete-central/id1438025634?l=en width="250" height="75") 
+[![App Store](/images/download-apple.png "WADA Athlete Central")](https://apps.apple.com/ch/app/athlete-central/id1438025634?l=en) 
 [![Google Play](/images/download-google.png "WADA Athlete Central")](https://play.google.com/store/apps/details?id=com.wada.athlete.central&hl=fr)
 
 <a href="https://ibb.co/2P6rcxP"><img width="250" height="75" src="https://i.ibb.co/VDNGMRD/download-apple.png" alt="download-apple" border="0" /></a>
