@@ -1,5 +1,5 @@
 ---
 title: Roles & Responsibilities
-permalink: /Athlete/Resources/Roles & Responsibilities/
+permalink: /Personnel/Athlete/Roles & Responsibilities/
 third_nav_title: Athlete
 ---
