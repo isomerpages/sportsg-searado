@@ -18,6 +18,7 @@ Powered by ADAMS, the new Athlete Central is a simple, smart and reliable way fo
 [![Google Play](/images/download-google.png "WADA Athlete Central")](https://play.google.com/store/apps/details?id=com.wada.athlete.central&hl=fr)
 
 <a href="https://ibb.co/2P6rcxP"><img width="250" height="75" src="https://i.ibb.co/VDNGMRD/download-apple.png" alt="download-apple" border="0" /></a>
+<a href="https://imgbb.com/"><img width="250" height="75" src="https://i.ibb.co/VM2cVBq/download-google.png" alt="download-google" border="0"></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WLDH39zboRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
