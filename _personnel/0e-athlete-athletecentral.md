@@ -22,4 +22,6 @@ Powered by ADAMS, the new Athlete Central is a simple, smart and reliable way fo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WLDH39zboRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="https://ibb.co/zPGTsf4"><img src="https://i.ibb.co/zPGTsf4/download-google.png" alt="download-google" border="0"></a>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BkXi6J4FtIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
