@@ -1,6 +1,6 @@
 ---
-title: Online Learning
-permalink: /resources/education/online-learning
+title: Online Learning (ADeL)
+permalink: /resources/education/online-learning(ADeL)
 third_nav_title: Education
 ---
 ![ADeL](/images/adel.png "Anti-Doping e-Learning Platform")
