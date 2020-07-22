@@ -5,9 +5,7 @@ third_nav_title: Education
 ---
 #### **Anti-Doping e-Learning platform (ADeL)**
 <a href="https://adel.wada-ama.org/" target="_blank"><img align="left" src="http://quiz.wada-ama.org/linkProgram/images-2010/ADeLWebSticker-transparent.png" alt="WADA’s anti-doping eLearning platform (ADeL)" style="border: none;padding=20px;width:114px;height:240px;" /></a>
-Anti-Doping e-Learning Platform (ADeL): [https://adel.wada-ama.org/](https://adel.wada-ama.org/)
-
-ADeL offers access to all topics related to clean sport and anti-doping. It offers courses for athletes, coaches, doctors, administrators and anyone interested in learning more about anti-doping and protecting the values of clean sport.
+The [Anti-Doping e-Learning Platform (ADeL)](https://adel.wada-ama.org/) offers access to all topics related to clean sport and anti-doping. It offers courses for athletes, coaches, doctors, administrators and anyone interested in learning more about anti-doping and protecting the values of clean sport.
 
 #### **Parent's Guide to Support Clean Sport**
 <a href="https://www.wada-ama.org/sites/default/files/html5/edu_parents_cleansport/en/?page=1"><img src="https://i.ibb.co/LJzB23z/Screenshot-2020-07-22-at-6-26-09-PM.png" alt="Screenshot-2020-07-22-at-6-26-09-PM" border="0"></a>
