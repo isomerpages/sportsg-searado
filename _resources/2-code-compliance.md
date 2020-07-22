@@ -46,7 +46,7 @@ Ongoing WADA Support: WADA continually provides Signatories with assistance and 
 #### **Consequences of Non-Compliance**
 A legal framework for consequences of non-compliance was set by the [International Standard for Code Compliance by Signatories (ISCCS)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isccs_2020.pdf). If any non-conformity is identified, the Taskforce facilitates an open dialogue with the Signatory concerned and recommends corrective actions. Support and assistance are provided to help Signatories address all non-conformities within an agreed timeframe.
 
-The range of consequences that may be imposed on a Signatory that has failed to comply with the Code and/or International Standards on [Annex B](/resources/ISCCS-annexb-2019) of the ISCCS.
+The range of consequences that may be imposed on a Signatory that has failed to comply with the Code and/or International Standards on [Annex B](/resources/ISCCS-annexb-2019.pdf) of the ISCCS.
 
 ##### Procedure to be Followed when Non-confirmities are Identified
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MCnmPN1/Screenshot-2020-07-22-at-3-21-12-PM.png" alt="Screenshot-2020-07-22-at-3-21-12-PM" border="0"></a>
