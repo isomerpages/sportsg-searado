@@ -6,6 +6,7 @@ third_nav_title: Doping Control
 The anti-doping organization (ADO) that initiated sample collection is responsible for results management.
 
 The WADA-accredited laboratory that analyzes the A sample will report the results to the ADO responsible for results management and the World Anti-Doping Agency (WADA).
+
 ##### There are three possible results:
 **A Negative Result** – No presence of prohibited substances or methods
 
