@@ -60,10 +60,8 @@ Download the Doping Control Procedure brochure from the Resources section.
 
 #### **Modifications for Minors and Athletes with Disability**
 An athlete who is a minor or an athlete with a disability may require slight modifications to the sample collection procedure.
-
 ##### Minors
 Minors must be notified in the presence of an adult, who could be the athlete’s coach or manager, another member of Doping Control Personnel, or a representative from a National Sports Federation. The athlete may be accompanied by an athlete representative at all times during the sample collection procedure, including in the washroom area during sample provision. However, the representative will not witness the passing of the sample. If the athlete decides not to have a representative, the DCO may ask a third party to be present.
-
 ##### Athletes with Disability
 Athletes with a physical disability, or have restricted mobility or manual dexterity may ask an adult athlete representative or the DCO to assist when handling the sample collection equipment, splitting of the sample, or completing the doping control form. The representative may complete the required sections of the doping control form and sign the form on the athlete’s behalf if the athlete is unable to do so.
 
