@@ -30,9 +30,11 @@ Doping Control or Testing is central to the fight against doping in sport. Athle
 Refusing to be tested could result in a ban from sport, so compliance is mandatory if selected. Athletes can be asked to provide both urine and blood samples, and specially trained and accredited doping control personnel will observe the athlete at all times, including when providing the sample.
 
 **In-Competition Testing**
+
 Only one anti-doping organization shall conduct testing at an event. In-competition testing commence 12 hours before a competition in which the athlete is scheduled to participate though the end of the competition and the sample collection process related to the competition. Athletes can be chosen by random selection, finishing position or by being selected for a particular reason.
 
 **Out-of-Competition Testing**
+
 Out-of-competition, or testing done outside of an event, can be conducted at any time and at any place. Out-of-Competition means any period which is not In-Compeition.
 
 #### **Testing Advice**
