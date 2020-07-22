@@ -17,7 +17,7 @@ Athletes may at times experience a medical condition requiring the use of partic
 #### **Online Drug Information Services**
 Athletes can check if the medication or the method of treatment is prohibited under the Prohibited List by one of the following ways:
 
-1. [Global Drug Reference Online](https://www.globaldro.com/Home)
+1. [Global Drug Reference Online (Global DRO)](https://www.globaldro.com/Home)
 2. [Australian Sports Anti-Doping Authority’s (ASADA) GlobalDRO](https://www.globaldro.com/AU/search)
 3. [Hong Kong Anti-Doping Committee’s Drug in Sport](http://www.druginsport.hk/)
 4. [Anti-Doping Singapore’s (ADS) Check Drugs](https://www.sportsingapore.gov.sg/Athletes-Coaches/Anti-Doping-Singapore)
