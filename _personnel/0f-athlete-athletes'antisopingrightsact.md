@@ -1,6 +1,6 @@
 ---
 title: Athletes' Anti-Doping Rights Act
-permalink: /Personnel/Athlete/Athletes' Anti-Doping Rights Act/
+permalink: /personnel/athlete/athletes'-anti-doping-rights-act/
 third_nav_title: Athlete
 ---
 The [Athletes’ Anti-Doping Rights Act](https://www.wada-ama.org/sites/default/files/resources/files/athlete_act_en.pdf), previously known as the Anti-Doping Charter of Athlete Rights, was developed by WADA’s Athlete Committee in consultation with thousands of athletes and stakeholders worldwide.
