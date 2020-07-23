@@ -6,4 +6,4 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) Board is made up 
 
 |  The members of the SEARADO Board are:  |
 | --- |
-|  Dr. Patrick Goh (Chairman)<br>Singapore <a><img align="left" src="https://i.ibb.co/ck2sVbN/Screenshot-2020-07-23-at-3-20-09-PM.png" style="border:none;width:283px;height:290px;" /></a> |
+|  Dr. Patrick Goh (Chairman)<br>Singapore <a><img align="left" src="https://i.ibb.co/ck2sVbN/Screenshot-2020-07-23-at-3-20-09-PM.png" style="border:none;width:220px;height:290px;" /></a> |
