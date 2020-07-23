@@ -1,5 +1,5 @@
 ---
 title: Resources
-permalink: /Personnel/Athlete/Resources/
+permalink: /personnel/athlete/resources/
 third_nav_title: Athlete
 ---
