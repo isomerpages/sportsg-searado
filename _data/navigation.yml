@@ -21,11 +21,8 @@ links:
     sublinks:
       - title: WADA News
         url: https://www.wada-ama.org/en/media/news
-      - title: UNESCO
-        url: http://www.unesco.org/new/en/social-and-human-sciences/themes/anti-doping/
-      - title: Online Drug Info
-        url: https://www.site.com/url/to/page/
-      - title: ADAMS
-        url: http://www.wada-ama.org/en/ADAMS/
   - title: News And Events
     resource_room: true
+    sublinks:
+        - title: WADA News
+        url: https://www.wada-ama.org/en/media/news
