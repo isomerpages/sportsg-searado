@@ -1,6 +1,6 @@
 ---
-title: 
-permalink: /guidelines/
+title: About Guidelines
+permalink: /guidelines/about-guidelines/
 ---
 #### **Guidelines**
 Guidelines provide signatories with recommended practices for several aspects of anti-doping programming. These model guidelines are not mandatory, but offer technical guidance to ADOs in the implementation of programs.
