@@ -1,6 +1,6 @@
 ---
 title: Roles & Responsibilities
-permalink: /Personnel/Athlete/Roles & Responsibilities/
+permalink: /personnel/athlete/roles&responsibilities/
 third_nav_title: Athlete
 ---
 Athletes have certain rights and responsibilities with respect to doping control, and it is important to know what they are.
