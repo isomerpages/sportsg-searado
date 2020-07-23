@@ -15,7 +15,7 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) Board is made up 
 |  <a><img src="https://i.ibb.co/8zfkFLt/Screenshot-2020-07-23-at-3-51-01-PM.png" alt="Screenshot-2020-07-23-at-3-51-01-PM" style="border:none;width:180px;height:180px;"></a>Dr. Zaini K Saragih<br>Indonesia  |
 |  <a><img src="https://i.ibb.co/YtjJYzj/Screenshot-2020-07-23-at-3-51-33-PM.png" alt="Screenshot-2020-07-23-at-3-51-33-PM" style="border:none;width:180px;height:180px;"></a>Dr. Southanom Inthavong<br>Laos  |
 |  <a><img src="https://i.ibb.co/jGv7KNJ/Screenshot-2020-07-23-at-3-52-28-PM.png" alt="Screenshot-2020-07-23-at-3-52-28-PM" style="border:none;width:180px;height:198px;"></a>Ms Azura bte Adidin<br>Malaysia  |
-|  Dr. Mya Lay Sein<br>Myanmar  |
+|  <a><img src="https://i.ibb.co/s3Tv7GW/Screenshot-2020-07-23-at-3-54-49-PM.png" alt="Screenshot-2020-07-23-at-3-54-49-PM" style="border:none;width:180px;height:216px;"></a>Dr. Mya Lay Sein<br>Myanmar  |
 |  Dr. Alejandro Pineda<br>Philippines  |
 |  Dr. Meechai (Hilary) Inwood<br>Thailand  |
 |  TBC<br>Timor-Leste  |
