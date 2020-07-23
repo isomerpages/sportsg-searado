@@ -24,6 +24,8 @@ collections:
     output: true
   personnel:
     output: true
+  guidelines:
+    output: true
   resources:
     output: true
 resources_name: news-and-events
