@@ -1,5 +1,5 @@
 ---
-title: Anti Doping Services
+title: Anti-Doping Services
 permalink: /about/anti-doping-services/
 ---
 #### **Doping Control Services**
