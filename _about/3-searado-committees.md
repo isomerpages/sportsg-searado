@@ -1,5 +1,5 @@
 ---
-title: Searado Committees
+title: SEARADO Committees
 permalink: /about/searado-committees/
 ---
 | COMMITTEE MEMBERS |
