@@ -7,9 +7,9 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) Board is made up 
 |  The members of the SEARADO Board are:  |
 | --- |
 |  <a><img align="left" src="https://i.ibb.co/ck2sVbN/Screenshot-2020-07-23-at-3-20-09-PM.png" style="border:none;width:180px;height:234px;" /></a>Dr. Patrick Goh (Chairman)<br>Singapore  |
-|  Mr Gobinathan Nair (Director General)<br>Singapore<br>Gobinathan_Nair@sport.gov.sg  |
-|  Mr Kazuhiro Hayashi (Advisor)<br>Director, Asia/Oceania Office<br>WADA  |
-|  Mr Francisco León (Advisor)<br>Senior Manager, Program Development and NADO/RADO Relations<br>WADA  |
+|  <a><img align="left" src="https://i.ibb.co/pjJT9Gf/Screenshot-2020-07-23-at-3-43-27-PM.png" alt="Screenshot-2020-07-23-at-3-43-27-PM" style="border:none;width:180px;height:234px;"></a>Mr Gobinathan Nair (Director General)<br>Singapore<br>Gobinathan_Nair@sport.gov.sg  |
+|  <a><img src="https://i.ibb.co/6yts7Q1/Screenshot-2020-07-23-at-3-46-21-PM.png" alt="Screenshot-2020-07-23-at-3-46-21-PM" style="border:none;width:180px;height:234px;"></a>Mr Kazuhiro Hayashi (Advisor)<br>Director, Asia/Oceania Office<br>WADA  |
+|  <a><img src="https://i.ibb.co/RN9hZBV/Screenshot-2020-07-23-at-3-48-25-PM.png" alt="Screenshot-2020-07-23-at-3-48-25-PM" style="border:none;width:180px;height:234px;"></a>Mr Francisco León (Advisor)<br>Senior Manager, Program Development and NADO/RADO Relations<br>WADA  |
 |  Mr Zulkifli Ismail<br>Brunei Darussalam  |
 |  Dr. Ouk Diven<br>Cambodia  |
 |  Dr. Zaini K Saragih<br>Indonesia  |
