@@ -22,4 +22,5 @@ These Guidelines are not mandatory, but are intended to give clarity and additio
 
 #### Other Useful Links
 [WADA Q&A on Therapeutic Use Exemption](https://www.wada-ama.org/en/questions-answers/therapeutic-use-exemption-tue)
+
 [WADA Checklists for TUE applications](https://www.wada-ama.org/en/resources/search?f%5B0%5D=field_resource_collections%3A225&f%5B1%5D=field_resource_versions%253Afield_resource_version_language%3A91)
