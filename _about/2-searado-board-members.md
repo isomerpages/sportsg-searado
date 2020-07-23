@@ -7,9 +7,9 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) Board is made up 
 |  The members of the SEARADO Board are:  |
 | --- |
 |  <a><img align="left" src="https://i.ibb.co/ck2sVbN/Screenshot-2020-07-23-at-3-20-09-PM.png" style="border:none;width:180px;height:234px;" /></a>Dr. Patrick Goh (Chairman)<br>Singapore  |
-|  <a><img align="left" src="https://i.ibb.co/3zZ0JDv/Screenshot-2020-07-23-at-3-43-27-PM.png"  style="border:none;width:180px;height:180px;"></a>Mr Gobinathan Nair (Director General)<br>Singapore<br>Gobinathan_Nair@sport.gov.sg  |
+|  <a><img align="left" src="https://i.ibb.co/3zZ0JDv/Screenshot-2020-07-23-at-3-43-27-PM.png"  style="border:none;width:180px;height:234px;"></a>Mr Gobinathan Nair (Director General)<br>Singapore<br>Gobinathan_Nair@sport.gov.sg  |
 |  <a><img align="left" src="https://i.ibb.co/C7fHx4v/Screenshot-2020-07-23-at-4-15-22-PM.png"  style="border:none;width:180px;height:180px;"></a>Mr Kazuhiro Hayashi (Advisor)<br>Director, Asia/Oceania Office<br>WADA  |
-|  <a><img align="left" src="https://i.ibb.co/rHw7X15/Screenshot-2020-07-23-at-4-15-59-PM.png" style="border:none;width:180px;height:234px;"></a>Mr Francisco León (Advisor)<br>Senior Manager, Program Development and NADO/RADO Relations<br>WADA  |
+|  <a><img align="left" src="https://i.ibb.co/rHw7X15/Screenshot-2020-07-23-at-4-15-59-PM.png" style="border:none;width:180px;height:180px;"></a>Mr Francisco León (Advisor)<br>Senior Manager, Program Development and NADO/RADO Relations<br>WADA  |
 |  <a><img align="left" src="https://i.ibb.co/2j4Z021/Screenshot-2020-07-23-at-4-14-29-PM.png"  style="border:none;width:180px;height:180px;"></a>Mr Zulkifli Ismail<br>Brunei Darussalam  |
 |  <a><img align="left" src="https://i.ibb.co/W540QFB/Screenshot-2020-07-23-at-4-13-50-PM.png" style="border:none;width:180px;height:180px;"></a>Dr. Ouk Diven<br>Cambodia  |
 |  <a><img align="left" src="https://i.ibb.co/z2NRGjv/Screenshot-2020-07-23-at-4-12-53-PM.png" style="border:none;width:180px;height:180px;"></a>Dr. Zaini K Saragih<br>Indonesia  |
