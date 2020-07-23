@@ -1,6 +1,6 @@
 ---
 title: Whereabouts Information
-permalink: /Personnel/Athlete/Whereabouts Information/
+permalink: /personnel/athlete/whereabouts-information/
 third_nav_title: Athlete
 ---
 Athletes are role models and they have an important responsibility to protect the integrity of their sport. Providing whereabouts is about protecting the athlete’s right to clean sport. Providing complete, current and accurate whereabouts information allows the Anti-Doping Organization (ADO) to locate the athlete with no advance notice to test athletes who choose to cheat themselves by doping.
