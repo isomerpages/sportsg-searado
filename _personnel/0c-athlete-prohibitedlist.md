@@ -1,6 +1,6 @@
 ---
 title: Prohibitied List
-permalink: /Personnel/Athlete/Prohibitied List/
+permalink: /personnel/athlete/prohibitied-list/
 third_nav_title: Athlete
 ---
 #### **Principle of Strict Liability**
