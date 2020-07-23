@@ -1,6 +1,6 @@
 ---
-title: International Standards and Guidelines
-permalink: /resources/international-standards-and-guidelines/
+title: International Standards
+permalink: /resources/international-standards/
 ---
 #### **International Standards**
 The World Anti-Doping Code (Code) works in conjunction with eight International Standards aimed at bringing harmonization among anti-doping organizations in various technical areas, namely:
