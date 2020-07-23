@@ -1,5 +1,5 @@
 ---
-title: Therapeutic Use Exemption
+title: Therapeutic Use Exemption (TUE)
 permalink: /resources/therapeutic-use-exemption/
 ---
 #### [International Standard for Therapeutic Use Exemption (ISTUE)](https://www.wada-ama.org/sites/default/files/resources/files/istue_2019_en_new.pdf)
