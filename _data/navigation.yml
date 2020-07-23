@@ -15,14 +15,13 @@ links:
     collection: about
   - title: Personnel
     collection: personnel
+  - title: Guidelines
+    collection: guidelines
   - title: Resources
     collection: resources
-  - title: External Links
-    sublinks:
-      - title: WADA News
-        url: https://www.wada-ama.org/en/media/news
   - title: News And Events
     resource_room: true
+  - title: External Links
     sublinks:
   - title: WADA News
     url: https://www.wada-ama.org/en/media/news
