@@ -26,5 +26,6 @@ The COP usually meets in ordinary session at UNESCO Headquarters every two years
 In addition to States Parties and other Member States of UNESCO, the World Anti-Doping Agency (WADA) is invited as an advisory organization to the Conference. The International Olympic Committee (IOC), the International Paralympic Committee (IPC), the Council of Europe (CoE), the Intergovernmental Committee for Physical Education and Sport (CIGEPS) and other intergovernmental sports organizations are invited as observers.
 
 **[Operational strategy of the Fund for the Elimination of Doping in Sport 2020-2025](https://unesdoc.unesco.org/ark:/48223/pf0000370041)**
+
 **[Resolutions](https://unesdoc.unesco.org/ark:/48223/pf0000372372)**
 
