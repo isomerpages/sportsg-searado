@@ -12,8 +12,8 @@ Entered into force on 1 February 2007 – becoming the most successful conventio
 
 The Convention helps to harmonize anti-doping legislation, guidelines, regulations, and rules internationally in order to provide a fair and equitable playing environment for all athletes. 
 
-#### Conference of Parties to the International Convention against Doping in Sport, 7th (Paris 2019)
-The [Conference of Parties (COP)](https://en.unesco.org/themes/sport-and-anti-doping/convention/governance) is the sovereign body of the Convention. It has overall responsibility for its implementation. 
+#### [Conference of Parties to the International Convention against Doping in Sport, 7th (Paris 2019)](https://en.unesco.org/themes/sport-and-anti-doping/convention/governance)
+The Conference of Parties (COP) is the sovereign body of the Convention. It has overall responsibility for its implementation. 
 
 The functions of the COP, as foreseen in Article 30 of the Convention, include: 
 - Promotion of the purpose of the Convention; 
