@@ -3,7 +3,7 @@ title: How to Apply for TUE
 permalink: /personnel/therapeutic-use-exemption-committee/how-to-apply-for-tue/
 third_nav_title: Therapeutic Use Exemption Committee (TUEC)
 ---
-Check with your NADO on the application process.
+##### Check with your NADO on the application process.
 
 NADOs can also download the [TUE Application Form](/personnel/TUE-application-form-template.docx) and customise the form for your needs.
 
