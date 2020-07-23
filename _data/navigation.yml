@@ -23,4 +23,5 @@ links:
     resource_room: true
   - title: External Links
     sublinks:
-        - url: https://www.wada-ama.org/en/media/news
+      - title: WADA News
+        url: https://www.wada-ama.org/en/media/news
