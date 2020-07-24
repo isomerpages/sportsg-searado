@@ -1,6 +1,6 @@
 ---
 title: Testing Procedure
-permalink: /guidelines/doping-control/testing-procedure/
+permalink: /information-for-stakeholders/doping-control/testing-procedure/
 third_nav_title: Doping Control
 ---
 Watch the video below on "The Doping Control Process for Athletes".
