@@ -17,7 +17,7 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: (65) 6500 5383 (Tel)
-    - phone: (65) 6440 9205 (Fax)
+    - (Tel) phone: (65) 6500 5383
+    - phone: (65) 6440 9205
     - email: Gobinathan_Nair@sport.gov.sg
 ---
