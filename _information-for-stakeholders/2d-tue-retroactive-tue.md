@@ -1,6 +1,6 @@
 ---
 title: Retroactive TUE
-permalink: /personnel/therapeutic-use-exemption/retroactive-tue/
+permalink: /information-for-stakeholders/therapeutic-use-exemption/retroactive-tue/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
 You may only apply retroactively for a TUE if:
