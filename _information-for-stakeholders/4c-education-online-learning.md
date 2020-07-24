@@ -1,6 +1,6 @@
 ---
 title: Online Learning
-permalink: /resources/education/online-learning
+permalink: /information-for-stakeholders/education/online-learning
 third_nav_title: Education
 ---
 #### **Anti-Doping e-Learning platform (ADeL)**
