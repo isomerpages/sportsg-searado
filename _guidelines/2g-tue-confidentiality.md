@@ -1,6 +1,6 @@
 ---
 title: Confidentiality
-permalink: /personnel/therapeutic-use-exemption/confidentiality/
+permalink: /information-for-stakeholders/therapeutic-use-exemption/confidentiality/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
 All the information contained in a TUE application including the supporting medical information, and any other information related to the evaluation of your TUE request is kept strictly confidential and treated in accordance with the Athlete’s Declaration contained in the ADAMS TUE process. All members of the TUEC and any other authorized recipients of your TUE request and related information (as described in the Athlete’s Declaration) are subject to a professional or contractual confidentiality obligation.
