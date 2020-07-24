@@ -7,6 +7,7 @@ locations:
   - title: Main Office
     address:
         - Southeast Asia Regional Anti-Doping Organization c/o Singapore Sports Council
+        - 
         - 3 Stadium Drive
         - Singapore 397630
     maps_link: https://goo.gl/maps/HrWbMWc4PdrXuTEX8
@@ -17,7 +18,7 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: (65) 6500 5383 <tel>
+    - phone: (65) 6500 5383
     - phone: (65) 6440 9205
     - email: Gobinathan_Nair@sport.gov.sg
 ---
