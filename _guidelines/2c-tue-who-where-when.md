@@ -1,6 +1,6 @@
 ---
 title: Who should apply, Where, and When
-permalink: /personnel/therapeutic-use-exemption/who-should-apply-where&when/
+permalink: /information-for-stakeholders/therapeutic-use-exemption/who-should-apply-where&when/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
 *First*, check if the medication or method you intend to take or use appears on the Prohibited List. You can also check with your NADO if there is a reliable local source to check or you can check at globaldro.com. However, do note that [Global DRO](https://www.globaldro.com/Home) will not have your local registered drugs
