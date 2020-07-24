@@ -1,6 +1,6 @@
 ---
 title: Sanctions for Anti-doping Ruls Violations (ADRVs) 
-permalink: /guidelines/results-management/sanctions/
+permalink: /information-for-stakeholders/results-management/sanctions/
 third_nav_title: Results Management
 ---
 #### **What are the sanctions for Anti-doping Rule Violations (ADRVs)?**
