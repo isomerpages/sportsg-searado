@@ -19,9 +19,9 @@ sections:
             - title: Highlight B
               description: Important highlight B is equally important
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: WADA Youtube Channel
+              description: The official Youtube channel of the World Anti-Doping Agency (WADA)
+              url: https://www.youtube.com/user/wadamovies
     - infobar:
         title: Infobar title
         subtitle: Subtitle
