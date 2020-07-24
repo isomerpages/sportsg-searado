@@ -16,9 +16,9 @@ sections:
             - title: Highlight A
               description: Important highlight A is important
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
+            - title: Latest News and Events
+              description: SEARADO's Latest News and Events
+              url: /news-and-events/latest/post/
             - title: WADA Youtube Channel
               description: The official Youtube channel of the World Anti-Doping Agency (WADA)
               url: https://www.youtube.com/user/wadamovies
