@@ -1,6 +1,6 @@
 ---
 title: How to Apply for TUE
-permalink: /personnel/therapeutic-use-exemption/how-to-apply-for-tue/
+permalink: /information-for-stakeholders/therapeutic-use-exemption/how-to-apply-for-tue/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
 ##### Check with your NADO on the application process.
