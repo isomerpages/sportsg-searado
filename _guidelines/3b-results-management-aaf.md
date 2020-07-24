@@ -1,6 +1,6 @@
 ---
 title: Adverse Analytical Finding (AAF) 
-permalink: /guidelines/results-management/aaf/
+permalink: /information-for-stakeholders/results-management/aaf/
 third_nav_title: Results Management
 ---
 #### **What happens if the 'A' Sample produces a positive result?**
