@@ -1,6 +1,6 @@
 ---
 title: Criteria for Granting TUE
-permalink: /personnel/therapeutic-use-exemption/criteria/
+permalink: /information-for-stakeholders/therapeutic-use-exemption/criteria/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
 In some instances, there may not be alternative medication or method to treat an illness or medical condition. TUEs ensure that the athlete is able to obtain the best treatment for a legitimate medical condition, even if treatment requires a prohibited substance or method. With the authorisation to consume the needed medication, it avoids the risk of sanctions if a positive test were to be detected.
