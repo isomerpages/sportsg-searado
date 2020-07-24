@@ -4,7 +4,7 @@ favicon: /images/favicon-searado.jpg
 
 # Site colors
 colors:
-  primary-color: '#008000'
+  primary-color: '#00854E'
   secondary-color: '#74A674'
   media-colors:
     - title: media-color-one
