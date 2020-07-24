@@ -4,7 +4,7 @@ title: Southeast Asia RADO
 description: Established on 30 November 2006
 image: /images/searado-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Check out our [Anti-Doping Services](/about/5-anti-doping-services.md)!
 sections:
     - hero:
         title: Southeast Asia RADO
