@@ -1,6 +1,6 @@
 ---
 title: About Results Management
-permalink: /guidelines/results-management/about-results-management/
+permalink: /information-for-stakeholders/results-management/about-results-management/
 third_nav_title: Results Management
 ---
 #### **About Results Management**
