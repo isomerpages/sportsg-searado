@@ -18,7 +18,7 @@ sections:
               url: https://google.com
             - title: Latest News and Events
               description: SEARADO's Latest News and Events
-              url: /news-and-events/latest/post/
+              url: /news-and-events/latest/test/
             - title: WADA Youtube Channel
               description: The official Youtube channel of the World Anti-Doping Agency (WADA)
               url: https://www.youtube.com/user/wadamovies
