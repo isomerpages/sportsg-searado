@@ -7,7 +7,6 @@ locations:
   - title: Main Office
     address:
         - Southeast Asia Regional Anti-Doping Organization c/o Singapore Sports Council
-        - 
         - 3 Stadium Drive
         - Singapore 397630
     maps_link: https://goo.gl/maps/HrWbMWc4PdrXuTEX8
