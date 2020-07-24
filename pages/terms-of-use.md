@@ -2,8 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms of Use
-
+### **General Terms of Use**
 ##### General
 1. This website is owned by the Singapore Sports Council (rebranded as “Sport Singapore” or “SportSG” with effect from 1 April 2014).
 2. By accessing this website and any pages thereof, you shall be deemed to have agreed to be legally bound by the Terms of Use below. If you do not agree to the Terms of Use, please discontinue your access.
