@@ -1,6 +1,6 @@
 ---
 title: Anti-Doping Rules
-permalink: /guidelines/doping-control/anti-doping-rules/
+permalink: /information-for-stakeholders/doping-control/anti-doping-rules/
 third_nav_title: Doping Control
 ---
 The World Anti-Doping Code (“WADA Code”) is a document that harmonizes anti-doping regulations across all sports and all countries in the world. It provides a framework for anti-doping programmes and activities, so that all athletes have the benefit of the same anti-doping policies and procedures.
