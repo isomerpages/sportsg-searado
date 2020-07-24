@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Southeast Asia RADO
         subtitle: Established on 30 November 2006
-        background: /images/front-page.jpeg
+        background: /images/hero-banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
