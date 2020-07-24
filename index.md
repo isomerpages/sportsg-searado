@@ -13,9 +13,9 @@ sections:
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
+            - title: Speak Up!
+              description: Report Doping
+              url: https://speakup.wada-ama.org/WebPages/Public/FrontPages/Default.aspx
             - title: Latest News and Events
               description: SEARADO's Latest News and Events
               url: /news-and-events/latest/
