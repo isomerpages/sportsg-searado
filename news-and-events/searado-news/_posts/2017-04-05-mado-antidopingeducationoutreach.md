@@ -16,3 +16,5 @@ A total of 12 Asian countries participated in the competition held in Nay Pyi Ta
 ![MADO Anti Doping Education Outreach Programme](/images/for-posts/2017/mado-education-outreach-3.jpg)
 
 <a><img src="https://i.ibb.co/K07HYTw/mado-education outreach-3.jpg" style="border:none;width:430px;height:525px;></a>
+
+<a><img src="https://i.ibb.co/K07HYTw/mado-education-outreach-3.jpg" alt="mado-education-outreach-3" style="border:none;width:430px;height:525px;></a>
