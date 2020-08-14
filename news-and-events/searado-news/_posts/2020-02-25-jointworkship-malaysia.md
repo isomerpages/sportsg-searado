@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEARADO invited to speak in Joint Workshop in Malaysia, Kuala Lumput
+title: SEARADO invited to speak in a Joint Workshop in Malaysia, Kuala Lumpur
 permalink: /news-and-events/latest/jointworkshop-malaysia-2020
 image: /images/for-posts/2020/jointworkshop-malaysia-0.jpg
 ---
