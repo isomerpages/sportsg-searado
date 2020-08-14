@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MADO Anti-Doping Outreach Programme
-permalink: /news-and-events/searado-news/madoantidoping-outreachprogramme
+permalink: /news-and-events/nado-updates/madoantidoping-outreachprogramme
 image: /images/for-posts/2017/mado-education-outreach-0.jpg
 ---
 ![MADO Anti Doping Education Outreach Programme](/images/for-posts/2017/mado-education-outreach-0.jpg)
