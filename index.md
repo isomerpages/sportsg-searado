@@ -16,8 +16,8 @@ sections:
             - title: Speak Up!
               description: Report Doping
               url: https://speakup.wada-ama.org/WebPages/Public/FrontPages/Default.aspx
-            - title: Latest News and Events
-              description: SEARADO's Latest News and Events
+            - title: SEARADO's Latest 
+              description: News and Events
               url: /news-and-events/latest/
             - title: WADA Youtube Channel
               description: The official Youtube channel of the World Anti-Doping Agency (WADA)
