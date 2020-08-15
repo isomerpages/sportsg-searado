@@ -12,10 +12,10 @@ Anti-Doping Agency of Malaysia (ADAMAS) took the opportunity to reach out to the
 
 At the booth, athletes and support personnel had a chance to try out the “PLAY TRUE” quiz and the level 1&2 Real Champion quiz adapted from the JADA’s Education Package. Those achieving a minimum score of 70% was rewarded with a gift. In total over 300 Athletes and close to 100 support personnel took part in the Outreach.  Apart from the Quiz, it provided us a great opportunity to interact with the athletes and entourage and highlight to them the various anti doping programmes and clear their doubts on various queries that they posed.
 
-![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-1.jpeg)
+![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-1.jpg)
 
 ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-2.jpeg)
 
 ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-3.jpeg)|![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-4.jpeg)|![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-5.jpeg)
 
-![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-6.jpeg)|![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-7.jpeg)
+![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-6.jpeg)|![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-7.jpg)
