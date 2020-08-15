@@ -14,8 +14,8 @@ SEARADO hope to follow up and assist with member countries in the development an
 
 ![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-1.jpg) 
 
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-2.jpg) | ![Ms Yaya](/images/for-posts/2018/searado-antidopingedworkshop-3.jpg) 
+![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-2.jpg) | ![Ms Yaya](/images/for-posts/2018/searado-antidopingedworkshop-3.jpg "Ms Yaya") 
 
-![Mr Sai Fei](/images/for-posts/2018/searado-antidopingedworkshop-4.jpg) | ![Mr Chris](/images/for-posts/2018/searado-antidopingedworkshop-5.jpg) 
+![Mr Sai Fei](/images/for-posts/2018/searado-antidopingedworkshop-4.jpg "Mr SaiFei") | ![Mr Chris](/images/for-posts/2018/searado-antidopingedworkshop-5.jpg "Mr Chris") 
 
-![Mr Ken](/images/for-posts/2018/searado-antidopingedworkshop-6.jpg) | ![Ms Natanya](/images/for-posts/2018/searado-antidopingedworkshop-7.jpg)
+![Mr Ken](/images/for-posts/2018/searado-antidopingedworkshop-6.jpg "Mr Ken") | ![Ms Natanya](/images/for-posts/2018/searado-antidopingedworkshop-7.jpg "Ms Natanya")
