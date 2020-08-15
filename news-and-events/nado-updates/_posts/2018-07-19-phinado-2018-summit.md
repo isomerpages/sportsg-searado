@@ -7,6 +7,7 @@ image: /images/for-posts/2018/phinado-2018-summit-0.jpg
 ![PHINADO 2018 Summit](/images/for-posts/2018/phinado-2018-summit-0.jpg)
 
 __Anti Doping Activities by the Philippine National Anti-Doping Organization (PHI-NADO)__
+
 _By Stephanie Pagarigan and Christian Rey Rimando_
 
 The Philippine Sports Commission (PSC), Philippine National Anti-Doping Organization (PHI-NADO) in partnership with the Philippine Sports Institute (PSI) hosted back-to-back anti-doping events from July 18-20, 2018 at the Philippine International Convention Center in Pasay City. The _2018 National Summit on Anti-Doping in Sports_ was held on the first day and was followed by the two-day _2018 National Coaches Seminar on Anti-Doping in Philippine Sports_. The first day was participated by sports administrators, officials and media staff joined. Nearly 100 participants consisting of government officials, sports administrators, coaches and players from different national sport associations, local government, government units and sport organizations attended the following days. The main theme for these events is “Play Clean. Play True. Play Fair. Nope to Dope.”
