@@ -2,9 +2,9 @@
 layout: post
 title: Outreach Programme for Asian Games 2018
 permalink: /news-and-events/searado-news/outreachprogramme-asiangames-2018
-image: /images/for-posts/2018/outreachprog-asiangames.jpg
+image: /images/for-posts/2018/outreachprog-asiangames.png
 ---
-![Outreach Programme for Asian Games 2018](/images/for-posts/2018/outreachprog-asiangames.jpg)
+![Outreach Programme for Asian Games 2018](/images/for-posts/2018/outreachprog-asiangames.png)
 
 The World Anti-Doping Agency (WADA) promotes a social awareness campaign that aims to familiarize audiences with clean sport messages. In the Asian Games 2018, Mr Atus Thongdee from Thailand has attended his first Outreach Program. We had a short question and answer session with him to find out more about his experience through participating in this program.
 
