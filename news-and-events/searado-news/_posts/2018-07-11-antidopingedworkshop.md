@@ -12,16 +12,10 @@ A total of 41 individuals representing member countries of both South East Asia 
 
 SEARADO hope to follow up and assist with member countries in the development and implementation of their education plans.
 
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-1.jpg)
+![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-1.jpg) 
 
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-2.jpg)
+![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-2.jpg) | ![Ms Yaya](/images/for-posts/2018/searado-antidopingedworkshop-3.jpg) 
 
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-3.jpg)
+![Mr Sai Fei](/images/for-posts/2018/searado-antidopingedworkshop-4.jpg) | ![Mr Chris](/images/for-posts/2018/searado-antidopingedworkshop-5.jpg) 
 
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-4.jpg)
-
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-5.jpg)
-
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-6.jpg)
-
-![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-7.jpg)
+![Mr Ken](/images/for-posts/2018/searado-antidopingedworkshop-6.jpg) | ![Ms Natanya](/images/for-posts/2018/searado-antidopingedworkshop-7.jpg)
