@@ -10,7 +10,7 @@ The university athletes have celebrated the International Day of University Spor
 
 <a>![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-1.jpg)</a> <a>![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-2.jpg)</a>
 
-![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-3.jpg) ![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-4.jpg)
+![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-3.jpg)![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-4.jpg)
 
 ![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-5.jpg) ![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-6.jpg)
 
