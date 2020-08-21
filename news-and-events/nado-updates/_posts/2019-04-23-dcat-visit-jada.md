@@ -10,4 +10,6 @@ Key personnel from the Doping Control Authority of Thailand ( DCAT) and the Boar
 
 ![Group photo](/images/for-posts/2019/dcat-visit-jada-1.jpg)
 
-![Meeting photo](/images/for-posts/2019/dcat-visit-jada-2.jpg) | ![Meeting photo](/images/for-posts/2019/dcat-visit-jada-3.jpg) | ![Meeting photo](/images/for-posts/2019/dcat-visit-jada-4.jpg)
+![Meeting photo](/images/for-posts/2019/dcat-visit-jada-2.jpg)
+
+![Meeting photo](/images/for-posts/2019/dcat-visit-jada-3.jpg) | ![Meeting photo](/images/for-posts/2019/dcat-visit-jada-4.jpg)
