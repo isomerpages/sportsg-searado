@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8th ASEAN Senior Officials Meeting on Sports
-permalink: /news-and-events/nado-updates/8th-asean-senior-officials-meet
+permalink: /news-and-events/searado-news/8th-asean-senior-officials-meet
 ---
 ![Eighth ASEAN Senior Officials Meeting on Sports](/images/for-posts/2018/8th-asean-meet-0.jpeg)
 
