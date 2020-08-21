@@ -20,7 +20,8 @@ At the booth, athletes and support personnel had a chance to try out the “PLAY
 
 ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-6.jpeg) | ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-7.jpg)
 
-![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-8.jpg) | 
+![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-8.jpg)
+
 ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-9.jpg) | ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-10.jpg)
 
-[ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-11.jpg) | ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-12.jpg)
+![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-11.jpg) | ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-12.jpg)
