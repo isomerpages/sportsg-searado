@@ -10,6 +10,6 @@ The Anti Doping e-learning (ADeL)  platform of WADA offers the Coach True e-lear
 
 During this competition, Doping Control Agency of Thailand (DCAT) has focused on the implementation of the Coach True (Thai) for regional coaches who are involved in the sports of  boxing, muay thai and weightlifting. About 40 coaches enthusiastically tried out the Coach True and ultimately DCAT hopes to reach coaches of other sports soon.
 
-![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-0.jpg) | ![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-0.jpg)
+![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-1.jpg) | ![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-2.jpg)
 
-![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-0.jpg) | ![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-0.jpg)
+![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-3.jpg) | ![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-4.jpg)
