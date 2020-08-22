@@ -9,5 +9,5 @@ The DCO course was conducted by the experience DCO Trainers from SEARADO – Ms 
 
 The TUE Course was conducted by Dr Teoh Chin Sim and assisted by Dr Myat Myat Soe. A total of 28 medical Doctors participated in the course that comprise of an in-depth understanding of TUE, as well as, participants had a go looking at various case studies.
 
-The RM course was conducted by Mr Thomas Delay-Fontein who has a vast experience in the legal area and who presently works for the World Badminton Federation. A total of 30 participants took part in the course where the RM process were clearly outlined and some cases will look into
+The RM course was conducted by Mr Thomas Delay-Fontein who has a vast experience in the legal area and who presently works for the World Badminton Federation. A total of 30 participants took part in the course where the RM process were clearly outlined and some cases will look into.
 
