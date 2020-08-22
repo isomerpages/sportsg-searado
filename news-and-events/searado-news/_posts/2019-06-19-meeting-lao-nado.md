@@ -16,7 +16,7 @@ It was a very fruitful session and SEARADO would like to thank the Doping Contro
 
 SEARADO would also like to thank H.E. Mrs Sengdeuane Lachanthabopune and her team for their proactive approach and full commitment in this endeavour.
 
-![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-1.jpg) | ![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-2.jpg)
+![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-3.jpg) | ![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-2.jpg)
 
-![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-3.jpg) | ![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-4.jpg)
+![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-1.jpg) | ![Meeting Photo](/images/for-posts/2019/lao-nado-meeting-4.jpg)
 
