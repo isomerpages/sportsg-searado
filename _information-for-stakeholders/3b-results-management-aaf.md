@@ -4,7 +4,7 @@ permalink: /information-for-stakeholders/results-management/aaf/
 third_nav_title: Results Management
 ---
 #### **What happens if the 'A' Sample produces a positive result?**
-If there is an AAF on the A sample, the ADO responsible for results management will conduct an initial review to verify if the athlete has a valid [Therapeutic Use Exemption (TUE)] for the substance found in the sample, and to ensure that sample collection and analysis was conducted according to procedures.
+If there is an AAF on the A sample, the ADO responsible for results management will conduct an initial review to verify if the athlete has a valid [Therapeutic Use Exemption (TUE)](/information-for-stakeholders/2a-tue-about-tue.md) for the substance found in the sample, and to ensure that sample collection and analysis was conducted according to procedures.
 
 If the initial review does not justify the AAF, the athlete will be notified in writing of the:
 -  Sample analysis results
