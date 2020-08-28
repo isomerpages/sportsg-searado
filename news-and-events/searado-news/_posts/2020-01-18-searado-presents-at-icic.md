@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEARADO Presents at International Confereance (ICIC 2020) on Education Plan
+title: SEARADO Presents at International Conference (ICIC 2020) on Education Plan
 permalink: /news-and-events/searado-news/searado-presents-at-icic
 image: /images/for-posts/2020/International-Conference-on-Implementation-of-revised-World-Anti-Doping-Code-ICIC-2020.jpg
 ---
