@@ -7,6 +7,8 @@ third_nav_title: Education
 
 [Dietary Supplementation Practices of Singaporean Athletes](/information-for-stakeholders/research/Dietary-Practices-in-Singapore-Athletes.pdf)
 
+[Knowledge Attitude and Practice on Doping of Malaysian Student Athletes](/information-for-stakeholders/research/Knowledge-Attitude-and-Practice-on-Doping-of-Malaysian-Student-Athletes.pdf)
+
 [Nutritional supplement use among university athletes in Singapore](/information-for-stakeholders/research/Nutritional-supplement-use-among-university-athletes-in-Singapore.pdf)
 
 [Research Package for Anti-Doping Organisations](https://www.wada-ama.org/sites/default/files/resources/files/wada_social_science_research_package_ado.pdf)
