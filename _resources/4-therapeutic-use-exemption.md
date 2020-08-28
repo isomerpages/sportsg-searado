@@ -7,7 +7,7 @@ The International Standard for Therapeutic Use Exemptions is a mandatory Interna
 
 The purpose of the International Standard for Therapeutic Use Exemptions is to establish
 - the conditions that must be satisfied in order for a Therapeutic Use Exemption (or TUE) to be granted, permitting the presence of a Prohibited Substance in an Athlete’s Sample or the Athlete’s Use or Attempted Use, Possession and/or Administration or Attempted Administration of a Prohibited Substance or Prohibited Method for therapeutic reasons; 
-- the responsibilities imposed on Anti- Doping Organizations in making and communicating TUE decisions;
+- the responsibilities imposed on Anti-Doping Organizations in making and communicating TUE decisions;
 - the process for an Athlete to apply for a TUE;
 - the process for an Athlete to get a TUE granted by one Anti-Doping Organization recognized by another Anti-Doping Organization;
 - the process for WADA to review TUE decisions; and
