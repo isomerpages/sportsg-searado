@@ -7,4 +7,4 @@ third_nav_title: Education
 
 
 __2018__
-[WADA Anti-Doping Organisation Reserach Package](https://www.wada-ama.org/sites/default/files/resources/files/wada_social_science_research_package_ado.pdf)
+[Research Package for Anti-Doping Organisations](https://www.wada-ama.org/sites/default/files/resources/files/wada_social_science_research_package_ado.pdf)
