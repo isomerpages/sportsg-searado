@@ -30,7 +30,7 @@ sections:
         url: /faq/
     - resources:
         title: News and Events
-        subtitle: Learn more
+        subtitle: SEARADO and Member Countries
         button: View More
         url: /news-and-events/latest/
 ---
