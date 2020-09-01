@@ -5,44 +5,34 @@ permalink: /about/about-searado/
 The Southeast Asia Regional Anti-Doping Organization (SEARADO) was established by National Olympic Committees (NOCs) and government representatives from Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Timor-Leste, Singapore, Thailand and Vietnam with the assistance of the World Anti-Doping Agency (WADA) on 30 November 2006 in Doha, Qatar. The SEARADO office is currently located in Singapore.
 
 #### **Our Vision** 
-Value and foster doping-free sport in Southeast Asia. 
+Championing Clean Sport in Southeast Asia. 
 
 #### **Our Mission**
-To promote and co-ordinate the fight against doping of all forms in sports in Southeast Asia.
+Promoting, co-ordinating and enhancing anti-doping programmes in Southeast Asia.
 
 #### **Our Core Values**
-##### **Independence**
-- We are impartial, objective, equitable and balanced.
-- We avoid improper influences or conflicts of interest that would undermine our independent and unbiased judgement.
+##### **Integrity**
+- We will conduct our activities in accordance with the highest ethical standards and behaviour.
 
-##### **Ethical Approach**
-- We will conduct our activities in accordance with the highest standards of ethical behavior.
-- We will develop policies, procedures and practices that reflect justice, equity and integrity.
+##### **Excellence**
+- We will strive for the highest standards of professionalism and best practices
 
-##### **Accountability**
-- We will conduct our activities in accordance with principles of transparency and accountability.
-
-##### **Professionalism**
-- We will conduct our activities in accordance with principles of transparency and accountability.
-
-##### **Best Practice**
-- We will benchmark off and apply best practice standards to all our activities.
-
-##### **Proactive**
-- We will benchmark off and apply best practice standards to all our activities.
+##### **Teamwork**
+- We value collaboration and co-operation with stakeholders and partners to find best solutions to support clean sport.
 
 #### **Strategic Objectives**
-##### **1. Education**
-To assist and co-ordinate education initiatives among member countries, regional organizations and international organizations
-##### **Outcome**
-All members of the SEARADO have robust anti-doping education programs in place.
+##### **1. Compliance and Programme Development**
+To support member country NADOs in developing and implementing Code compliant anti- doping rules and programmes.
 ##### **Strategies:**
-1. Inform member countries and stakeholders of the importance of developing anti-doping education.
-2. Ensure the implementation of outreach programs at regional games to educate athletes and support personnel about doping-free sport.
-3. Adopt WADA’s anti-doping education templates for implementation in Southeast Asia.
-4. Develop programs for schools in Southeast Asia to help youths adopt the ethical values of doping-free sports.
-5. Develop effective partnerships with relevant authorities to promote ethical values of sport and doping-free sport in Southeast Asia.
-6. Assist countries and sporting organizations to educate athletes and support personnel on the values of doping-free sport.
+1. Monitor and provide on-going support to NADO member countries to ensure the adoption and implementation of the rules, policies and programs are in compliance with the Code.
+2. Support NADO member countries’ in developing and implementing effective testing programmes using WADA’s Testing Grant to supplement such programmes.
+3. Assist member countries in implementing quality anti-doping awareness and education programs.
+4. Provide ongoing technical support and advice to the NADOs member countries.
+5. Develop, implement and evaluate specific (targeted) NADO development project plans in collaboration with member countries and the WADA Regional Office.
+6. Develop collaboration with other RADOs and established NADOs outside of the Southeast Asia region to further boost anti-doping programmes.
+7. Encourage NADO-NADO collaboration in the region.
+8. Collaborate with regional Government organisations (ASEAN Ministerial Meeting on
+Sports (AMMS), ASEAN Senior Officials Meeting on Sports (SOMS), Regional Games organisers (Southeast Asian Games Federation), International Federations, (especially those located in the region), the International Testing Agency (ITA) and other ADOs to enhance the quality of member countries’ anti-doping programmes.
 
 ##### **Performance Indicators**
 - A SEARADO anti-doping symposium is held in accordance with the four-year strategic plan.
