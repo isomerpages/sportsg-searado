@@ -1,5 +1,5 @@
 ---
-title: Code Compliance
+title: Code and Code Compliance
 permalink: /resources/code-compliance/
 ---
 #### **What is World Anti-Doping Code**
