@@ -31,9 +31,9 @@ To support member country NADOs in developing and implementing Code compliant an
 ##### **Strategies:**
 1. Monitor and provide on-going support to NADO member countries to ensure the adoption and implementation of the rules, policies and programs are in compliance with the Code.
 2. Support NADO member countries’ in developing and implementing effective testing programmes using WADA’s Testing Grant to supplement such programmes.
-3. Assist member countries in implementing quality anti-doping awareness and education programs.
+3. Assist member countries in implementing quality anti-doping awareness and education programmes.
 4. Provide ongoing technical support and advice to the NADOs member countries.
-5. Develop, implement and evaluate specific (targeted) NADO development project plans in collaboration with member countries and the WADA Regional Office.
+5. Develop, implement and evaluate targeted NADO development project plans in collaboration with member countries and the WADA Regional Office.
 6. Develop collaboration with other RADOs and established NADOs outside of the Southeast Asia region to further boost anti-doping programmes.
 7. Encourage NADO-NADO collaboration in the region.
 8. Collaborate with regional Government organisations (ASEAN Ministerial Meeting on
