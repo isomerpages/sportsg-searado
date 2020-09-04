@@ -6,7 +6,7 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) Board is made up 
 
 |  The members of the SEARADO Board are:  |
 | --- |
-|  <a><img align="left" src="https://i.ibb.co/0t34jPx/internationalday-unisport-2.jpg" style="border:none;margin:20px;width:180px;height:234px;" /></a>Dr. Patrick Goh (Chairman)<br>Singapore  |
+|  <a><img align="left" src="https://i.ibb.co/gMLwZnm/image.png" style="border:none;margin:20px;width:180px;height:234px;" /></a>Dr. Patrick Goh (Chairman)<br>Singapore  |
 |  <a><img align="left" src="https://i.ibb.co/2j4Z021/Screenshot-2020-07-23-at-4-14-29-PM.png"  style="border:none;margin:20px;width:180px;height:180px;"></a>Mr Zulkifli Ismail<br>Brunei Darussalam  |
 |  <a><img align="left" src="https://i.ibb.co/W540QFB/Screenshot-2020-07-23-at-4-13-50-PM.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Ouk Diven<br>Cambodia  |
 |  <a><img align="left" src="https://i.ibb.co/z2NRGjv/Screenshot-2020-07-23-at-4-12-53-PM.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Zaini K Saragih<br>Indonesia  |
@@ -26,3 +26,6 @@ The Southeast Asia Regional Anti-Doping Organization (SEARADO) Board is made up 
 | --- |
 |  <a><img align="left" src="https://i.ibb.co/C7fHx4v/Screenshot-2020-07-23-at-4-15-22-PM.png"  style="border:none;margin:20px;width:180px;height:180px;"></a>Mr Kazuhiro Hayashi<br>Director, Asia/Oceania Office<br>WADA  |
 |  <a><img align="left" src="https://i.ibb.co/rHw7X15/Screenshot-2020-07-23-at-4-15-59-PM.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Mr Francisco León<br>Senior Manager, Program Development and NADO/RADO Relations<br>WADA  |
+
+
+<a href="https://ibb.co/k1FbgYt"><img src="https://i.ibb.co/0t34jPx/internationalday-unisport-2.jpg" alt="internationalday-unisport-2" border="0"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/gMLwZnm/image.png" alt="image" border="0"></a>
