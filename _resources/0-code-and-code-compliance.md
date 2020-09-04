@@ -55,7 +55,7 @@ A legal framework for consequences of non-compliance was set by the [Internation
 The range of consequences that may be imposed on a Signatory that has failed to comply with the Code and/or International Standards on [Annex B](/resources/ISCCS-annexb-2019.pdf) of the ISCCS.
 
 ##### Procedure to be Followed when Non-confirmities are Identified
-![Procedure to be Followed when Non-Conformities are Identified](/images/Procedure-to-be-Followed-when-Non-Conformities-are-Identified)
+![Procedure to be Followed when Non-Conformities are Identified](/images/Procedure-to-be-Followed-when-Non-Conformities-are-Identified.png)
 
 ##### Procedure to be Followed **AFTER** Non-Conformities is Asserted
-![Procedure to be Followed after Non-Conformities is Asserted](/images/Procedure-to-be-Followed-AFTER-Non-Conformities-is-Asserted)
+![Procedure to be Followed after Non-Conformities is Asserted](/images/Procedure-to-be-Followed-AFTER-Non-Conformities-is-Asserted.png)
