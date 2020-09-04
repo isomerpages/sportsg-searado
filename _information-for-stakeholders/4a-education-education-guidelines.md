@@ -3,7 +3,7 @@ title: Education Guidelines
 permalink: /information-for-stakeholders/education/education-guidelines
 third_nav_title: Education
 ---
-[Education Guidelines & Information](https://www.wada-ama.org/en/what-we-do/education-prevention/education-guidelines) outline current, accurate, practical information to help protect clean sport and ensure compliance with the World Anti-Doping Code. These documents ensure stakeholders have the information they need, so that they can abide by anti-doping rules and regulations.
+Education Guidelines & Information outline current, accurate, practical information to help protect clean sport and ensure compliance with the World Anti-Doping Code. These documents ensure stakeholders have the information they need, so that they can abide by anti-doping rules and regulations.
 
 ##### Education and Information Guidelines
 [The Guidelines](https://www.wada-ama.org/sites/default/files/resources/files/wada_guidelines_information_education_2016_v3.0_en.pdf) support ADOs in the development, implementation, delivery, and evaluation of an effective core education program within a broader anti-doping program that also actively addresses deterrence and detection. Concrete examples are included to put concepts and principles into context. Worksheets and plans help with program development.
