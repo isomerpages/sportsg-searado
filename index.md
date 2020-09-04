@@ -7,7 +7,7 @@ permalink: /
 notification: Put notifications here!
 sections:
     - hero:
-        title: Southeast Asia RADO
+        title: Southeast Asia Regional Anti-Doping Organisation
         subtitle: Established on 30 November 2006
         background: /images/hero-banner.jpg
         button: Contact Us
