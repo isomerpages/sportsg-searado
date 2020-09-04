@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Southeast Asia RADO
+title: Southeast Asia Regional Anti-Doping Organisation
 description: Established on 30 November 2006
 image: /images/searado-logo.jpg
 permalink: /
