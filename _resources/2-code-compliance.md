@@ -3,12 +3,15 @@ title: Code Compliance
 permalink: /resources/code-compliance/
 ---
 #### **What is World Anti-Doping Code**
-The World Anti-Doping Code (Code) aims to harmonize anti-doping policies, rules and regulations within sports organisations and public organisations. The Code works in conjunction with [six International Standards](https://www.wada-ama.org/en/what-we-do/international-standards). WADA oversees the acceptance, implementation and compliance of the Code. Code Signatories – National Anti-Doping Organisations (NADO), International Federations (IF) and Major Events Organisations (MEO) – are responsible for the implementation of the Code through policies, statues, rules, regulations and programs according to their authority and jurisdiction.
-
-All Signatories have to abide by a number of Code Compliance obligations.
+The World Anti-Doping Code (Code) aims to harmonize anti-doping policies, rules and regulations within sports organisations and public organisations. The Code works in conjunction with [six International Standards](https://www.wada-ama.org/en/what-we-do/international-standards). WADA oversees the acceptance, implementation and compliance of the Code. 
 
 ##### ADO Guide to the Code
 [The ADO Reference Guide to the Code](https://www.wada-ama.org/sites/default/files/resources/files/wada_ado_reference_guide_to_code_final_en_revsept2015.pdf) outlines the changes in the 2015 Code and highlights what Anti-Doping Organizations (ADOs) should focus on going forward from a practical standpoint. It should be noted that the Guide is neither a substitute for the language of the Code, nor for the anti-doping rules of an ADO. The language of the Code is always the primary source. 
+
+#### **What is 'Code Compliance'**
+Code Signatories – National Anti-Doping Organisations (NADO), International Federations (IF) and Major Events Organisations (MEO) – are responsible for the implementation of the Code through policies, statues, rules, regulations and programs according to their authority and jurisdiction.
+
+All Signatories have to abide by a number of Code Compliance obligations.
 
 #### **How to Become Code Compliant**
 Steps for a NADO to become Code Compliant:
