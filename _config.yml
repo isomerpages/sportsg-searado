@@ -12,9 +12,9 @@ colors:
     - title: media-color-two
       color: '#744d9f'
     - title: media-color-three
-      color: '#008000'
+      color: '#339999'
     - title: media-color-four
-      color: '#2E0077'
+      color: '#339933'
     - title: media-color-five
       color: '#00838f'
 
