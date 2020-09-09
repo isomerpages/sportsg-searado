@@ -37,7 +37,7 @@ To support member country NADOs in developing and implementing Code compliant an
 6. Develop collaboration with other RADOs and established NADOs outside of the Southeast Asia region to further boost anti-doping programmes.
 7. Encourage NADO-NADO collaboration in the region.
 8. Collaborate with regional Government organisations (ASEAN Ministerial Meeting on
-Sports (AMMS), ASEAN Senior Officials Meeting on Sports (SOMS), Regional Games organisers (Southeast Asian Games Federation), International Federations, (especially those located in the region), the International Testing Agency (ITA) and other ADOs to enhance the quality of member countries’ anti-doping programmes.
+Sports (AMMS), ASEAN Senior Officials Meeting on Sports (SOMS), Regional Games organisers (Southeast Asian Games Federation), International Federations (especially those located in the region), the International Testing Agency (ITA) and other ADOs to enhance the quality of member countries’ anti-doping programmes.
 
 ##### **2. Capacity Building**
 To assist NADOs develop and strengthen human resources anti-doping capacity in order to implement effective anti-doping programmes.
