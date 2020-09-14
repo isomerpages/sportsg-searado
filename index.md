@@ -14,7 +14,7 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: Speak Up!
-              description: Report Doping
+              description: Report any alleged Anti-Doping Rule Violation or any act or omission that could undermine the fight against doping here
               url: https://speakup.wada-ama.org/WebPages/Public/FrontPages/Default.aspx
             - title: SEARADO's Latest 
               description: News and Events
