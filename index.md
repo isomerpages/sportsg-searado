@@ -4,7 +4,7 @@ title: Southeast Asia Regional Anti-Doping Organisation
 description: Established on 30 November 2006
 image: /images/searado-logo.jpg
 permalink: /
-notification: Put notifications here!
+notification:
 sections:
     - hero:
         title: Southeast Asia Regional Anti-Doping Organisation
@@ -23,11 +23,11 @@ sections:
               description: The official Youtube channel of the World Anti-Doping Agency (WADA)
               url: https://www.youtube.com/user/wadamovies
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: 
+        subtitle: 
+        description: 
+        button: 
+        url: 
     - resources:
         title: News and Events
         subtitle: SEARADO and Member Countries
