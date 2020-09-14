@@ -19,6 +19,9 @@ sections:
             - title: SEARADO's Latest 
               description: News and Events
               url: /news-and-events/latest/
+            - title: WADA News
+              description: WADA's Latest News
+              url: https://www.wada-ama.org/en/media/news
             - title: WADA Youtube Channel
               description: The official Youtube channel of the World Anti-Doping Agency (WADA)
               url: https://www.youtube.com/user/wadamovies
