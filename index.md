@@ -17,10 +17,10 @@ sections:
               description: Report any alleged Anti-Doping Rule Violation or any act or omission that could undermine the fight against doping here
               url: https://speakup.wada-ama.org/WebPages/Public/FrontPages/Default.aspx
             - title: SEARADO's Latest 
-              description: News and Events
+              description: Check out SEARADO's latest news and events here
               url: /news-and-events/latest/
             - title: WADA News
-              description: WADA's Latest News
+              description: Click here to view WADA's Latest News
               url: https://www.wada-ama.org/en/media/news
             - title: WADA Youtube Channel
               description: The official Youtube channel of the World Anti-Doping Agency (WADA)
