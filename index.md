@@ -22,12 +22,6 @@ sections:
             - title: WADA Youtube Channel
               description: The official Youtube channel of the World Anti-Doping Agency (WADA)
               url: https://www.youtube.com/user/wadamovies
-    - infobar:
-        title: 
-        subtitle: 
-        description: 
-        button: 
-        url: 
     - resources:
         title: News and Events
         subtitle: SEARADO and Member Countries
