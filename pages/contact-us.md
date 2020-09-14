@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: SEA RADO
+agency_name: SEARADO
 locations:
   - title: Main Office
     address:
