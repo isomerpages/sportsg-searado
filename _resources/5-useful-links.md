@@ -18,12 +18,12 @@ Education Resources: [JADA Education Package](https://www.playtrue2020-sp4t.jp/e
 
 [U.S. Anti-Doping (USADA)](https://www.usada.org/)
 
-The U.S. Anti-Doping Agency (USADA) is the national anti-doping organization (NADO) in the United States for Olympic, Paralympic, Pan American, and Parapan American sport.
+The U.S. Anti-Doping Agency (USADA) is the national anti-doping organisation (NADO) in the United States for Olympic, Paralympic, Pan American, and Parapan American sport.
 
 [UK Anti-Doping (UKAD)](https://www.ukad.org.uk/)
 
 UKAD is responsible for ensuring sports bodies in the UK are compliant with the World Anti-Doping Code through the implementation and management of the UK’s National Anti-Doping Policy.
 
-[United Nations Educational, Scientific and Cultural Organization](https://en.unesco.org/themes/sport-and-anti-doping)
+[United Nations Educational, Scientific and Cultural Organisation](https://en.unesco.org/themes/sport-and-anti-doping)
 
-UNESCO is the United Nations’ lead agency for Physical Education and Sport (PES). Assistance and guidance services are provided for governments, NGOs, and experts to debate the evolving challenges of physical education and sport. The organization also assists and advises Member States wishing to elaborate or strengthen their training system in physical education. And it offers its expertise in the design and implementation of development programmes in the domain of sport.
+UNESCO is the United Nations’ lead agency for Physical Education and Sport (PES). Assistance and guidance services are provided for governments, NGOs, and experts to debate the evolving challenges of physical education and sport. The organisation also assists and advises Member States wishing to elaborate or strengthen their training system in physical education. And it offers its expertise in the design and implementation of development programmes in the domain of sport.
