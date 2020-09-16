@@ -15,7 +15,7 @@ Athletes can be selected for testing at anytime and anywhere.
 
 **2. Notification**
 
-A Doping Control Officer (DCO) or Chaperone will notify the selected athlete and inform the athlete of his/her rights and responsibilities. Click here for the rights and responsibilities of an athlete.
+A Doping Control Officer (DCO) or Chaperone will notify the selected athlete and inform the athlete of his/her rights and responsibilities. Click [here](/personnel/0a-athlete-roles&responsibilities.md) for the rights and responsibilities of an athlete.
 
 **3. Reporting to the Doping Control Station**
 
