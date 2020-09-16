@@ -41,16 +41,16 @@ The athlete will divide the sample between the A Sample and B Sample bottles, an
 
 The DCO will check the Specific Gravity of the sample to ensure it is not too diluted for analysis. If the sample is too diluted, the DCO will record this on the doping control form and request additional samples to be provided until one that is within the required range for Specific Gravity is provided, or until the DCO determines that, due to exceptional circumstances, the session should end.
 
-**9. Completing the Doping Conotrl Form (DCF)** 
+**9. Completing the Doping Control Form (DCF)** 
 
-The athlete will complete the Doping Control Form by:
+The athlete will complete the DCF by:
 
 1. Declaring any medication or supplements taken during the past 7 days
 2. Providing details of any Therapeutic Use Exemptions (TUE)
 3. Noting any comments about the doping control procedures
 4. Confirming the information on the doping control form are correct
 5. Ensuring the laboratory copy of the form does not contain any information that will identify the athlete
-6. Signing and receiving a copy of the doping control form
+6. Signing and receiving a copy of the DCF
 
 **10. The Laboratory Process**
 
