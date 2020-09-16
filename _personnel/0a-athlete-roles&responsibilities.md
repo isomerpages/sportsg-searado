@@ -10,7 +10,7 @@ Athletes have certain rights and responsibilities with respect to doping control
 - To be available for sample collection.
 - To be responsible in for what they ingest and use to avoid violation of anti-doping policies and rules pursuant to the Code.
 - Inform medical personnel of their obligations not to use prohibited substances and methods when receiving medical treatment to avoid violation of anti-doping policies and rules pursuant to the Code.
-- Cooperate with Southeast Asia Regional Anti-Doping Organization (SEARADO), their National Anti-Doping Organization (NADO), International Federation (IF) and other recognized Code-compliant international anti-doping programmes.
+- Cooperate with Southeast Asia Regional Anti-Doping Organisation (SEARADO), their National Anti-Doping Organisation (NADO), International Federation (IF) and other recognised Code-compliant international anti-doping programmes.
 
 #### **Athletes Rights During In and Out of Competition**
 - Have a representative accompany them to the doping control station.
