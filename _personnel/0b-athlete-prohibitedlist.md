@@ -12,7 +12,7 @@ When visiting a doctor, athletes should always inform the doctor of their status
 Before using any substance or methods of treatment, the athlete should always check the status of the substance or method against the Prohibited List, or available on-line drug information services listed below. Athletes should never assume it is safe to use a substance or medication if information is not available.
 > IGNORANCE IS NOT AN EXCUSE
 
-Athletes may at times experience a medical condition requiring the use of particular medicines for treatment that contains substances under the Prohibited List. In the absence of other alternatives, if the athlete needs to use prohibited substances for medical reasons, prior approval must be obtained by applying for a Therapeutic Use Exemption (TUE) from your International Federation (IF), National Anti-Doping Organization (NADO) or the Southeast Asia Regional Anti-Doping Organization (SEARADO), where relevant.
+Athletes may at times experience a medical condition requiring the use of particular medicines for treatment that contains substances under the Prohibited List. In the absence of other alternatives, if the athlete needs to use prohibited substances for medical reasons, prior approval must be obtained by applying for a Therapeutic Use Exemption (TUE) from your International Federation (IF), National Anti-Doping Organisation (NADO) or the Southeast Asia Regional Anti-Doping Organisation (SEARADO), where relevant.
 
 #### **Online Drug Information Services**
 Athletes can check if the medication or the method of treatment is prohibited under the Prohibited List by one of the following ways:
