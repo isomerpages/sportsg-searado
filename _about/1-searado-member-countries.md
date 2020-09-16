@@ -16,5 +16,5 @@ Athletes and the support personnel can contact the respective Southeast Asia Nat
 | Philippines  |  [Philippines National Anti-Doping Organisation (Phi-NADO)](https://phinado.psc.gov.ph)<br><a href="(https://www.facebook.com/phi.nado.35/about?lst=100000482975609%3A100039167085997%3A1563242199"><img align="left" src="https://i.ibb.co/vjKKsp5/facebook.png" style="border:none;width:26px;height:26px;" /></a>  |
 | Singapore  |  [Anti-Doping Singapore (ADS)](https://www.sportsingapore.gov.sg/athletes-coaches/anti-doping-singapore)<br><a href="(https://www.facebook.com/antidopingsingapore/"><img align="left" src="https://i.ibb.co/vjKKsp5/facebook.png" style="border:none;width:26px;height:26px;" /></a>  |
 | Thailand  |  [Doping Control Agency of Thailand (DCAT)](http://www.dcat.in.th/EN/Home/HOME/Index/0?AspxAutoDetectCookieSupport=1)<br><a href="(https://www.facebook.com/DCAT-Doping-Control-Agency-of-Thailand-352557894841553/"><img align="left" src="https://i.ibb.co/vjKKsp5/facebook.png" style="border:none;width:26px;height:26px;" /></a>  |
-| Timor-Leste  | Timoe-Leste NOC  |
+| Timor-Leste  | Timor-Leste NOC  |
 | Vietnam  |  [Vietnam Anti-Doping Agency (VADA)](http://www.vada.org.vn/)<br><a href="(https://www.facebook.com/vada.org.vn"><img align="left" src="https://i.ibb.co/vjKKsp5/facebook.png" style="border:none;width:26px;height:26px;" /></a>  |
