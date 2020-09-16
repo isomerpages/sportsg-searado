@@ -2,8 +2,9 @@
 title: SEARADO Committees
 permalink: /about/searado-committees/
 ---
-| COMMITTEE MEMBERS |
+| RESULTS MANAGEMENT (RM) COMMITTEE MEMBERS |
 | --- |
+| Mr. Thomas Delaye-Fontin (Advisor) |
 | Mr Richard Wee<br>Malaysia |
 | Mr. Syamil Hilmy<br>Malaysia |
 | Ms NUUR ‘IZZAH HAFIIZAH BINTI HAJI KIFLI<br>Brunei |
@@ -24,10 +25,6 @@ permalink: /about/searado-committees/
 | Dr. Marion Rivera<br>Philippines |
 | Dr. Arth Nana<br>Thailand |
 | Dr. Ead Lorprayoon<br>Thailand |
-
-| RESULTS MANAGEMENT (RM) |
-| --- |
-| Mr. Thomas Delaye-Fontin (Advisor) |
 
 | DOPING CONTROL OFFICERS (DCO) COMMITTEE MEMBERS |
 | --- |
