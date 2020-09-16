@@ -71,16 +71,16 @@ If an athlete fails to provide and update the required whereabouts information, 
 
 >>Any combination of 3 Missed Test(s) and/or Filing Failure(s) within an 12-month period will constitute an anti-doping rule violation. The period of sanction is between 1 to 2 years, depending on the athlete’s degree of fault.
 
-#### **When are Athletes Required to Submite Whereabouts Information?**
-Athletes included into their NADO or IF RTP are required to provide a whereabouts filing on a quarterly basis (i.e. every 3 months) and to update this information, as required, to maintain its accuracy.
+#### **When are Athletes Required to Submit Whereabouts Information?**
+Athletes included in their NADO's or IF's RTP are required to provide a whereabouts filing on a quarterly basis (i.e. every 3 months) and to update this information, as required, to maintain its accuracy.
 
 Athletes must ensure their quarterly whereabouts filing is received by their NADO or IF before the start of each quarter by the deadline specified.
 
 #### **Delegation of Whereabouts Filing Responsibilities**
 The athlete may choose to delegate some or all whereabouts filing to a third party representative, such as a coach, team manager, or National Sports Federation, provided that the third party agrees to this delegation. It is still the athlete’s responsibility to ensure that their whereabouts information is accurate even though their whereabouts information are filed by their authorised representative.
 
-#### **How do Athletes Submite and Update Whereabouts Information?**
-Anti-Doping Organizations are encouraged to use the World Anti-Doping Agency’s online [Anti-Doping Administration and Management System (ADAMS)](https://www.wada-ama.org/en/what-we-do/adams) for the management and sharing of athlete whereabouts information.
+#### **How do Athletes Submit and Update Whereabouts Information?**
+ADOs are encouraged to use the WADA's online [Anti-Doping Administration and Management System (ADAMS)](https://www.wada-ama.org/en/what-we-do/adams) for the management and sharing of athlete whereabouts information.
 
 Using ADAMS is free, easy to use and can be accessed anytime and anywhere. Watch the following video on how to use ADAMS for whereabouts submissions.
 
