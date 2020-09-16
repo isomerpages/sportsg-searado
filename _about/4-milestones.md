@@ -11,9 +11,9 @@ permalink: /about/milestones/
 | 2010 | • Athlete outreach programme @ 1st Youth Olympic Games, Singapore<br>• Myanmar and Philippines achieve code-compliance |
 | 2011 | Launch of SEARADO website |
 | 2012 | • UNESCO funding for regional project – SEA Games Athlete Outreach Programme<br>• SEARADO TUE and RM committees formed<br>• Launch of bi-annual SEARADO e-newsletter<br>• Cambodia achieves code-compliance |
-| 2013 | • 1st Senior DCO seminar<br>1st UNESCO Regional Project<br>• Athlete Outreach Programme @ SEA Games, Myanmar<br>• Philippines and Vietnam receive UNESCO funds for national project |
-| 2014 | • SEARADO and JADA signs MOU<br>SEARADO and SEA Games Federation signs MOU<br>• 2nd UNESCO Regional Project (Phase 1)<br>• Cambodia and Malaysia receive UNESCO funds for national project |
-| 2015 | • 1st Anti-Doping Intelligence & Investigation Seminar<br>2nd UNESCO Regional Project (Phase 2)<br>• Malaysia and Vietnam receive UNESCO funds for national project<br>• SEARADO and SEA Games Federation signs MOU<br>• SEARADO and ASEAN Para Sports Federation signs MOU |
+| 2013 | • 1st Senior DCO seminar<br>• 1st UNESCO Regional Project<br>• Athlete Outreach Programme @ SEA Games, Myanmar<br>• Philippines and Vietnam receive UNESCO funds for national project |
+| 2014 | • SEARADO and JADA signs MOU<br>• SEARADO and SEA Games Federation signs MOU<br>• 2nd UNESCO Regional Project (Phase 1)<br>• Cambodia and Malaysia receive UNESCO funds for national project |
+| 2015 | • 1st Anti-Doping Intelligence & Investigation Seminar<br>• 2nd UNESCO Regional Project (Phase 2)<br>• Malaysia and Vietnam receive UNESCO funds for national project<br>• SEARADO and SEA Games Federation signs MOU<br>• SEARADO and ASEAN Para Sports Federation signs MOU |
 | 2016 | • SEARADO and ASEAN Universities Games organising committee signs MOU<br>• Singapore receives UNESCO funds for National Project |
 | 2017 | • SEARADO, Tokyo 2020 and JADA signs MOU<br>• Coach True e-learning module in Bahasa Indonesia, Bahasa Melayu, Khmer, Thai and Vietnamese launched<br>• Laos achieves code compliance |
 | 2018 | SEARADO Anti-Doping Education Trainer’s Workshop |
