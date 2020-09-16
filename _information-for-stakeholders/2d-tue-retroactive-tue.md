@@ -11,5 +11,5 @@ You may only apply retroactively for a TUE if:
 4. It is agreed, by WADA and your NADO that fairness requires the grant of a retroactive TUE.
 
 > Important note:
-- Using a prohibited substance before being granted a TUE could result in an Adverse Analytical Finding and a potential anti-doping rule violation.
-- In case an application for a retroactive TUE is necessary following sample collection, you are strongly advised to have a medical file prepared and ready to submit for evaluation
+- Using a prohibited substance before being granted a TUE could result in an Adverse Analytical Finding (AAF) and a potential Anti-doping rule violation (ADRV).
+- In case an application for a retroactive TUE is necessary following sample collection, you are strongly advised to have a medical file prepared and ready to submit for evaluation.
