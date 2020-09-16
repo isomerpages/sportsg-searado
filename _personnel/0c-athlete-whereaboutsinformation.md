@@ -69,7 +69,7 @@ If an athlete is unavailable for testing when an anti-doping organisation attemp
 
 If an athlete fails to provide and update the required whereabouts information, then a Filing Failure may be pursued.
 
->>Any combination of 3 Missed Test(s) and/or Filing Failure(s) within an 12-month period will constitute an anti-doping rule violation. The period of sanction is between 1 to 2 years, depending on the athlete’s degree of fault.
+>Any combination of 3 Missed Test(s) and/or Filing Failure(s) within an 12-month period will constitute an anti-doping rule violation. The period of sanction is between 1 to 2 years, depending on the athlete’s degree of fault.
 
 #### **When are Athletes Required to Submit Whereabouts Information?**
 Athletes included in their NADO's or IF's RTP are required to provide a whereabouts filing on a quarterly basis (i.e. every 3 months) and to update this information, as required, to maintain its accuracy.
