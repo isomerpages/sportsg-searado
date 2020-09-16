@@ -11,14 +11,14 @@ The Act is made up of two parts. _Part 1_ sets out rights that are found in the 
 
 **Part 1:**
 1. Equality of opportunity
-2. Equitable and fair Testing programs
+2. Equitable and fair Testing programmes
 3. Medical treatment and protection of health rights
-4. Right to justice
-5. Right to accountability
+4. Right to Justice
+5. Right to Accountability
 6. Whistleblower rights
 7. Right to Education
-8. Right to data protection
-9. Rights to compensation
+8. Right to Data Protection
+9. Rights to Compensation
 10. Protected Persons Rights
 11. Rights during a Sample Collection Session
 12. Right to B Sample analysis
