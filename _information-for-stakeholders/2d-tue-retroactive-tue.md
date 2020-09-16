@@ -3,7 +3,7 @@ title: Retroactive TUE
 permalink: /information-for-stakeholders/therapeutic-use-exemption/retroactive-tue/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
-You may only apply retroactively for a TUE if:
+##### You may only apply retroactively for a TUE if:
 
 1. Your competition level permits (i.e., you are not an International-Level Athlete as defined by your IF nor a National-Level Athlete as defined by your NADO; or
 2. An emergency or urgent treatment of a medical condition was necessary; or
