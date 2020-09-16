@@ -3,7 +3,7 @@ title: Athlete Central
 permalink: /personnel/athlete/athlete-central/
 third_nav_title: Athlete
 ---
-The ‘Athlete Central is a new App launched by WADA in November 2019. Athlete Central will help with facilitating athlete compliance with Whereabouts rules under the global anti-doping program.
+The ‘Athlete Central' is a new App launched by WADA in November 2019. Athlete Central will help with facilitating athlete compliance with Whereabouts rules under the global anti-doping programme.
 
 Powered by ADAMS, the new Athlete Central is a simple, smart and reliable way for athletes to provide their Whereabouts information in order to support Out-of-Competition Testing (OOCT) and demonstrate their commitment to clean sport. Its attributes include:
 
