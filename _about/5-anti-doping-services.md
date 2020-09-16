@@ -17,4 +17,4 @@ In addition, upon request, SEARADO collaborates with Testing Authorities and Int
 
 Please fill in this [form](https://forms.gle/EDkF5wW29D2as6ua7) if you are keen on hosting the workshop or are interested in any of the services provided.
 
-_Kindly note that this form is only meant for Anti-Doping Organisations (ADO). If you are an individual (in the Southeast Asian Region) who is keen in participating any of the abovementioned services, please contact the ADO of your country_
+_Kindly note that this form is only meant for Anti-Doping Organisations (ADO). If you are an individual (in the Southeast Asian Region) who is keen in participating any of the abovementioned services, please contact the NADO of your country_
