@@ -12,6 +12,6 @@ Athletes have the right to appeal any decisions made by the independent discipli
 
 Other ADOs or WADA also have the right to appeal a decision regarding the case. In such an instance, the procedure remains the same and the athlete has the right to be heard during the proceedings.
 
-Click [here](https://www.searado.com/wp-content/uploads/2018/03/wada_guidelines_results_management_hearings_decisions_2014_v1.0_en.pdf) to download the Results Management, Hearings and Decisions Guidelines.
+Click [here](https://www.wada-ama.org/sites/default/files/wada_guidelines_results_management_hearings_decisions_2014_v1.0_en.pdf) to download the Results Management, Hearings and Decisions Guidelines.
 
-Click [here](https://www.searado.com/wp-content/uploads/2018/03/Annex-B-2021-International-Standard-for-Results-Management.pdf) to download the Article 7 (Results Management) of the Code.
+Click [here](/information-for-stakeholders/2021-isrm-annexB.pdf) to download the Article 7 (Results Management) of the Code.
