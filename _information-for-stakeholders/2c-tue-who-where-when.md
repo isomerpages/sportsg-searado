@@ -17,7 +17,7 @@ Athletes must not submit TUE Applications to more than one organisation.
 
 TUEs granted by a MEO will only be valid during the duration of the event. A TUE granted by a NADO or an IF is not valid for the event unless it is recognised by the MEO, although it is valid outside of that event.
 
-Therefore, it is your responsibility to check if the respective NADO’s TUE granted is recognised by the relevant IF or MEO (see section 7.1 of ISTUE). Your NADO can assist you in the determination of your level and TUE application requirements, and, should the need occur, assist you in presenting your NADO’s TUE to an IF for recognition.
+Therefore, it is your responsibility to check if the respective NADO’s TUE granted is recognised by the relevant IF or MEO (see [section 7.1 of ISTUE](/information-for-stakeholders/2021-istue.7.1.pdf). Your NADO can assist you in the determination of your level and TUE application requirements, and, should the need occur, assist you in presenting your NADO’s TUE to an IF for recognition.
 
 **If you are a National-Level Athlete**, you must apply to your respective NADO in advance, as soon as the need arises, unless there are emergency or exceptional circumstances.
 
