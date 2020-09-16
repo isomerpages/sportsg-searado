@@ -3,14 +3,14 @@ title: Whereabouts Information
 permalink: /personnel/athlete/whereabouts-information/
 third_nav_title: Athlete
 ---
-Athletes are role models and they have an important responsibility to protect the integrity of their sport. Providing whereabouts is about protecting the athlete’s right to clean sport. Providing complete, current and accurate whereabouts information allows the Anti-Doping Organization (ADO) to locate the athlete with no advance notice to test athletes who choose to cheat themselves by doping.
+Athletes are role models and they have an important responsibility to protect the integrity of their sport. Providing whereabouts is about protecting the athlete’s right to clean sport. Providing complete, current and accurate whereabouts information allows the Anti-Doping Organisation (ADO) to locate the athlete with no advance notice to test athletes who choose to cheat themselves by doping.
 
 Athletes who fail to comply with the athlete whereabouts information requirements may incur anti-doping rule violations and subsequent sanctions.
 
 > All Registered Testing Pool athletes are advised to refer to their respective NADO or IF Anti-Doping Rules for details of their whereabouts obligations.
 
 #### **Who is Required to Provide Whereabouts Information**
-Athletes who have been identified for inclusion in their respective NADO or IF Registered Testing Pool are required to provide accurate and timely whereabouts filing directly to their NADO or IF. Each athlete in a RTP will be notified in writing, of their inclusion in the RTP and the specific whereabouts filing requirements and consequences for non-compliance.
+Athletes who have been identified for inclusion in their respective NADO or IF Registered Testing Pool (RTP) are required to provide accurate and timely whereabouts filing directly to their NADO or IF. Each athlete in a RTP will be notified in writing, of their inclusion in the RTP and the specific whereabouts filing requirements and consequences for non-compliance.
 
 **International RTP**
 An international RTP, established by an IF, will generally include athletes who compete regularly at the highest level of international competition eg, Olympic, Paralympic or World Championship, as determined by rankings or other suitable criteria.
