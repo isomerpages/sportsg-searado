@@ -14,4 +14,4 @@ Other ADOs or WADA also have the right to appeal a decision regarding the case. 
 
 Click [here](https://www.wada-ama.org/sites/default/files/wada_guidelines_results_management_hearings_decisions_2014_v1.0_en.pdf) to download the Results Management, Hearings and Decisions Guidelines.
 
-Click [here](/information-for-stakeholders/2021-Code-rm-7.pdf) to download the Article 7 (Results Management) of the Code.
+Click [here](/information-for-stakeholders/2021-Code-rm-7.pdf) to download the Article 7 Results Management of the Code.
