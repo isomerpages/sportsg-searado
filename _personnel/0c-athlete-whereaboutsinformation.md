@@ -13,9 +13,11 @@ Athletes who fail to comply with the athlete whereabouts information requirement
 Athletes who have been identified for inclusion in their respective NADO or IF Registered Testing Pool (RTP) are required to provide accurate and timely whereabouts filing directly to their NADO or IF. Each athlete in a RTP will be notified in writing, of their inclusion in the RTP and the specific whereabouts filing requirements and consequences for non-compliance.
 
 **International RTP**
+
 An international RTP, established by an IF, will generally include athletes who compete regularly at the highest level of international competition eg, Olympic, Paralympic or World Championship, as determined by rankings or other suitable criteria.
 
 **National RTP**
+
 A national RTP, established by a NADO, will generally include:
 1. Athletes over which a NADO has jurisdiction that have been included in an international RTP
 2. Athletes who are part of national teams in Olympic or Paralympic or other sports of high national priority (or who might be selected for such teams)
