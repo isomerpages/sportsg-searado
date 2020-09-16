@@ -19,8 +19,8 @@ An international RTP, established by an IF, will generally include athletes who 
 **National RTP**
 
 A national RTP, established by a NADO, will generally include:
-1. Athletes over which a NADO has jurisdiction that have been included in an international RTP
-2. Athletes who are part of national teams in Olympic or Paralympic or other sports of high national priority (or who might be selected for such teams)
+1. Athletes over which a NADO has jurisdiction that have been included in an international RTP.
+2. Athletes who are part of national teams in Olympic or Paralympic or other sports of high national priority (or who might be selected for such teams).
 3. Athletes who train independently but perform at Olympic / Paralympic or World Championship level and may be selected for such event.
 
 All athletes in a RTP must submit whereabouts filing to their NADO or IF until the athlete is informed otherwise.
@@ -29,21 +29,26 @@ All athletes in a RTP must submit whereabouts filing to their NADO or IF until t
 Daily whereabouts information is required for each day of the following quarter, even if the athlete is travelling, or competing, or on holiday, or on any other day. The daily whereabouts information required for each quarter are:
 
 **1. Address and Contact Details**
+
 Such as: 
 - Home Address
 - Contact phone numbers
 - Email address
 
 **2. Overnight Address**
+
 The full address of the place where the athlete will be residing, that is, sleeping overnight.
 
 **3. 60-minute Timeslot**
+
 One specific 60-minute timeslot between 5am and 11pm each day were the athlete will be available and accessible for testing at a specific location.
 
 **4. Compeition Scedules and Locations**
+
 The name and address of each competition location where the athlete is scheduled to compete during the quarter and the date(s) on which the athlete is competing at these locations.
 
 **5. Information and Locations of Training and Other Regular Activities**
+
 The dates, timeframes, name and address of each location where the athlete will train or conduct other regular activity (eg, school or work).
 
 **6. Level of Athlete**
@@ -57,12 +62,14 @@ The dates, timeframes, name and address of each location where the athlete will 
 It is the responsibility of RTP athletes to ensure that their whereabouts information is kept updated and accurate at all times.
 
 **Missed Test**
+
 If an athlete is unavailable for testing when an anti-doping organisation attempts to test them during the specific 60-minute timeslot provided by the athlete, then a Missed Test may be pursued.
 
 **Filing Failure**
+
 If an athlete fails to provide and update the required whereabouts information, then a Filing Failure may be pursued.
 
-Any combination of 3 Missed Test(s) and/or Filing Failure(s) within an 12-month period will constitute an anti-doping rule violation. The period of sanction is between 1 to 2 years, depending on the athlete’s degree of fault.
+>>Any combination of 3 Missed Test(s) and/or Filing Failure(s) within an 12-month period will constitute an anti-doping rule violation. The period of sanction is between 1 to 2 years, depending on the athlete’s degree of fault.
 
 #### **When are Athletes Required to Submite Whereabouts Information?**
 Athletes included into their NADO or IF RTP are required to provide a whereabouts filing on a quarterly basis (i.e. every 3 months) and to update this information, as required, to maintain its accuracy.
