@@ -6,19 +6,19 @@ third_nav_title: Doping Control
 The [World Anti-Doping Code](/information-for-stakeholders/2021-Code.pdf) (Code) is a document that harmonises anti-doping regulations across all sports and all countries in the world. It provides a framework for anti-doping programmes and activities, so that all athletes have the benefit of the same anti-doping policies and procedures.
 
 #### **What is Doping?**
-There are ten ways in which athletes and athlete support personnel can violate the WADA Code:
+There are eleven ways in which athletes and athlete support personnel can violate the WADA Code:
 
-1. Presence of a prohibited substance or its metabolites or markers in an athlete’s sample
-2. Use or attempted use of a prohibited substance or method
-3. Evading, refusing or failing to submit to sample collection by an athlete
-4. Whereabouts failures by an athlete
-5. Tampering or attempted tampering with any part of the doping control by an athlete or other person
-6. Possession of a prohibited substance or prohibited method 
-7. Trafficking or attempted trafficking in any prohibited substance or prohibited method
-8. Administering or attempting to administer a prohibited substance or method to an athlete, or to assist, encourage, aid, abet or cover up an anti-doping rule violation
-9. Complicity or attempted complicity by an athlete or other person
-10. Prohibited association by an athlete or other person 
-11. Acts by an athlete or other persons to discourage or retaliate against reporting to authorities
+1. Presence of a prohibited substance or its metabolites or markers in an athlete’s sample.
+2. Use or attempted use of a prohibited substance or method.
+3. Evading, refusing or failing to submit to sample collection by an athlete.
+4. Whereabouts failures by an athlete.
+5. Tampering or attempted tampering with any part of the doping control by an athlete or other person.
+6. Possession of a prohibited substance or prohibited method.
+7. Trafficking or attempted trafficking in any prohibited substance or prohibited method.
+8. Administering or attempting to administer a prohibited substance or method to an athlete, or to assist, encourage, aid, abet or cover up an anti-doping rule violation.
+9. Complicity or attempted complicity by an athlete or other person.
+10. Prohibited association by an athlete or other person.
+11. Acts by an athlete or other persons to discourage or retaliate against reporting to authorities.
 
 #### **What is Doping Control?**
 Doping Control or Testing is central to the fight against doping in sport. Athletes associated with a National Sports Federation and those competing at the international and/or national level can be tested at anytime and anywhere – during training, in competition, at home or at any other venues – by the respective International Federation, National Anti-Doping Organization or a Major Event Organizing Committee. 
