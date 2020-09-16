@@ -21,13 +21,13 @@ There are eleven ways in which athletes and athlete support personnel can violat
 11. Acts by an athlete or other persons to discourage or retaliate against reporting to authorities.
 
 #### **What is Doping Control?**
-Doping Control or Testing is central to the fight against doping in sport. Athletes associated with a National Sports Federation and those competing at the international and/or national level can be tested at anytime and anywhere – during training, in competition, at home or at any other venues – by the respective International Federation, National Anti-Doping Organization or a Major Event Organizing Committee. 
+Doping Control or Testing is central to the fight against doping in sport. Athletes associated with a National Sports Federation, and those competing at the international and/or national level, can be tested at anytime and anywhere – during training, in competition, at home or at any other venues – by the respective International Federation, National Anti-Doping OrganiSation or a Major Event Organizing Committee. 
 
-Refusing to be tested could result in a ban from sport, so compliance is mandatory if selected. Athletes can be asked to provide both urine and blood samples, and specially trained and accredited doping control personnel will observe the athlete at all times, including when providing the sample.
+Refusing to be tested could result in a ban from sport, as compliance is mandatory if selected. Athletes can be asked to provide both urine and blood samples, and specially trained and accredited doping control personnel will observe the athlete at all times, including when providing the sample.
 
 **In-Competition Testing**
 
-Only one anti-doping organization shall conduct testing at an event. In-competition testing commence 12 hours before a competition in which the athlete is scheduled to participate though the end of the competition and the sample collection process related to the competition. Athletes can be chosen by random selection, finishing position or by being selected for a particular reason.
+Only one anti-doping organisation shall conduct testing at an event. In-competition testing commence 12 hours before a competition in which the athlete is scheduled to participate through the end of the competition and the sample collection process related to the competition. Athletes can be chosen by random selection, finishing position or by being selected for a particular reason.
 
 **Out-of-Competition Testing**
 
