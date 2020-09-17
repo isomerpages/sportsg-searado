@@ -16,6 +16,7 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 |  <a><img align="left" src="https://i.ibb.co/7WcS7z5/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Alejandro Jr. Pineda<br>Philippines  |
 |  <a><img align="left" src="https://i.ibb.co/TrxSPhV/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Meechai (Hilary) Inwood<br>Thailand  |
 |  TBC<br>Timor-Leste  |
+|  <a><img align="left" src="insert photo link here" style="border:none;margin:20px;width:180px;height:216px;"></a>Dr. Nilton Piedada da Costa Tilman<br>Timor-Leste  |
 |  <a><img align="left" src="https://www.linkpicture.com/q/image1_3.jpeg" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Nguyen Van Phu<br>Vietnam  |
 
 |  Director General  |
