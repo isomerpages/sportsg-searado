@@ -1,10 +1,8 @@
 contact_us: /contact-us/
-show_reach: true
+show_reach:
 feedback: 
 faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+    facebook: https://www.facebook.com/SouthEastAsiaRADO
+    youtube: https://www.youtube.com/channel/UC214Daj40byFBBLWvDQ8eDw
+    instagram: https://www.instagram.com/searado/?hl=en

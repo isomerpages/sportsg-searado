@@ -1,35 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Southeast Asia Regional Anti-Doping Organisation
+description: Established on 30 November 2006
+image: /images/searado-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification:
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        title: Southeast Asia Regional Anti-Doping Organisation
+        subtitle: Established on 30 November 2006
+        background: /images/hero-banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: Speak Up!
+              description: Report any alleged Anti-Doping Rule Violation or any act or omission that could undermine the fight against doping here
+              url: https://speakup.wada-ama.org/WebPages/Public/FrontPages/Default.aspx
+            - title: SEARADO's Latest 
+              description: Check out SEARADO's latest news and events here
+              url: /news-and-events/latest/
+            - title: WADA News
+              description: Click here to view WADA's Latest News
+              url: https://www.wada-ama.org/en/media/news
+            - title: WADA Youtube Channel
+              description: The official Youtube channel of the World Anti-Doping Agency (WADA)
+              url: https://www.youtube.com/user/wadamovies
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: 
+        subtitle: 
+        description: 
+        button: 
+        url: 
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: News and Events
+        subtitle: SEARADO and Member Countries
         button: View More
+        url: /news-and-events/latest/
 ---

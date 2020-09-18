@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/searado-logo.jpg
 
 links:
   - title: Contact Us
@@ -15,17 +15,13 @@ links:
     collection: about
   - title: Personnel
     collection: personnel
+  - title: Information for Stakeholders
+    collection: information-for-stakeholders
   - title: Resources
     collection: resources
+  - title: News And Events
+    resource_room: true
   - title: External Links
     sublinks:
       - title: WADA News
         url: https://www.wada-ama.org/en/media/news
-      - title: UNESCO
-        url: http://www.unesco.org/new/en/social-and-human-sciences/themes/anti-doping/
-      - title: Online Drug Info
-        url: https://www.site.com/url/to/page/
-      - title: ADAMS
-        url: http://www.wada-ama.org/en/ADAMS/
-  - title: News And Events
-    resource_room: true

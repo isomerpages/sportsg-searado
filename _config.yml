@@ -1,20 +1,20 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: Southeast Asia Regional Anti-Doping Organisation
+url: "https://searado.com"
+favicon: /images/favicon-searado.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#367781'
+  secondary-color: '#00854E'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#49759A'
     - title: media-color-two
       color: '#744d9f'
     - title: media-color-three
-      color: '#00838f'
+      color: '#339999'
     - title: media-color-four
-      color: '#00838f'
+      color: '#339933'
     - title: media-color-five
       color: '#00838f'
 
@@ -23,6 +23,8 @@ collections:
   about:
     output: true
   personnel:
+    output: true
+  information-for-stakeholders:
     output: true
   resources:
     output: true
