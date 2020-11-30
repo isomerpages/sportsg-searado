@@ -21,7 +21,7 @@ links:
     collection: resources
   - title: News And Events
     resource_room: true
-  - title: External Links
+  - title: Links
     sublinks:
       - title: WADA News
         url: https://www.wada-ama.org/en/media/news
