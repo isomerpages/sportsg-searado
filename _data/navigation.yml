@@ -7,8 +7,6 @@
 logo: /images/searado-logo.jpg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Faq
     url: /faq/
   - title: About
@@ -19,9 +17,9 @@ links:
     collection: information-for-stakeholders
   - title: Resources
     collection: resources
-  - title: News And Events
+  - title: News & Events
     resource_room: true
-  - title: External Links
+  - title: Links
     sublinks:
       - title: WADA News
         url: https://www.wada-ama.org/en/media/news
