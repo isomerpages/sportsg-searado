@@ -12,6 +12,6 @@ In addition, DG, SEARADO also paid a visit to the Brunei Darussalam National Oly
 
 It is hoped that with all the support, Brunei will have a strong compliance program and in line with the revised Code that kicks in 2021.
 
-![Group Photo](/images/for-posts/2020/briefing-in-brunei-1.jpg)
+![Group Photo](/images/for-posts/2020/briefing-in-brunei-1.jpeg)
 
-![Group Photo](/images/for-posts/2020/briefing-in-brunei-2.jpg)
+![Group Photo](/images/for-posts/2020/briefing-in-brunei-2.jpeg)
