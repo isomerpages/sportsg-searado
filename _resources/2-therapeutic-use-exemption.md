@@ -22,7 +22,7 @@ These Guidelines are not mandatory, but are intended to give clarity and additio
 
 #### Therapeutic Use Exemption Application Form 
 TUE must be obtained in advance retroactively.<br>
-Download the TUE application form here: <br> [TUE Application Form (English)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8b0da801-bd1e-4514-a512-2a45d522c3a8) 
+Please download the TUE application form here: <br> [TUE Application Form (English)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8b0da801-bd1e-4514-a512-2a45d522c3a8) 
 
 #### Other Useful Links
 [WADA Q&A on Therapeutic Use Exemption](https://www.wada-ama.org/en/questions-answers/therapeutic-use-exemption-tue)<br>
