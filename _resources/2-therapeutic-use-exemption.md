@@ -22,14 +22,14 @@ These Guidelines are not mandatory, but are intended to give clarity and additio
 
 #### Therapeutic Use Exemption Process 
 ##### What is TUE? 
-Athletes may have an illness or medical condition requiring a particular medication. If this medication appears on the Prohibited List, the athlete may be granted a Therapeutic Use Exemption (TUE) that gives the athlete permission to take the medication. 
+Athletes may have an illness or medical condition requiring a particular medication or undergo procedures. If this medication appears on the Prohibited List, the athlete may be granted a Therapeutic Use Exemption (TUE) that gives the athlete permission to take the medication. 
 ##### Why the need for TUE? 
-In some instances, there may not be alternative medication or method to treat the illness or medical condition. TUEs ensure that the athlete is able to obtain treatment for a legitimate medical condition, even if treatment requires a prohibited substance or method. With the authorisation to consume the needed medication, it avoids the risk of sanctions due to a positive test.
+If the medication or method an athlete is required to use to treat an illness or condition is prohibited as per the World Anti-Doping Agency's (WADA) Prohibited List, a TUE may give that athlete the authorization to use that substance or method while competing without invoking an anti-doping rule violation (ADRV) and applicable sanction. Applications for TUEs are evaluated by a panel of physicians (TUE Committee). 
 ##### Who should apply for TUE? 
 Any athlete who may be subject to doping control must request a TUE before taking a prohibited medication. All information in a TUE request remains strictly confidential.
 An Athlete may be granted a TUE if (and only if) they can show, on the balance of probabilities, that each of the following conditions is met:
 
-<br> a.	The Prohibited Substance or Prohibited Method in question is needed to treat a diagnosed medical condition supported by relevant clinical evidence. <br>
+<br> a.	The athlete has a clear diagnosed medical condition, which requires treatment using a prohibited substance or method. <br>
 
 b.	The Therapeutic Use of the Prohibited Substance or Prohibited Method will not, on the balance of probabilities, produce any additional enhancement of performance beyond what might be anticipated by a return to the Athlete’s normal state of health following the treatment of the medical condition. <br>
 
@@ -37,12 +37,21 @@ c.	The Prohibited Substance or Prohibited Method is an indicated treatment for t
 
 d.	The necessity for the Use of the Prohibited Substance or Prohibited Method is not a consequence, wholly or in part, of the prior Use (without a TUE) of a substance or method which was prohibited at the time of such Use. <br>
 ##### When should one apply? 
-A TUE application must be made at least 30 days before taking part in an event. In exceptional cases or an emergency, a TUE may be granted retroactively.
+A TUE application must be made at least 30 days before taking part in an event. <br>
+Athletes who are subject to anti-doping rules would need a TUE to take a prohibited substance or use a prohibited method. You should verify with your National Anti-Doping Organsation (NADO) to know to whom you need to apply and if you can apply retroactively. 
+<br> You have a responsibility to inform your physician(s) that you are an athlete bound to anti-dopig rules. You and your physician(s) should check the prohibited list for whatever substance/method you are prescribed. If the substance/method is prohibited, discuss non-prohibited alternatives. If there are none, apply for a TUE. 
+<br> Remember that athletes have the ultimate responsiblity. 
+<br> Contact your NADO is you are having difficulties.
 
+#### How to apply to your NADO for a TUE? 
+Option 1: Only through ADAMS
+<br> You must exclusively submit your TUE application, including the required medical file, via ADAMS. If you do not have an ADAMS account yet, please contact your NADO to have your account set up. 
+<br> Option 2: through ADAMS or paper format/electronic TUE form 
+<br> Please download your NADO's TUE application form, and once duly completed and signed, send it together with the required medical file to your NADO. 
 
-#### Therapeutic Use Exemption Application Form 
+#### Therapeutic Use Exemption Application Form Template (SEARADO)
 TUE must be obtained at least 30 days in advance.<br>
-Please download the TUE application form here: <br> [TUE Application Form (English)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8b0da801-bd1e-4514-a512-2a45d522c3a8) 
+Please download the TUE application form template here: <br> [TUE Application Form (English)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8b0da801-bd1e-4514-a512-2a45d522c3a8) 
 
 #### Other Useful Links
 [WADA Q&A on Therapeutic Use Exemption](https://www.wada-ama.org/en/questions-answers/therapeutic-use-exemption-tue)<br>
