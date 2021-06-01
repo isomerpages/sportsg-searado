@@ -3,7 +3,7 @@ title: The Code and Code Compliance
 permalink: /resources/code-compliance/
 ---
 #### **What is World Anti-Doping Code**
-The [World Anti-Doping Code (Code)](/information-for-stakeholders/2021-Code.pdf) aims to harmonise anti-doping policies, rules and regulations within sports organisations and public organisations. The Code works in conjunction with [six International Standards](https://www.wada-ama.org/en/what-we-do/international-standards). WADA oversees the acceptance, implementation and compliance of the Code. 
+The [World Anti-Doping Code (Code)](/files/information-for-stakeholders/2021-Code.pdf) aims to harmonise anti-doping policies, rules and regulations within sports organisations and public organisations. The Code works in conjunction with [six International Standards](https://www.wada-ama.org/en/what-we-do/international-standards). WADA oversees the acceptance, implementation and compliance of the Code. 
 
 ##### ADO Guide to the Code
 [The ADO Reference Guide to the Code](https://www.wada-ama.org/sites/default/files/resources/files/wada_ado_reference_guide_to_code_final_en_revsept2015.pdf) outlines the changes in the 2015 Code and highlights what Anti-Doping Organisations (ADOs) should focus on going forward from a practical standpoint. It should be noted that the Guide is neither a substitute for the language of the Code, nor for the anti-doping rules of an ADO. The language of the Code is always the primary source. 
@@ -52,7 +52,7 @@ __Ongoing WADA Support:__ WADA continually provides Signatories with assistance 
 #### **Consequences of Non-Compliance**
 A legal framework for consequences of non-compliance was set by the [International Standard for Code Compliance by Signatories (ISCCS)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isccs_2020.pdf). If any non-conformity is identified, the Taskforce facilitates an open dialogue with the Signatory concerned and recommends corrective actions. Support and assistance are provided to help Signatories address all non-conformities within an agreed timeframe.
 
-The range of consequences that may be imposed on a Signatory that has failed to comply with the Code and/or International Standards on [Annex B](/resources/ISCCS-annexb-2019.pdf) of the ISCCS.
+The range of consequences that may be imposed on a Signatory that has failed to comply with the Code and/or International Standards on [Annex B](/files/resources/ISCCS-annexb-2019.pdf) of the ISCCS.
 
 ##### Procedure to be Followed when Non-confirmities are Identified
 ![Procedure to be Followed when Non-Conformities are Identified](/images/Procedure-to-be-Followed-when-Non-Conformities-are-Identified.png)

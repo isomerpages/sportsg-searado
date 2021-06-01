@@ -1,0 +1,10 @@
+collections:
+  about:
+    output: true
+    order:
+      - about-searado.md
+      - searado-member-countries.md
+      - searado-board-members.md
+      - searado-committees.md
+      - milestones.md
+      - anti-doping-services.md

@@ -19,15 +19,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-  about:
-    output: true
-  personnel:
-    output: true
-  information-for-stakeholders:
-    output: true
-  resources:
-    output: true
 resources_name: news-and-events
 
 ##################################################################################################################
@@ -48,10 +39,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://sportsg-searado-staging.netlify.app
+prod: https://sportsg-searado-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme

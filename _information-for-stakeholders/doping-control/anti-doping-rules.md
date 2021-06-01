@@ -3,7 +3,7 @@ title: Anti-Doping Rules
 permalink: /information-for-stakeholders/doping-control/anti-doping-rules/
 third_nav_title: Doping Control
 ---
-The [World Anti-Doping Code](/information-for-stakeholders/2021-Code.pdf) (Code) is a document that harmonises anti-doping regulations across all sports and all countries in the world. It provides a framework for anti-doping programmes and activities, so that all athletes have the benefit of the same anti-doping policies and procedures.
+The [World Anti-Doping Code](/files/information-for-stakeholders/2021-Code.pdf) (Code) is a document that harmonises anti-doping regulations across all sports and all countries in the world. It provides a framework for anti-doping programmes and activities, so that all athletes have the benefit of the same anti-doping policies and procedures.
 
 #### **What is Doping?**
 There are eleven ways in which athletes and athlete support personnel can violate the WADA Code:
