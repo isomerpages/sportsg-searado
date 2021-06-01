@@ -1,3 +1,9 @@
+---
+layout: post
+title: Congratulations to SEA region DCOs for completing the International Doping Control Officer Programme
+permalink: /news-and-events/searado-news/completing-IDCO
+---
+
 ![image](https://user-images.githubusercontent.com/76929359/116650442-aeb0e200-a9b3-11eb-8ac7-11fa5bdc81ae.png)
 
 On 18 and 19 March, SEARADO, in collaboration with the International Testing Agency (ITA), organised the International Doping Control Officer (IDCO) course. 
