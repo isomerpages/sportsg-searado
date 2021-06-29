@@ -10,4 +10,4 @@ To provide and support Athletes, their Physicians and Anti-Doping Organisations 
 <br>2. [TUE Physicians Guideline](https://www.wada-ama.org/en/resources/search?f%5B0%5D=field_resource_collections%3A158)
 
 <br>Additionally, you can download the TUE form here: 
-<br>[TUE Form](https://drive.google.com/file/d/1s6KNVFUj0s-n8YxaSVRhpYqTwXFOYuBb/view?usp=sharing) 
+<br>[TUE Form](https://drive.google.com/file/d/1s6KNVFUj0s-n8YxaSVRhpYqTwXFOYuBb/view?usp=sharing)
