@@ -2,7 +2,6 @@ collections:
   personnel:
     output: true
     order:
-      - tue-form-for-athletes/.keep
       - athlete/.keep
       - athlete/roles-responsibilities.md
       - athlete/prohibitied-list.md
