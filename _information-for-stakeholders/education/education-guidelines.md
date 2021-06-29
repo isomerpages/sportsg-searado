@@ -4,7 +4,10 @@ permalink: /information-for-stakeholders/education/education-guidelines
 third_nav_title: Education
 ---
 Education Guidelines & Information outline current, accurate, practical information to help protect clean sport and ensure compliance with the World Anti-Doping Code. These documents ensure stakeholders have the information they need, so that they can abide by anti-doping rules and regulations.
-
+##### International Standard for Education (ISE) 
+Education, as one prevention strategy highlighted in the Code, seeks to promote behaviour in line with the values of clean sport and to help prevent Athletes and other Persons from doping. 
+<br> One key underpinning principles of the ISE is that an Athlete's first experience with anti-doping should be through Education rather than Doping Control. 
+You can read more here: [ISE 2021](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_ise_2021.pdf) 
 ##### Education and Information Guidelines
 [The Guidelines](/files/information-for-stakeholders/educationguideline.pdf) support ADOs in the development, implementation, delivery, and evaluation of an effective core education programme within a broader anti-doping programme that also actively addresses deterrence and detection. Concrete examples are included to put concepts and principles into context. Worksheets and plans help with programme development.
 
