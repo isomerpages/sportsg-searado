@@ -1,0 +1,11 @@
+collections:
+  personnel:
+    output: true
+    order:
+      - athlete/.keep
+      - athlete/roles-responsibilities.md
+      - athlete/prohibitied-list.md
+      - athlete/whereabouts-information.md
+      - athlete/athlete-central.md
+      - athlete/athletes-anti-doping-rights-act.md
+      - athlete/therapeutic-use-exemption-form.md
