@@ -15,7 +15,7 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 | <a><img align="left" src="https://i.ibb.co/JnTgm5v/Htet-Wai-edited.jpg" style="border:none;margin:20px;width:180px;height:200px;" alt="Htet-Wai-edited" border="0"></a> Dr. Htet Wai <br> Myanmar |
 |  <a><img align="left" src="https://i.ibb.co/7WcS7z5/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Alejandro Jr. Pineda<br>Philippines  |
 |  <a><img align="left" src="https://i.ibb.co/TrxSPhV/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Meechai (Hilary) Inwood<br>Thailand  |
-|  Mr. Fernando Da Costa<br>Timor-Leste  |
+| <a><img align ="left" src="https://i.ibb.co/NmPWBH3/Whats-App-Image-2021-07-12-at-13-22-39.jpg" style="border:none;margin:20px;width:180px;height:180px;"> Mr. Fernando Da Costa<br>Timor-Leste  |
 |  <a><img align="left" src="https://www.linkpicture.com/q/image1_3.jpeg" style="border:none;margin:20px;width:180px;height:220px;"></a>Dr. Nguyen Van Phu<br>Vietnam  |
 
 |  Director General  |

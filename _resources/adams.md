@@ -2,7 +2,7 @@
 title: ADAMS
 permalink: /resources/ADAMS/
 ---
-The [Anti-Doping Administration & Management System (ADAMS)](https://adams.wada-ama.org/adams/) was developed for this purpose. It is a Web-based database management system that simplifies the daily activities of all stakeholders and athletes involved in the anti-doping system.
+The [Anti-Doping Administration & Management System (ADAMS)](https://adams.wada-ama.org/adams/login.do?prompt=true) was developed for this purpose. It is a Web-based database management system that simplifies the daily activities of all stakeholders and athletes involved in the anti-doping system.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bv9wdohU_vg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
