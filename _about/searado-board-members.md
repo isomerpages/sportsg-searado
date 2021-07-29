@@ -25,7 +25,7 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 |  Advisors  |
 | --- |
 |  <a><img align="left" src="https://i.ibb.co/kmrjC0d/image.png"  style="border:none;margin:20px;width:180px;height:234px;"></a>Mr Kazuhiro Hayashi<br>Director, Asia/Oceania Office<br>WADA  |
-|  <a><img align="left" src="https://i.ibb.co/mSJ7M8B/Ying-Cui-staff-portrait-May-2017.jpg" alt="Ying-Cui-staff-portrait-May-2017" style="border:none;margin:20px;width:180px;height:234px;"></a>Ms Cui Ying<br>Senior Manager, Program Development and NADO/RADO Relations<br>WADA  |
+|  <a><img align="left" src="https://i.ibb.co/mSJ7M8B/Ying-Cui-staff-portrait-May-2017.jpg" alt="Ying-Cui-staff-portrait-May-2017" style="border:none;margin:20px;width:180px;height:234px;"></a>Ms Cui Ying<br>Manager, Program Development and NADO/RADO Relations<br>WADA  |
 
 | Operations |
 | --- |
