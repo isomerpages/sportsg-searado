@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - dco-central/.keep
-      - dco-central/adams.md
       - the-code-and-code-compliance.md
       - international-standards-and-guidelines.md
       - therapeutic-use-exemption-tue.md
