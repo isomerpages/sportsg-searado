@@ -41,7 +41,7 @@ A TUE application must be made at least 30 days before taking part in an event. 
 Athletes who are subject to anti-doping rules would need a TUE to take a prohibited substance or use a prohibited method. You should verify with your National Anti-Doping Organsation (NADO) to know to whom you need to apply and if you can apply retroactively. 
 <br> You have a responsibility to inform your physician(s) that you are an athlete bound to anti-dopig rules. You and your physician(s) should check the prohibited list for whatever substance/method you are prescribed. If the substance/method is prohibited, discuss non-prohibited alternatives. If there are none, apply for a TUE. 
 <br> Remember that athletes have the ultimate responsiblity. 
-<br> Contact your NADO is you are having difficulties.
+<br> Contact your NADO if you are having difficulties.
 
 #### How to apply to your NADO for a TUE? 
 Option 1: Only through ADAMS

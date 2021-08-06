@@ -41,15 +41,15 @@ The full address of the place where the athlete will be residing, that is, sleep
 
 **3. 60-minute Timeslot**
 
-One specific 60-minute timeslot between 5am and 11pm each day were the athlete will be available and accessible for testing at a specific location.
+One specific 60-minute timeslot between 5am and 11pm each day where the athlete will be available and accessible for testing at a specific location.
 
-**4. Compeition Scedules and Locations**
+**4. Competition Schedules and Locations**
 
 The name and address of each competition location where the athlete is scheduled to compete during the quarter and the date(s) on which the athlete is competing at these locations.
 
 **5. Information and Locations of Training and Other Regular Activities**
 
-The dates, timeframes, name and address of each location where the athlete will train or conduct other regular activity (eg, school or work).
+The dates, timeframes, name and address of each location where the athlete will train or conduct other regular activity (e.g. school or work).
 
 **6. Level of Athlete**
 - International Athlete
