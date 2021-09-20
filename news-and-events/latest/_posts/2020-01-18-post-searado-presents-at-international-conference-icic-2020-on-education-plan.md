@@ -1,9 +1,11 @@
 ---
-layout: post
 title: SEARADO Presents at International Conference (ICIC 2020) on Education Plan
+date: 2020-01-18
 permalink: /news-and-events/latest/searado-presents-at-icic
-image: /images/for-posts/2020/International-Conference-on-Implementation-of-revised-World-Anti-Doping-Code-ICIC-2020.jpg
+layout: post
 ---
+
+
 ![Group Photo](/images/for-posts/2020/International-Conference-on-Implementation-of-revised-World-Anti-Doping-Code-ICIC-2020.jpg)
 
 The International Conference on the implementation of revised World Anti Doping Code (ICIC 2020) was organised and hosted by Anti-Doping Netherlands.
