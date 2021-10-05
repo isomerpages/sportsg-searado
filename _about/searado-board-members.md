@@ -10,7 +10,7 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 | <a><img align="left" src="https://i.ibb.co/0cmHbgN/Mr-Sukardi-Kaderi-edited.jpg" style="border:none;margin:20px;width:180px;height:220px;" alt="Mr-Sukardi-Kaderi-edited" border="0"></a>Mr Sukardi bin Kaderi<br>Brunei Darussalam |
 |  <a><img align="left" src="https://i.ibb.co/Zzk8mNW/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Ouk Diven<br>Cambodia  |
 | Indonesia  |
-|  <a><img align="left" src="https://i.ibb.co/Y8vSybs/image.png"  style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Southanom Inthavong<br>Laos  |
+|Laos  |
 |  <a><img align="left" src="https://i.ibb.co/FsY88Rm/Screenshot-2020-07-23-at-3-52-28-PM.png" style="border:none;margin:20px;width:180px;height:198px;"></a>Ms Azura bte Abidin<br>Malaysia  |
 | Myanmar    |
 |  <a><img align="left" src="https://i.ibb.co/7WcS7z5/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Alejandro Jr. Pineda<br>Philippines  |
