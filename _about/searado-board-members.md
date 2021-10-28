@@ -9,14 +9,14 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 |  <a><img align="left" src="https://i.ibb.co/gMLwZnm/image.png" style="border:none;margin:20px;width:180px;height:234px;" /></a>Dr. Patrick Goh (Chairman)<br>Singapore  |
 | <a><img align="left" src="https://i.ibb.co/0cmHbgN/Mr-Sukardi-Kaderi-edited.jpg" style="border:none;margin:20px;width:180px;height:220px;" alt="Mr-Sukardi-Kaderi-edited" border="0"></a>Mr Sukardi bin Kaderi<br>Brunei Darussalam |
 |  <a><img align="left" src="https://i.ibb.co/Zzk8mNW/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Ouk Diven<br>Cambodia  |
-| Indonesia  |
+|<a><img align="left" src="https://i.ibb.co/bNqcdbS/Dr-Rheza-MCR-photo.png" style="border:non;margin:20px;width:180px;height:200px;" alt="Dr-Rheza-MCR-photo" border="0"></a>Dr. Rheza Maulana Syahputra<br> Indonesia  |
 |Laos  |
 |  <a><img align="left" src="https://i.ibb.co/FsY88Rm/Screenshot-2020-07-23-at-3-52-28-PM.png" style="border:none;margin:20px;width:180px;height:198px;"></a>Ms Azura bte Abidin<br>Malaysia  |
 | Myanmar    |
 |  <a><img align="left" src="https://i.ibb.co/7WcS7z5/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Alejandro Jr. Pineda<br>Philippines  |
 |  <a><img align="left" src="https://i.ibb.co/TrxSPhV/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Meechai (Hilary) Inwood<br>Thailand  |
-| <a><img align ="left" src="https://i.ibb.co/NmPWBH3/Whats-App-Image-2021-07-12-at-13-22-39.jpg" style="border:none;margin:20px;width:180px;height:180px;"></a> Mr. Fernando Da Costa<br>Timor-Leste  |
-|  <a><img align="left" src="https://www.linkpicture.com/q/image1_3.jpeg" style="border:none;margin:20px;width:180px;height:220px;"></a>Dr. Nguyen Van Phu<br>Vietnam  |
+| <a><img align ="left" src="https://i.ibb.co/NmPWBH3/Whats-App-Image-2021-07-12-at-13-22-39.jpg" style="border:none;margin:20px;width:180px;height:190px;"></a> Mr. Fernando Da Costa<br>Timor-Leste  |
+|  <a><img align="left" src="https://i.ibb.co/W3SLmPs/Dr-Phu-MCR-photo.jpg" style=border:none;margin:20px;width:180px;height:220px; alt="Dr-Phu-MCR-photo" border="0"></a>Dr. Nguyen Van Phu<br>Vietnam  |
 
 |  Director General  |
 | --- |
