@@ -4,20 +4,20 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: SEARADO
 locations:
-  - title: Main Office
-    address:
-        - Southeast Asia Regional Anti-Doping Organization c/o Singapore Sports Council
-        - 3 Stadium Drive
-        - Singapore 397630
-    maps_link: https://goo.gl/maps/HrWbMWc4PdrXuTEX8
+  - address:
+      - Singapore Sports Council
+      - 3 Stadium Drive
+      - Singapore 397630
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
+    maps_link: https://goo.gl/maps/HrWbMWc4PdrXuTEX8
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: (65) 6500 5383
-    - phone: (65) 6440 9205
-    - email: Gobinathan_Nair@sport.gov.sg
+  - content:
+      - phone: (65) 6500 5383
+      - email: gobinair_dg@searado.com
+      - other: ""
+    title: General Enquiries & Feedback
 ---
