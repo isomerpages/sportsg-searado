@@ -12,7 +12,7 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 |<a><img align="left" src="https://i.ibb.co/bNqcdbS/Dr-Rheza-MCR-photo.png" style="border:non;margin:20px;width:180px;height:200px;" alt="Dr-Rheza-MCR-photo" border="0"></a>Dr. Rheza Maulana Syahputra<br> Indonesia  |
 |<a><img align="left" src="https://i.ibb.co/yq8DwC6/Dr-Silinthone-MCR-photo.png" style="border:non;margin:20px;width:180px;height:220px;" alt="Dr-Silinthone-MCR-photo" border="0"></a> Dr. Silinthone Sacklokham<br> Laos  |
 |  <a><img align="left" src="https://i.ibb.co/FsY88Rm/Screenshot-2020-07-23-at-3-52-28-PM.png" style="border:none;margin:20px;width:180px;height:198px;"></a>Ms Azura bte Abidin<br>Malaysia  |
-| Myanmar    |
+| <a><img align="left" src="https://i.ibb.co/y866vFy/Dr-Wunna-3-copy.jpg" style="border:non;margin:20px;width:180px;height:220px;" alt="Dr-Wunna-3-copy" border="0"> Dr. Wunna Rolin <br>Myanmar    |
 |  <a><img align="left" src="https://i.ibb.co/7WcS7z5/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Alejandro Jr. Pineda<br>Philippines  |
 |  <a><img align="left" src="https://i.ibb.co/TrxSPhV/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Meechai (Hilary) Inwood<br>Thailand  |
 | <a><img align ="left" src="https://i.ibb.co/NmPWBH3/Whats-App-Image-2021-07-12-at-13-22-39.jpg" style="border:none;margin:20px;width:180px;height:190px;"></a> Mr. Fernando Da Costa<br>Timor-Leste  |
@@ -29,4 +29,4 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 
 | Operations |
 | --- |
-|<img align="left" src="https://i.ibb.co/RckMR0y/photo1626836016.jpg" alt="photo1626836016" style="border:none;margin:20px;width:180px;height:234px;"> </a>Miss Suyi Yeo, <br>Executive (Operations)
+|<img align="left" src="https://i.ibb.co/RckMR0y/photo1626836016.jpg" alt="photo1626836016" style="border:none;margin:20px;width:180px;height:234px;"> Miss Suyi Yeo, <br>Executive (Operations)
