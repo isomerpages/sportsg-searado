@@ -3,10 +3,10 @@ title: The Code and Code Compliance
 permalink: /resources/code-compliance/
 ---
 #### **What is World Anti-Doping Code**
-The [World Anti-Doping Code (Code)](/files/information-for-stakeholders/2021-Code.pdf) aims to harmonise anti-doping policies, rules and regulations within sports organisations and public organisations. The Code works in conjunction with [six International Standards](https://www.wada-ama.org/en/what-we-do/international-standards). WADA oversees the acceptance, implementation and compliance of the Code. 
+The [World Anti-Doping Code (Code)](/files/information-for-stakeholders/2021-Code.pdf) aims to harmonise anti-doping policies, rules and regulations within sports organisations and public organisations. The Code works in conjunction with [eight International Standards](https://www.wada-ama.org/en/what-we-do/international-standards). WADA oversees the acceptance, implementation and compliance of the Code. 
 
 ##### ADO Guide to the Code
-[The ADO Reference Guide to the Code](https://www.wada-ama.org/sites/default/files/resources/files/wada_ado_reference_guide_to_code_final_en_revsept2015.pdf) outlines the changes in the 2015 Code and highlights what Anti-Doping Organisations (ADOs) should focus on going forward from a practical standpoint. It should be noted that the Guide is neither a substitute for the language of the Code, nor for the anti-doping rules of an ADO. The language of the Code is always the primary source. 
+[Athlete Support Personnel Guide](https://drive.google.com/file/d/1zYAPlZ0XXm41kM0BwqMuWhvBNNB7KNi-/view?usp=sharing) outlines the changes in the 2021 Code and highlights what Anti-Doping Organisations (ADOs) should focus on going forward from a practical standpoint. It should be noted that the Guide is neither a substitute for the language of the Code, nor for the anti-doping rules of an ADO. The language of the Code is always the primary source. 
 
 #### **What is 'Code Compliance'**
 Code Signatories – National Anti-Doping Organisations (NADO), International Federations (IF) and Major Events Organisations (MEO) – are responsible for the implementation of the Code through policies, statues, rules, regulations and programmes according to their authority and jurisdiction.
@@ -19,7 +19,7 @@ Steps for a NADO to become Code Compliant:
 **Step 1: Acceptance**
 
 - Agree to both the principles of the Code and implement and comply with the Code.
-- Develop the NADO Rules based on WADA’s [Model Rules for NADOs](https://www.wada-ama.org/en/resources/world-anti-doping-program/2015-model-rules-for-national-anti-doping-organizations). The Rules need to be submitted to WADA for review and acceptance.
+- Develop the NADO Rules based on WADA’s [Model Rules for NADOs](https://www.wada-ama.org/en/resources/2021-model-rules-national-anti-doping-organizations). The Rules need to be submitted to WADA for review and acceptance.
 
 **Step 2: Implementation**
 
