@@ -50,7 +50,7 @@ __Other Sources:__ Other sources of information are also used to monitor and ass
 __Ongoing WADA Support:__ WADA continually provides Signatories with assistance and guidance in implementing and complying with the Code and International Standards, particularly as the Compliance Monitoring Programme identifies areas for improvement.
 
 #### **Consequences of Non-Compliance**
-A legal framework for consequences of non-compliance was set by the [International Standard for Code Compliance by Signatories (ISCCS)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isccs_2020.pdf). If any non-conformity is identified, the Taskforce facilitates an open dialogue with the Signatory concerned and recommends corrective actions. Support and assistance are provided to help Signatories address all non-conformities within an agreed timeframe.
+A legal framework for consequences of non-compliance was set by the [International Standard for Code Compliance by Signatories (ISCCS)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isccs_2021.pdf). If any non-conformity is identified, the Taskforce facilitates an open dialogue with the Signatory concerned and recommends corrective actions. Support and assistance are provided to help Signatories address all non-conformities within an agreed timeframe.
 
 The range of consequences that may be imposed on a Signatory that has failed to comply with the Code and/or International Standards on [Annex B](/files/resources/ISCCS-annexb-2019.pdf) of the ISCCS.
 
