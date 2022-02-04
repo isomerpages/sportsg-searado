@@ -4,7 +4,6 @@ permalink: /information-for-stakeholders/results-management/sanctions/
 third_nav_title: Results Management
 description: ""
 ---
-
 #### **What are the sanctions for Anti-doping Rule Violations (ADRVs)?**
 Sanctions for violating anti-doping regulations may range from a reprimand to a lifetime ban. The period of ineligibility may vary depending on the type of anti-doping violation, the circumstances of an individual case, the substance, and the possible repetition of an anti-doping rule violation.
 
@@ -14,6 +13,6 @@ Athletes have the right to appeal any decisions made by the independent discipli
 
 Other ADOs or WADA also have the right to appeal a decision regarding the case. In such an instance, the procedure remains the same and the athlete has the right to be heard during the proceedings.
 
-Click [here](https://www.wada-ama.org/sites/default/files/wada_guidelines_results_management_hearings_decisions_2014_v1.0_en.pdf) to download the Results Management, Hearings and Decisions Guidelines.
+Click [here](https://www.wada-ama.org/en/resources/world-anti-doping-program/guidelines-2021-international-standard-results-management-isrmhttps://www.wada-ama.org/sites/default/files/wada_guidelines_results_management_hearings_decisions_2014_v1.0_en.pdf) to download the Results Management, Hearings and Decisions Guidelines.
 
 Click [here](/files/information-for-stakeholders/2021-Code-rm-7.pdf) to download the Article 7 Results Management of the Code.
