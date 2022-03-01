@@ -56,7 +56,7 @@ The athlete will complete the DCF by:
 
 All collected samples will be packaged and sent to a WADA-accredited laboratory for analysis. The transportation will be monitored by chain of custody procedures to ensure the security of the samples and that the samples can be tracked.
 
-Download the Doping Control Procedure brochure [here](https://www.wada-ama.org/sites/default/files/wada_doping_control_aag_eng_web.pdf).
+You can read the Doping Control Procedure brochure [here](https://www.yumpu.com/en/document/read/34802729/the-doping-control-process-world-anti-doping-agency).
 
 #### **Modifications for Minors and Athletes with Disability**
 An athlete who is a minor or an athlete with a disability may require slight modifications to the sample collection procedure.
