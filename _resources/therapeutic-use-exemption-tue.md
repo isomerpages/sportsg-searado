@@ -3,7 +3,7 @@ title: Therapeutic Use Exemption (TUE)
 permalink: /resources/therapeutic-use-exemption/
 ---
 #### International Standard for Therapeutic Use Exemption (ISTUE)
-The [International Standard for Therapeutic Use Exemptions](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_istue_-_2020.pdf) is a mandatory International Standard developed as part of the World Anti-Doping Program.
+The [International Standard for Therapeutic Use Exemptions](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_istue_-_2021.pdf) is a mandatory International Standard developed as part of the World Anti-Doping Program.
 
 The purpose of the ISTUE is to establish
 - the conditions that must be satisfied in order for a Therapeutic Use Exemption (or TUE) to be granted, permitting the presence of a Prohibited Substance in an Athlete’s Sample or the Athlete’s Use or Attempted Use, Possession and/or Administration or Attempted Administration of a Prohibited Substance or Prohibited Method for therapeutic reasons; 
