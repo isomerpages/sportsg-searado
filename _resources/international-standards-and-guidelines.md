@@ -17,10 +17,10 @@ The *2021 World Anti-Doping Code (Code)* and *International Standards (Standards
 
 [2021 World Anti-Doping Code and International Standard Framework](https://www.wada-ama.org/sites/default/files/resources/files/worldconferencebackgrounder_0.pdf)<br>
 [2021 World Anti-Doping Code](https://www.wada-ama.org/sites/default/files/resources/files/2021_wada_code.pdf)<br>
-[International Standard for Code Compliance by Signatories (ISCCS)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isccs_2020.pdf)<br>
+[International Standard for Code Compliance by Signatories (ISCCS)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isccs_2021.pdf)<br>
 [International Standard for Education (ISE)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_ise_2021.pdf)<br>
 [International Standard for Results Management (ISRM)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isrm_-_final_english_-_post_exco_20_may_2021.pdf)<br>
-[International Standard for Testing & Investigations (ISTI)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isti_-_2020.pdf)<br>
+[International Standard for Testing & Investigations (ISTI)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_isti_-_2021.pdf)<br>
 [International Standard for the Protection of Privacy and Personal Information (ISPPPI)](https://www.wada-ama.org/sites/default/files/resources/files/2021_ispppi_en.pdf)<br>
 [International Standard for Therapeutic Use Exemptions (ISTUE)](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_istue_-_2021.pdf)
 
