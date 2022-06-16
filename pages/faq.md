@@ -2,14 +2,13 @@
 title: FAQ
 permalink: /faq/
 ---
-
 ### **FAQ**
 
 ##### 1. Who are the Member Countries of SEARADO? 
 Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste and Vietnam.
 
 ##### 2. Do SEARADO provide anti-doping services?
-Yes. SEARADO facilitates Anti-Doping related courses and works along with International Federations for Out of Competition Testing. For more information, please contact *gobinathan_nair@sport.gov.sg*.
+Yes. SEARADO facilitates Anti-Doping related courses and works along with International Federations for Out of Competition Testing. For more information, please contact *gobinar_dg@searado.com*.
 
 ##### 3. Does SEARADO conduct Out-of-Competitions Testing (OOCT)?
 SEARADO through WADA manages the Testing Grant through which member countries can do Out of Competition Testing.
