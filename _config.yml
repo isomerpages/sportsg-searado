@@ -52,4 +52,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-is_government: true
+is_government: false
