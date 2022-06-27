@@ -1,46 +1,49 @@
 title: Southeast Asia Regional Anti-Doping Organisation
-url: "https://searado.com"
+url: https://searado.com
 favicon: /images/favicon-searado.ico
-
-# Site colors
 colors:
-  primary-color: '#367781'
-  secondary-color: '#00854E'
+  primary-color: "#367781"
+  secondary-color: "#00854E"
   media-colors:
     - title: media-color-one
-      color: '#49759A'
+      color: "#49759A"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#339999'
+      color: "#339999"
     - title: media-color-four
-      color: '#339933'
+      color: "#339933"
     - title: media-color-five
-      color: '#00838f'
-
-
+      color: "#00838f"
 resources_name: news-and-events
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-
 staging: https://sportsg-searado-staging.netlify.app
 prod: https://sportsg-searado-prod.netlify.app
 plugins:
@@ -49,3 +52,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+is_government: true
