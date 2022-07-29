@@ -12,4 +12,4 @@ The name and country of each panel member included in the CRMP can be found atta
 The CRMP procedural rules can be found attached here: <br>
 [Procedural Rules - Continental RM Panels - Asia Oceania ](/files/Procedural%20Rules%20-%20Continental%20RM%20Panels%20-%20Asia%20Oceania%20revised%20May%202022.pdf)
 
-For appointment of the Appeal Panel, Timor-Leste NOC will be using one of the NADOs in the SEA region with an independent Results Management Committee.  
+For appointment of the Appeal Panel, Timor-Leste NOC will be using one of the NADOs in the SEA region with an independent Results Management Committee.
