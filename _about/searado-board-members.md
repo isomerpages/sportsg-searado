@@ -9,7 +9,7 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 |  <a><img align="left" src="https://i.ibb.co/gMLwZnm/image.png" style="border:none;margin:20px;width:180px;height:234px;" /></a>Dr. Patrick Goh (Chairman)<br>Singapore  |
 | <a><img align="left" src="https://i.ibb.co/0cmHbgN/Mr-Sukardi-Kaderi-edited.jpg" style="border:none;margin:20px;width:180px;height:220px;" alt="Mr-Sukardi-Kaderi-edited" border="0"></a>Mr Sukardi bin Kaderi<br>Brunei Darussalam |
 |  <a><img align="left" src="https://i.ibb.co/Zzk8mNW/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Ouk Diven<br>Cambodia  |
-|<a></a><br> Indonesia  |
+|<a><img align="left" src="https://i.ibb.co/f9dZFR3/Whats-App-Image-2022-09-30-at-9-39-45-PM.jpg" style="border:none;margin:20px;width:180px;height:190px;"></a><br> Mr. Gatot S. Dewa Broto<br>Indonesia  |
 |<a><img align="left" src="https://i.ibb.co/yq8DwC6/Dr-Silinthone-MCR-photo.png" style="border:non;margin:20px;width:180px;height:220px;" alt="Dr-Silinthone-MCR-photo" border="0"></a> Dr. Silinthone Sacklokham<br> Laos  |
 |  <a><img align="left" src="https://i.ibb.co/FsY88Rm/Screenshot-2020-07-23-at-3-52-28-PM.png" style="border:none;margin:20px;width:180px;height:198px;"></a>Ms Azura bte Abidin<br>Malaysia  |
 | <a><img align="left" src="https://i.ibb.co/y866vFy/Dr-Wunna-3-copy.jpg" style="border:non;margin:20px;width:180px;height:220px;" alt="Dr-Wunna-3-copy" border="0"></a> Dr. Wunna Rolin <br>Myanmar    |
