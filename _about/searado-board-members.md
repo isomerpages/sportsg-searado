@@ -29,4 +29,4 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 
 | Operations |
 | --- |
-|<img align="left" src="https://i.ibb.co/RckMR0y/photo1626836016.jpg" alt="photo1626836016" style="border:none;margin:20px;width:180px;height:234px;"> Miss Suyi Yeo, <br>Executive (Operations)
+|<img align="left" src="https://i.ibb.co/rGCJM11/image1.jpg" alt="photo1626836016" style="border:none;margin:20px;width:180px;height:234px;"> Mr Ming Kai Tan, <br>Executive (Operations)
