@@ -1,6 +1,6 @@
 ---
 title: What is Therapeutic Use Exemption
-permalink: /information-for-stakeholders/therapeutic-use-exemption/what-is-TUE/
+permalink: /information-for-stakeholders/therapeutic-use-exemption/what-is-tue/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
 Athletes may have illnesses or conditions that require them to take particular medications or undergo procedures. If the medication or method an athlete is required to take/use to treat an illness or condition is included in the [World Anti-Doping Agency’s (WADA) Prohibited List (2022)](https://www.wada-ama.org/sites/default/files/resources/files/2022list_final_en.pdf), a Therapeutic Use Exemption (TUE) may give that athlete the right to take a substance or use a method that is prohibited.

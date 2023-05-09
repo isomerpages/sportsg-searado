@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anti-Doping Singapore (ADS) Reaccreditation Training
-permalink: /news-and-events/nado-updates/ads-reaccreditation
+permalink: /news-and-events/nado-updates/ads-reaccreditation/
 image: /images/for-posts/2018/ads-reaccreditation-0.jpg
 ---
 ![ADS reaccreditation training 2018](/images/for-posts/2018/ads-reaccreditation-0.jpg)

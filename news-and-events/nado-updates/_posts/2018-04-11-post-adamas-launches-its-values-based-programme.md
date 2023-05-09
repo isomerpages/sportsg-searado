@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ADAMAS Launches Its' Values-Based Programme
-permalink: /news-and-events/nado-updates/ADAMAS-valuesbasedprogramme
+permalink: /news-and-events/nado-updates/adamas-valuesbasedprogramme/
 image: /images/for-posts/2018/adamas-valuebasedprog-0.jpeg
 ---
 ![ADAMAS Values Based Programme](/images/for-posts/2018/adamas-valuebasedprog-0.jpeg)

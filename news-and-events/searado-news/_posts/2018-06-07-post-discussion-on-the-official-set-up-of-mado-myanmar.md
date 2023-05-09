@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discussion on the Official Set Up of MADO (Myanmar)
-permalink: /news-and-events/searado-news/MADO-set-up
+permalink: /news-and-events/searado-news/mado-set-up/
 ---
 ![MADO Set Up](/images/for-posts/2018/mado-set-up-0.jpg)
 

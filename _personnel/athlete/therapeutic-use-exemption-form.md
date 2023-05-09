@@ -1,6 +1,6 @@
 ---
 title: Therapeutic Use Exemption Form
-permalink: /personnel/athlete/permalink
+permalink: /personnel/athlete/permalink/
 third_nav_title: Athlete
 ---
 To provide and support Athletes, their Physicians and Anti-Doping Organisations (ADOs), WADA has provided two checklists, developed by WADA and external medical specialists primarily for the TUE Committee. 

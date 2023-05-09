@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anti-Doping e-learning Platform (ADeL)
-permalink: /news-and-events/searado-news/ADeL
+permalink: /news-and-events/searado-news/adel/
 image: /images/adel.png
 ---
 WADA recently launched an Anti-Doping eLearning Platform (ADeL) on 30th January 2018. Details of the e-learning platform can be obtained from the webinar below.

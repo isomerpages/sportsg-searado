@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEARADO Presents at a Pre-Conference Forum
-permalink: /news-and-events/searado-news/searado-presents-at-preconference-forum
+permalink: /news-and-events/searado-news/searado-presents-at-preconference-forum/
 image: /images/for-posts/2019/searado-presentation-preconference.jpg
 ---
 ![Gobi Presenting](/images/for-posts/2019/searado-presentation-preconference.jpg "Mr Gobi")

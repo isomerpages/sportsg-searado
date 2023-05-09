@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Director Mr Kazuhiro and Director General Mr Gobinathan Meets Indonesia's Secretary Ministry of Sports & Youth, Dr. Gatot S. Dewa Broto
-permalink: /news-and-events/searado-news/meet-with-indo-ministryofsports&youth
+permalink: /news-and-events/searado-news/meet-with-indo-ministryofsports&youth/
 image: /images/for-posts/2020/meet-indo-scretary-ministry-of-sports&youth-0.jpg
 ---
 ![Group Photo](/images/for-posts/2020/meet-indo-scretary-ministry-of-sports&youth-0.jpg)

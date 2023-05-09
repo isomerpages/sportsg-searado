@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEARADO invited to speak in a Joint Workshop in Malaysia, Kuala Lumpur
-permalink: /news-and-events/searado-news/jointworkshop-malaysia-2020
+permalink: /news-and-events/searado-news/jointworkshop-malaysia-2020/
 image: /images/for-posts/2020/jointworkshop-malaysia-0.jpg
 ---
 ![Joint Workshop in Malaysia, Kuala Lumpur](/images/for-posts/2020/jointworkshop-malaysia-0.jpg)

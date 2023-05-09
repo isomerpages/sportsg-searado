@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DCO, RM, TUE Course in Myanmar
-permalink: /news-and-events/searado-news/dco-rm-tue-course
+permalink: /news-and-events/searado-news/dco-rm-tue-course/
 ---
 The month of June has been a busy month for Myanmar’s Anti Doping Organization (MADO). In preparation for the Asean University Games in late 2018, as well as, more importantly to build capacity, MADO under the leadership of Dr Mya Lay Sein, Minister of Health and Sport organised 3 courses: Doping Contorl Officer (DCO) course, Therapeutic Use Exemption (TUE) course and Results Management (RM) course.
 

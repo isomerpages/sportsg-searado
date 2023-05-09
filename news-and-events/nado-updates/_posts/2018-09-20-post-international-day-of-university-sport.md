@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International Day of University Sport
-permalink: /news-and-events/nado-updates/internationalday-unisport
+permalink: /news-and-events/nado-updates/internationalday-unisport/
 image: /images/for-posts/2018/internationalday-unisport-0.jpg
 ---
 ![International Day of University Sport](/images/for-posts/2018/internationalday-unisport-0.jpg)

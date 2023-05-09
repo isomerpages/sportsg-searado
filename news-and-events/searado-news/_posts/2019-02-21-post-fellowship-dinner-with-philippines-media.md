@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fellowship Dinner with Philippines Media
-permalink: /news-and-events/searado-news/fellowship-dinner-philippines
+permalink: /news-and-events/searado-news/fellowship-dinner-philippines/
 image: /images/for-posts/2019/fellowship-dinner-phil.jpeg
 ---
 ![Fellowship Dinner with Philippines Media](/images/for-posts/2019/fellowship-dinner-phil.jpeg)

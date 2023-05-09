@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DCO Course in Laos
-permalink: /news-and-events/nado-updates/dcocourse-laos
+permalink: /news-and-events/nado-updates/dcocourse-laos/
 image: /images/for-posts/2019/Laos-DCO-course-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/Laos-DCO-course-0.jpg)

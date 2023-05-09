@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coach True (Thai) First Launched in Thailand
-permalink: /news-and-events/nado-updates/coachtrue-thai
+permalink: /news-and-events/nado-updates/coachtrue-thai/
 image: /images/for-posts/2018/coachtrue-thai-0.jpg
 ---
 ![Coach True Launched in Thailand](/images/for-posts/2018/coachtrue-thai-0.jpg)

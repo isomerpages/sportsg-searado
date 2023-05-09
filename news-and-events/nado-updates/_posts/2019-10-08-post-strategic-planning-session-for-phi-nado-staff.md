@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strategic Planning Session for Phi-NADO Staff
-permalink: /news-and-events/nado-updates/strat-planning-phinado-staff
+permalink: /news-and-events/nado-updates/strat-planning-phinado-staff/
 image: /images/for-posts/2019/strat-plan-phinado-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/strat-plan-phinado-0.jpg)

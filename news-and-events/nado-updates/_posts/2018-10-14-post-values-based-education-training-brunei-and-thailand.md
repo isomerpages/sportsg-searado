@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Values-based Education Training (Brunei & Thailand)
-permalink: /news-and-events/nado-updates/values-based-ed-brunei-thailand
+permalink: /news-and-events/nado-updates/values-based-ed-brunei-thailand/
 image: /images/for-posts/2018/valuesbased-ed-0.jpeg
 ---
 ![Values-based Education Training - Brunei & Thailand](/images/for-posts/2018/valuesbased-ed-0.jpeg)

@@ -2,7 +2,7 @@
 layout: post
 title: Congratulations to SEA region DCOs for completing the International
   Doping Control Officer Programme
-permalink: /news-and-events/searado-news/completing-IDCO
+permalink: /news-and-events/searado-news/completing-idco/
 ---
 ![image](https://user-images.githubusercontent.com/76929359/116650442-aeb0e200-a9b3-11eb-8ac7-11fa5bdc81ae.png)
 

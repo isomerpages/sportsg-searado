@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ADAMAS Outreach Programme during the 19th Malaysia Games 2018
-permalink: /news-and-events/nado-updates/adamas-outreachprogmme-2018
+permalink: /news-and-events/nado-updates/adamas-outreachprogmme-2018/
 image: /images/for-posts/2018/adamas-outreachprog-0.jpeg
 ---
 ![ADAMAS Outreach Programme 2018](/images/for-posts/2018/adamas-outreachprog-0.jpeg)

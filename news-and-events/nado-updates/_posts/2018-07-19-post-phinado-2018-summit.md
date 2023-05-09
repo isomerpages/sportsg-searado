@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHINADO 2018 Summit
-permalink: /news-and-events/nado-updates/phinado-2018-summit
+permalink: /news-and-events/nado-updates/phinado-2018-summit/
 image: /images/for-posts/2018/phinado-2018-summit-0.jpg
 ---
 ![PHINADO 2018 Summit](/images/for-posts/2018/phinado-2018-summit-0.jpg)

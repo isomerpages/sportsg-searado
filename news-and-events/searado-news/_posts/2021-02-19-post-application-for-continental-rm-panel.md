@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Application for Continental RM Panel
-permalink: /news-and-events/searado-news/Continental-RM-Panel-Application
+permalink: /news-and-events/searado-news/continental-rm-panel-application/
 ---
 
 Calling for all legal personnel who may have an interest in applying to be part of the Continental RM Panel - Good news, as the deadline has been extended to 31st of March 2021. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KADA Anti-Doping Seminar
-permalink: /news-and-events/searado-news/kada-antidoping-seminar
+permalink: /news-and-events/searado-news/kada-antidoping-seminar/
 image: /images/for-posts/2019/kada-antidoping-seminar.jpg
 ---
 ![Group Photo](/images/for-posts/2019/kada-antidoping-seminar.jpg)

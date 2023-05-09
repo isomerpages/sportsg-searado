@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEARADO Anti-Doping Education Trainers' Workshop (2018)
-permalink: /news-and-events/searado-news/antidoping-education-trainers'-workshop-2018
+permalink: /news-and-events/searado-news/antidoping-education-trainers'-workshop-2018/
 image: /images/for-posts/2018/searado-antidopingedworkshop-0.jpg
 ---
 ![SEARADO anti-doping education trainers' workshop 2018](/images/for-posts/2018/searado-antidopingedworkshop-0.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEARADO Countries & JADA Meeting Cum Workshop in Tokyo, Japan
-permalink: /news-and-events/searado-news/searado-jada-meeting-workshop
+permalink: /news-and-events/searado-news/searado-jada-meeting-workshop/
 image: /images/for-posts/2019/searado-jada-meeting-workshop-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/searado-jada-meeting-workshop-0.jpg)

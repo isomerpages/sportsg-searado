@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Therapeutice Use Exemption (TUE) Course in Cambodia
-permalink: /news-and-events/nado-updates/tue-course-cambodia-2019
+permalink: /news-and-events/nado-updates/tue-course-cambodia-2019/
 image: /images/for-posts/2019/tue-course-cam-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/tue-course-cam-0.jpg)
