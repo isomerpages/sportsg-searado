@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Visit to CADA
-permalink: /news-and-events/searado-news/cada-visit-2018
+permalink: /news-and-events/searado-news/cada-visit-2018/
 image: /images/for-posts/2018/cada-visit-0.jpeg
 ---
 ![CADA Visit](/images/for-posts/2018/cada-visit-0.jpeg)

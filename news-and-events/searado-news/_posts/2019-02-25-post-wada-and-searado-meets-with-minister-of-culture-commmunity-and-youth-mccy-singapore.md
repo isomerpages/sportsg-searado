@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WADA and SEARADO Meets with Minister of Culture, Commmunity and Youth (MCCY), Singapore
-permalink: /news-and-events/searado-news/wada&searado-meet-with-mccy
+permalink: /news-and-events/searado-news/wada&searado-meet-with-mccy/
 image: /images/for-posts/2019/searado-meet-mccy-0.jpeg
 ---
 ![Mr Kazu and Mr Gobi meeting with Mr Derrick from MCCY](/images/for-posts/2019/searado-meet-mccy-0.jpeg)

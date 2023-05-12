@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JADA - Sport for Tomorrow
-permalink: /news-and-events/searado-news/jada-sport-for-tomorrow
+permalink: /news-and-events/searado-news/jada-sport-for-tomorrow/
 image: /images/for-posts/2018/jada-sport-for-tomorrow-0.jpeg
 ---
 ![JADA Sport for Tomorrow](/images/for-posts/2018/jada-sport-for-tomorrow-0.jpeg)

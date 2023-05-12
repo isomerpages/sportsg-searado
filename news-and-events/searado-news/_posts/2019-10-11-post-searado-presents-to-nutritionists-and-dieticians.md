@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEARADO Presents to Nutritionists and Dieticians
-permalink: /news-and-events/searado-news/presentation-to-dieticians-nutritionists
+permalink: /news-and-events/searado-news/presentation-to-dieticians-nutritionists/
 image: /images/for-posts/2019/presentation-dieticians-nutritionists-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/presentation-dieticians-nutritionists-0.jpg)

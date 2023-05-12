@@ -44,8 +44,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-staging: https://sportsg-searado-staging.netlify.app
-prod: https://sportsg-searado-prod.netlify.app
+staging: https://staging.d26w0lh8re61hm.amplifyapp.com/
+prod: https://master.d26w0lh8re61hm.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASDA Officials Visit SEARADO
-permalink: /news-and-events/searado-news/asda-visit-searado
+permalink: /news-and-events/searado-news/asda-visit-searado/
 image: /images/for-posts/2019/asda-searado.jpg
 ---
 ![Group Photo with ASDA Officials and SEARADO](/images/for-posts/2019/asda-searado.jpg)

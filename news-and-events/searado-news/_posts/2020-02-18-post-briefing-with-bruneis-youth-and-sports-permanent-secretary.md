@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Briefing with Brunei's Youth and Sports Permanent Secretary
-permalink: /news-and-events/searado-news/briefing-brunei-permsec
+permalink: /news-and-events/searado-news/briefing-brunei-permsec/
 image: /images/for-posts/2020/briefing-in-brunei-0.jpg
 ---
 ![Photo with Maj Gen Dato Aminuddin](/images/for-posts/2020/briefing-in-brunei-0.jpg)

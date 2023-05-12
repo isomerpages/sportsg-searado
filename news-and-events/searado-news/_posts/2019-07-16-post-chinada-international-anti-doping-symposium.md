@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHINADA International Anti-Doping Symposium
-permalink: /news-and-events/searado-news/chinada-international-antidoping-symposium
+permalink: /news-and-events/searado-news/chinada-international-antidoping-symposium/
 image: /images/for-posts/2019/chinada-antidoping-symposium.jpg
 ---
 ![Group Photo with SEARADO Member Country Representatives](/images/for-posts/2019/chinada-antidoping-symposium.jpg)

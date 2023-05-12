@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Key Personnel and Board of Directors of DCAT Visits JADA
-permalink: /news-and-events/nado-updates/dcat-visits-jada
+permalink: /news-and-events/nado-updates/dcat-visits-jada/
 image: /images/for-posts/2019/dcat-visit-jada-0.jpg
 ---
 ![Group photo](/images/for-posts/2019/dcat-visit-jada-0.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DCO Refresher Course Conducted by ADAMS (Malaysia)
-permalink: /news-and-events/nado-updates/dco-refreshercourse-ADAMAS
+permalink: /news-and-events/nado-updates/dco-refreshercourse-adamas/
 image: /images/for-posts/2018/dco-refresher-adamas-0.jpg
 ---
 

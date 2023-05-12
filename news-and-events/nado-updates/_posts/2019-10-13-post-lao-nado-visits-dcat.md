@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lao-NADO visits DCAT
-permalink: /news-and-events/nado-updates/laonado-visit-dcat
+permalink: /news-and-events/nado-updates/laonado-visit-dcat/
 image: /images/for-posts/2019/laonado-visit-dcat-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/laonado-visit-dcat-0.jpg)

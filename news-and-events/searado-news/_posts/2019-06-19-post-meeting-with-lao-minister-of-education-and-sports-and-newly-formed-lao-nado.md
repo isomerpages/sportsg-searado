@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meeting with Lao Minister of Education and Sports, and Newly Formed Lao-NADO
-permalink: /news-and-events/searado-news/meeting-with-lao-nado
+permalink: /news-and-events/searado-news/meeting-with-lao-nado/
 image: /images/for-posts/2019/lao-nado-meeting-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/lao-nado-meeting-0.jpg)

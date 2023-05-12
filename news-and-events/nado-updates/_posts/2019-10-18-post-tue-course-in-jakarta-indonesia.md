@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TUE Course in Jakarta, Indonesia
-permalink: /news-and-events/nado-updates/tuecourse-jakarta
+permalink: /news-and-events/nado-updates/tuecourse-jakarta/
 image: /images/for-posts/2019/tuecourse-jakarta-0.jpeg
 ---
 ![Opening Photo](/images/for-posts/2019/tuecourse-jakarta-0.jpeg)

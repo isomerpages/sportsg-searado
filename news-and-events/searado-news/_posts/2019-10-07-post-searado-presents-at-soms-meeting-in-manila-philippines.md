@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEARADO Presents at SOMS Meeting in Manila, Philippines
-permalink: /news-and-events/searado-news/soms-meeting-manila
+permalink: /news-and-events/searado-news/soms-meeting-manila/
 image: /images/for-posts/2019/soms-meeting-0.jpg
 ---
 ![Group Photo](/images/for-posts/2019/soms-meeting-0.jpg)

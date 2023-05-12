@@ -1,7 +1,7 @@
 ---
 title: SEARADO hosted a Webinar on ABP and APMU matters
 date: 2021-08-25
-permalink: /news-and-events/searado-news/abp-apmu-webinar
+permalink: /news-and-events/searado-news/abp-apmu-webinar/
 layout: post
 ---
 

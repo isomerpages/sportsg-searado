@@ -1,7 +1,7 @@
 ---
 title: SEARADO Presents at International Conference (ICIC 2020) on Education Plan
 date: 2020-01-18
-permalink: /news-and-events/latest/searado-presents-at-icic
+permalink: /news-and-events/latest/searado-presents-at-icic/
 layout: post
 ---
 

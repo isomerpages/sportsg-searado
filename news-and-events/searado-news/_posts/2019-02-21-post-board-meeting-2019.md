@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Board Meeting 2019
-permalink: /news-and-events/searado-news/board-meeting-2019
+permalink: /news-and-events/searado-news/board-meeting-2019/
 image: /images/for-posts/2019/board-meeting-2019-0.jpeg
 ---
 ![Board Meeting 2019](/images/for-posts/2019/board-meeting-2019-0.jpeg)

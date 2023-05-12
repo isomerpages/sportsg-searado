@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WADA and SEARADO Meets with Minister of Education and Sports, Laos
-permalink: /news-and-events/searado-news/meet-with-laos-education-and-sport-minister
+permalink: /news-and-events/searado-news/meet-with-laos-education-and-sport-minister/
 image: /images/for-posts/2019/meet-with-laos-moe-0.jpeg
 ---
 ![meet with laos education and sport minister](/images/for-posts/2019/meet-with-laos-moe-0.jpeg)

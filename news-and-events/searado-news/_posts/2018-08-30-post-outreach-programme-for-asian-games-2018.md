@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outreach Programme for Asian Games 2018
-permalink: /news-and-events/searado-news/outreachprogramme-asiangames-2018
+permalink: /news-and-events/searado-news/outreachprogramme-asiangames-2018/
 image: /images/for-posts/2018/outreachprog-asiangames.png
 ---
 ![Outreach Programme for Asian Games 2018](/images/for-posts/2018/outreachprog-asiangames.png)

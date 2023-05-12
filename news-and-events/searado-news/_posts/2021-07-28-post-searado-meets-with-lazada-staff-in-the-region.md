@@ -1,7 +1,7 @@
 ---
 title: SEARADO meets with Lazada staff in the region
 date: 2021-07-28
-permalink: /news-and-events/searado-news/lazada-meeting
+permalink: /news-and-events/searado-news/lazada-meeting/
 layout: post
 ---
 

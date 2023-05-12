@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meeting Between ADAMAS Team and the National Coaching Academy of Malaysia
-permalink: /news-and-events/nado-updates/adamas-akk-meeting
+permalink: /news-and-events/nado-updates/adamas-akk-meeting/
 image: /images/for-posts/2019/ADAMS-National-Coaching-Academy-AKK.jpg
 ---
 ![Group Photo](/images/for-posts/2019/ADAMS-National-Coaching-Academy-AKK.jpg)

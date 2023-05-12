@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OCA/OS Asian Skateboard Youth Camp, Nanjing
-permalink: /news-and-events/searado-news/asian-skateboard-youthcamp-nanjing
+permalink: /news-and-events/searado-news/asian-skateboard-youthcamp-nanjing/
 image: /images/for-posts/2019/asian-skateboard-youthcamp-nanjing-0.jpg
 ---
 ![Asian Skateboard Youth Camp](/images/for-posts/2019/asian-skateboard-youthcamp-nanjing-0.jpg)

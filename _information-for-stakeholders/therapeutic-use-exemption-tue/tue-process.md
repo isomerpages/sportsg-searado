@@ -1,6 +1,6 @@
 ---
 title: TUE Process
-permalink: /information-for-stakeholders/therapeutic-use-exemption/TUE-process/
+permalink: /information-for-stakeholders/therapeutic-use-exemption/tue-process/
 third_nav_title: Therapeutic Use Exemption (TUE)
 ---
 ![TUE Process](/images/tue-process.png)

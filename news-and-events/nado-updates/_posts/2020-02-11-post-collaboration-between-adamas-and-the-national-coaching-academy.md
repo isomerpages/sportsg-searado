@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collaboration Between ADAMAS and The National Coaching Academy
-permalink: /news-and-events/nado-updates/collab-adamas-akk
+permalink: /news-and-events/nado-updates/collab-adamas-akk/
 image: /images/for-posts/2020/adamas-akk-collab-0.jpg
 ---
 ![Photo](/images/for-posts/2020/adamas-akk-collab-0.jpg)
