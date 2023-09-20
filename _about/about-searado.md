@@ -55,3 +55,10 @@ To enhance the relations between SEARADO and member countries governments, Natio
 1. Cooperate and collaborate with Governments, NOCs, Regional Game Organisers and other relevant stakeholders towards achieving common clean sport goals.
 2. Develop and implement a mechanism to improve the relations between SEARADO and Board Members, as well as, other stakeholders.
 3. Encourage all stakeholders to engage and involve athletes in their anti-doping programmes.
+
+#### **The Logo**
+The logo of SEARADO consists of a few elements:
+- The laurel wreath represents the countris within the region working together with integrity and honour to achieve victory.
+- The human-like icons represent the various stakeholders working together to uphold clean sport.
+- The colour dark blue is associated with honesty and authority while the colour green is associated with the World Anti-Doping Agency (WADA).
+- The words 'South East Asia RADO' are placed beside as the organisation works together with the stakeholders and countries to champion clean sport.
