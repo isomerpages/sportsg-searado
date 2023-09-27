@@ -33,5 +33,3 @@ And all of the 100 over participants at the symposium for your active participat
 ![Alt text for image on Isomer site](/images/Symposium/sympo14.jpg)
 ![Alt text for image on Isomer site](/images/Symposium/sympo15.jpg)
 ![Alt text for image on Isomer site](/images/Symposium/sympo16.jpg)
-
-
