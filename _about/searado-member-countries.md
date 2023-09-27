@@ -2,7 +2,7 @@
 title: SEARADO Member Countries
 permalink: /about/searado-member-countries/
 ---
-Athletes and the support personnel can contact the respective Southeast Asia National Anti-Doping Organisations (NADO) or National Olympic Committees (NOC) for more information on their anti-doping programmes.
+Anti-Doping Officers (ADOs) can contact the respective Southeast Asia National Anti-Doping Organisations (NADOs) for more information on their anti-doping programmes.
 
 | Country  | NADO |
 | --- | --- |
