@@ -21,4 +21,4 @@ Athletes can check if the medication or the method of treatment is prohibited un
 2. [Sport Integrity Australia (SIA) GlobalDRO](https://www.globaldro.com/AU/search)
 3. [Hong Kong Anti-Doping Committee’s Drug in Sport](http://www.druginsport.hk/)
 
-The Prohibited List is updated by WADA annually. With effect from 9 September 2022, the most current edition of the list can be found directly at [WADA's website](https://www.wada-ama.org/sites/default/files/2022-09/2023list_en_final_9_september_2022.pdf)
+The Prohibited List is updated by WADA annually. With effect from 1 January 2023, the most current edition of the list can be found directly at [WADA's website](https://www.wada-ama.org/sites/default/files/2022-09/2023list_en_final_9_september_2022.pdf)
