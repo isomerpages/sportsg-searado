@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+
 On 28th July, SEARADO with the support of Ministry of Culture, Community and Youth (MCCY) of Singapore and in collaboration with Coach SG organised a workshop on values-based activities as part of the Game for Life (GFL) Community of Practice (CoP) for coaches and sports educators in Character and Leadership Development through Sports (CLDS) in Singapore. The GFL Framework provides sports educators with a structured approach in CLDS. Till date, schools’ PE teachers and coaches have adopted the framework into sports lessons and programmes for values inculcation.
 
 ![Alt text for image on Isomer site](/images/GFL,%20COP%20Workshop/gfl001.jpg)
