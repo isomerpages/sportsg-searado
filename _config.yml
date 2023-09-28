@@ -1,6 +1,6 @@
 title: Southeast Asia Regional Anti-Doping Organisation
 url: https://searado.com
-favicon: /images/searado logo_update.png
+favicon: /images/for-posts/searado new logo.png
 colors:
   primary-color: "#367781"
   secondary-color: "#00854E"
@@ -53,7 +53,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 is_government: false
-shareicon: /images/isomer-logo.svg
+shareicon: /images/for-posts/searado new logo.png
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

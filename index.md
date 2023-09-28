@@ -2,7 +2,7 @@
 layout: homepage
 title: Southeast Asia Regional Anti-Doping Organisation
 description: test test
-image: /images/isomer-logo.svg
+image: /images/for-posts/searado new logo.png
 permalink: /
 notification: null
 sections:
@@ -27,15 +27,14 @@ sections:
           description: The official Youtube channel of the World Anti-Doping Agency (WADA)
           url: https://www.youtube.com/user/wadamovies
   - infobar:
-      ? title
-      ? subtitle
-      ? description
-      ? button
-      ? url
+      title: null
+      subtitle: null
+      description: null
+      button: null
+      url: null
   - resources:
       title: News and Events
       subtitle: SEARADO and Member Countries
       button: View More
       url: /news-and-events/latest/
 ---
-
