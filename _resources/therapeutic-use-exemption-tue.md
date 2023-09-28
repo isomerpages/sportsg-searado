@@ -51,7 +51,7 @@ Option 1: Only through ADAMS
 
 #### Therapeutic Use Exemption Application Form Template (SEARADO)
 TUE must be obtained at least 30 days in advance.<br>
-Please download the TUE application form template here: <br> [TUE Application Form (English)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8b0da801-bd1e-4514-a512-2a45d522c3a8) 
+Please download the TUE application form template here: <br> [TUE Application Form (English)](https://drive.google.com/file/d/1CaF5Gt4-HjGDoNYlc-4_YbzUnCNeOtgN/view?usp=sharing) 
 
 #### Other Useful Links
 [WADA Q&amp;A on Therapeutic Use Exemption](https://www.wada-ama.org/en/athletes-support-personnel/therapeutic-use-exemptions-tues)<br>
