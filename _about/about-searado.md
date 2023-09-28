@@ -57,8 +57,8 @@ To enhance the relations between SEARADO and member countries governments, Natio
 3. Encourage all stakeholders to engage and involve athletes in their anti-doping programmes.
 
 #### **The Logo**
-The SEARADO logo consists of a few elements
-- The laurel wreath represents the countries within the region working together with integrity and honour to achieve victory.
+The logo of SEARADO consists of a few elements:
+- The laurel wreath represents the countris within the region working together with integrity and honour to achieve victory.
 - The human-like icons represent the various stakeholders working together to uphold clean sport.
 - The colour dark blue is associated with honesty and authority while the colour green is associated with the World Anti-Doping Agency (WADA).
 - The words 'South East Asia RADO' are placed beside as the organisation works together with the stakeholders and countries to champion clean sport.
