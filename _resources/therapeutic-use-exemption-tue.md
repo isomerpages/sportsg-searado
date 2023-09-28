@@ -3,7 +3,7 @@ title: Therapeutic Use Exemption (TUE)
 permalink: /resources/therapeutic-use-exemption/
 ---
 #### International Standard for Therapeutic Use Exemption (ISTUE)
-The [International Standard for Therapeutic Use Exemptions](https://www.wada-ama.org/sites/default/files/resources/files/international_standard_istue_-_2021.pdf) is a mandatory International Standard developed as part of the World Anti-Doping Program.
+The [International Standard for Therapeutic Use Exemptions](https://www.wada-ama.org/sites/default/files/2022-09/international_standard_for_therapeutic_use_exemptions_-_redlined_version_2023_vs_2021.pdf) is a mandatory International Standard developed as part of the World Anti-Doping Program.
 
 The purpose of the ISTUE is to establish
 - the conditions that must be satisfied in order for a Therapeutic Use Exemption (or TUE) to be granted, permitting the presence of a Prohibited Substance in an Athlete’s Sample or the Athlete’s Use or Attempted Use, Possession and/or Administration or Attempted Administration of a Prohibited Substance or Prohibited Method for therapeutic reasons; 
@@ -14,7 +14,7 @@ The purpose of the ISTUE is to establish
 - the strict confidentiality provisions that apply to the TUE process.
 
 #### WADA Therapeutic Use Exemption Guidelines
-This [TUE Guidelines](https://www.wada-ama.org/sites/default/files/resources/files/guidelines_for_istue_2021.pdf) document takes ADOs through the lifecycle of the TUE, starting with the criteria for granting a TUE.
+This [TUE Guidelines](https://www.wada-ama.org/sites/default/files/2022-12/istue_guidelines_2023_en.pdf) document takes ADOs through the lifecycle of the TUE, starting with the criteria for granting a TUE.
 
 The Guidelines bring forward key ADO responsibilities, including support of Athletes making TUE applications, recognition of TUEs, and communication of TUE decisions. Confidentiality provisions and WADA’s role in the review of TUE decisions are also addressed.
 
@@ -54,5 +54,5 @@ TUE must be obtained at least 30 days in advance.<br>
 Please download the TUE application form template here: <br> [TUE Application Form (English)](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8b0da801-bd1e-4514-a512-2a45d522c3a8) 
 
 #### Other Useful Links
-[WADA Q&A on Therapeutic Use Exemption](https://www.wada-ama.org/en/news/wada-releases-frequently-asked-questions-faqs-therapeutic-use-exemptions-tues)<br>
-[WADA Checklists for TUE applications](https://www.wada-ama.org/en/search?q=Checklist%20for%20TUE%20applications&filters%5Bcontent_type%5D%5B%5D=%22resource%22)
+[WADA Q&amp;A on Therapeutic Use Exemption](https://www.wada-ama.org/en/athletes-support-personnel/therapeutic-use-exemptions-tues)<br>
+[WADA Checklists for TUE applications](https://www.wada-ama.org/en/search?q=Checklist%20for%20TUE%20applications&amp;filters%5Bcontent_type%5D%5B%5D=%22resource%22)
