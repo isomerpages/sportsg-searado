@@ -6,6 +6,10 @@ permalink: /resources/useful-links/
 
 Doping.nl is an anti-doping knowledge center, established to host information about doping in the broadest sense of the word, and about doping prevention. It has a rich resource of materials and a library of hearing cases available for viewing.
 
+[Drug Free Sport New Zealand](https://drugfreesport.org.nz/)
+
+Drug Free Sport New Zealand is the organisation responsible for keeping New Zealand sport clean and free from doping. They work across New Zealand’s sporting community to protect clean athletes and promote clean sport.
+
 [Global Drug Reference Online](https://www.globaldro.com/Home)
 
 The Global Drug Reference Online (Global DRO) provides athletes and support personnel with information about the prohibited status of specific medications based on the current World Anti-Doping Agency (WADA) Prohibited List.
@@ -15,6 +19,10 @@ The Global Drug Reference Online (Global DRO) provides athletes and support pers
 The Japan Anti-Doping Agency (JADA) was established in 2001 to protect and develop the integrity of sport and the fight against doping in sport.
 
 Education Resources: [JADA Education Package](https://www.playtrue2020-sp4t.jp/edu_package/)   |   Play True Relay: [Athletes’ messages](https://www.playtrue2020-sp4t.jp/ptrelay/)
+
+[Sport Integrity Australia](https://www.sportintegrity.gov.au/)
+
+Sport Integrity Australia is Australia's nationally coordinated organisation to adddress the country's sporting integrity issues.
 
 [U.S. Anti-Doping (USADA)](https://www.usada.org/)
 

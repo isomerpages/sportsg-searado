@@ -4,7 +4,7 @@ permalink: /information-for-stakeholders/results-management/sanctions/
 third_nav_title: Results Management
 description: ""
 ---
-#### **What are the sanctions for Anti-doping Rule Violations (ADRVs)?**
+#### **What are the sanctions for Anti-Doping Rule Violations (ADRVs)?**
 Sanctions for violating anti-doping regulations may range from a reprimand to a lifetime ban. The period of ineligibility may vary depending on the type of anti-doping violation, the circumstances of an individual case, the substance, and the possible repetition of an anti-doping rule violation.
 
 For in-competition testing, this will also automatically include disqualification of results obtained in that competition, and forfeiture of any medals, points, and/or prizes. All results of any competitions following the collection of the sample may also be disqualified.
