@@ -4,7 +4,7 @@ permalink: /information-for-stakeholders/results-management/about-results-manage
 third_nav_title: Results Management
 ---
 #### **About Results Management**
-The anti-doping organisation (ADO) that initiated sample collection is responsible for results management.
+The Anti-Doping Organisation (ADO) that initiated sample collection is responsible for results management.
 
 The WADA-accredited laboratory that analyses the A sample will report the results to the ADO responsible for results management and the World Anti-Doping Agency (WADA).
 
