@@ -2,7 +2,7 @@
 title: SEARADO Member Countries
 permalink: /about/searado-member-countries/
 ---
-Anti-Doping Organisations (ADOs) can contact the respective Southeast Asia National Anti-Doping Organisations (NADOs) for more information on their anti-doping programmes.
+Anti-Doping Organisations (ADOs) can contact their respective National Anti-Doping Organisations (NADOs) for more information on their anti-doping programmes.
 
 | Country  | NADO |
 | --- | --- |
