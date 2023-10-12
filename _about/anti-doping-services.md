@@ -8,7 +8,8 @@ One of the main objectives of SEARADO is to assist member countries with their a
 - BCO Re-Accreditation Course
 - DCO Course
 - DCO Re-Accreditation Course
-- DCO Training
+- DCO Trainers Course
+- DCO Training Course
 - RM Course
 - RM Admin Workshop
 - Therapeutic Use Exemption
@@ -23,4 +24,4 @@ and these workshops:
 
 Please fill in this [form](https://forms.gle/zjGarbENCRqYbt5M8) if you are keen on hosting a workshop or are interested in any of the services provided.
 
-_Kindly note that this form is only meant for Anti-Doping Organisations (ADO). If you are an individual (in the Southeast Asian Region) who is keen in participating any of the abovementioned services, please contact the NADO of your country._
+_Kindly note that this form is only meant for Anti-Doping Organisations (ADO) from the Southeast Asia Region._
