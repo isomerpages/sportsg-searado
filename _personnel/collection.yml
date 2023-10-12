@@ -2,7 +2,6 @@ collections:
   personnel:
     output: true
     order:
-      - Athlete Support Personnel.md
       - athlete/.keep
       - athlete/roles-responsibilities.md
       - athlete/prohibitied-list.md
@@ -10,3 +9,4 @@ collections:
       - athlete/athlete-central.md
       - athlete/athletes-anti-doping-rights-act.md
       - athlete/therapeutic-use-exemption-form.md
+      - Athlete Support Personnel.md
