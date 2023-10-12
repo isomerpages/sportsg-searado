@@ -2,6 +2,7 @@ collections:
   personnel:
     output: true
     order:
+      - Athlete Support Personnel.md
       - athlete/.keep
       - athlete/roles-responsibilities.md
       - athlete/prohibitied-list.md
