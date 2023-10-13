@@ -21,4 +21,4 @@ permalink: /about/milestones/
 | 2020 | • Development of SEARADO Strategic Plan 2021-2025 |
 | 2021 | • IDCO course for DCOs going for Tokyo Olympic Games<br>• Research from the region accepted for the WADA Social Research Grant<br>• Establish revised SEARADO Constitution and Terms of Reference |
 | 2022 | • SEARADO and Sportsradar signed MOU |
-| 2023 | • **1st Asia/Oceania Educational Symposium**
+| 2023 | • 1st Asia/Oceania Educational Symposium
