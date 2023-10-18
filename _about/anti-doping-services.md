@@ -6,14 +6,12 @@ permalink: /about/anti-doping-services/
 One of the main objectives of SEARADO is to assist member countries with their anti-doping initiatives and programmes, as well as, to build capacity. The SEARADO Office is pleased to collaborate and assist member countries in the conduct of the following courses:
 - BCO Course
 - BCO Re-Accreditation Course
-- DCO Course
+- DCO Training Course
 - DCO Re-Accreditation Course
 - DCO Trainers Course
-- DCO Training Course
 - RM Course
 - RM Admin Workshop
 - Therapeutic Use Exemption
-- Anti Doping Education Trainer’s Course
 
 and these workshops:
 

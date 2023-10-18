@@ -1,7 +1,5 @@
 logo: /images/SEARADO Logo.png
 links:
-  - title: Faq
-    url: /faq/
   - title: About
     collection: about
   - title: Personnel
@@ -14,9 +12,11 @@ links:
     resource_room: true
   - title: Links
     sublinks:
-      - title: WADA News
-        url: https://www.wada-ama.org/en/media/news
+      - title: CISP
+        url: https://www.wada-ama.org/en/code-implementation-support-program
       - title: SEARADO Facebook
         url: https://www.facebook.com/SouthEastAsiaRADO
       - title: SEARADO Youtube Channel
         url: https://www.youtube.com/channel/UCiDV3ju6gS8r6tSD6iMndwA
+      - title: WADA News
+        url: https://www.wada-ama.org/en/media/news
