@@ -3,9 +3,14 @@ title: Online Learning
 permalink: /information-for-stakeholders/education/online-learning/
 third_nav_title: Education
 ---
-#### **Anti-Doping e-Learning platform (ADeL)**
-<img src="https://i.ibb.co/pfdWPZ5/Screenshot-2021-06-29-144123.png" alt="Screenshot-2021-06-29-144123" border="0">
-The [Anti-Doping Education and Learning Platform](https://adel.wada-ama.org/learn/signin) offers access to all topics related to clean sport and anti-doping. It offers courses for athletes, coaches, doctors, administrators and anyone interested in learning more about anti-doping and protecting the values of clean sport.
+#### **Anti-Doping e-Learning platform (ADEL)**
+![ADEL Logo](/images/ADEL/a9257ee8196865c96317f555da18b10d8f60f48c.png)
+
+The latest version of [Anti-Doping Education and Learning Platform (ADEL)](https://adel.wada-ama.org/learn/signin) was launched in January 2021. Via the ADEL platform, WADA provides education and learning opportunities for the anti-doping community worldwide; including: athletes, coaches, parents, medical professionals and more. Additionally, on ADEL, anti-doping practitioners will be able to find learning opportunities to help them carry out their roles; and, resources to support development of their anti-doping programs.
+
+New users can register [here](https://adel.wada-ama.org/learn)
+
+More information can also be found on [ADEL page of WADA’s website](https://www.wada-ama.org/en/what-we-do/education-and-training/about-adel) and/or on the [ADEL helpdesk](https://adel-help.wada-ama.org/hc/en-us)
 
 #### **Parent's Guide to Support Clean Sport**
 <a href="https://www.sportintegrity.gov.au/sites/default/files/SIA_Parents%20Guide%20To%20Clean%20Sport_2020_Original%20Colours_CURRENT.pdf"><img src="https://i.ibb.co/LJzB23z/Screenshot-2020-07-22-at-6-26-09-PM.png" alt="Screenshot-2020-07-22-at-6-26-09-PM" border="0"></a>
