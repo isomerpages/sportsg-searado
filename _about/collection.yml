@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - about-searado.md
+      - About SEARADO.md
       - searado-member-countries.md
       - searado-board-members.md
       - SEARADO Constitution.md
