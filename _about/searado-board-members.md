@@ -2,7 +2,7 @@
 title: SEARADO Board Members
 permalink: /about/searado-board-members/
 ---
-The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up of one (1) Member Country Representative (MCR) from each of the member countries. Each representative is appointed by their respective Government and National Olympic Committee.
+The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up of one (1) Member Country Representative (MCR) from each of the member countries. Each representative is appointed by their respective Government and National Olympic Committee based on the preamble.
 
 |  The Member Country Representatives of the SEARADO Board are:  |
 | --- |
