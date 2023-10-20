@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About SEARADO.md
-      - searado-member-countries.md
+      - SEARADO Member Countries.md
       - searado-board-members.md
       - SEARADO Constitution.md
       - searado-committees.md
