@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ![](/images/ADEL/a9257ee8196865c96317f555da18b10d8f60f48c.png)
-
+![](/images/for-posts/asian%20games%20picture.jpg)
 
 SEARADO would like to thank all Member Country National Anti-Doping Organisations (NADOs) in their efforts to ensure that all athletes who headed for the recent Asian Games have done their ADEL e-learning module for International Level Athletes. 
 
