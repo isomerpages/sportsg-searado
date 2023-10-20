@@ -13,18 +13,17 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Speak Up!
-          description: Report any alleged Anti-Doping Rule Violation or any act or
-            omission that could undermine the fight against doping here
-          url: https://speakup.wada-ama.org/WebPages/Public/FrontPages/Default.aspx
         - title: SEARADO's Latest
-          description: Check out SEARADO's latest news and events here
+          description: SEARADO Latest News and Events
           url: /news-and-events/latest/
+        - title: SEARADO Youtube Channel
+          description: Click here for SEARADO Channel
+          url: https://www.youtube.com/channel/UCiDV3ju6gS8r6tSD6iMndwA
         - title: WADA News
-          description: Click here to view WADA's Latest News
+          description: WADA's Latest News and Events
           url: https://www.wada-ama.org/en/media/news
         - title: WADA Youtube Channel
-          description: The official Youtube channel of the World Anti-Doping Agency (WADA)
+          description: Click here for WADA's Channel
           url: https://www.youtube.com/user/wadamovies
   - infobar: {}
   - resources:
