@@ -4,7 +4,7 @@ title: Southeast Asia Regional Anti-Doping Organisation
 description: test test
 image: /images/for-posts/searado new logo.png
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       title: Southeast Asia Regional Anti-Doping Organisation
