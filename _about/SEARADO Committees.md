@@ -1,6 +1,7 @@
 ---
 title: SEARADO Committees
 permalink: /about/searado-committees/
+description: ""
 ---
 | SAMPLE COLLECTION PERSONNEL (SCP) COMMITTEE MEMBERS |
 | --- |

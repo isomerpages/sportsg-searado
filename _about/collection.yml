@@ -2,10 +2,10 @@ collections:
   about:
     output: true
     order:
-      - about-searado.md
-      - searado-member-countries.md
-      - searado-board-members.md
+      - About SEARADO.md
+      - SEARADO Member Countries.md
+      - SEARADO Board Members.md
       - SEARADO Constitution.md
-      - searado-committees.md
+      - SEARADO Committees.md
       - milestones.md
       - anti-doping-services.md
