@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Southeast Asia Regional Anti-Doping Organisation
       subtitle: Established on 30 November 2006
-      background: /images/play-true-collage.jpg
+      background: /images/Collage/play-true-collage.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
