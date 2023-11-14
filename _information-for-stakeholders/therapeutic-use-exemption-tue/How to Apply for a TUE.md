@@ -27,7 +27,7 @@ The medical file includes:
 
 Any TUE application that is not complete or legible will not be dealt with and will be returned for completion and re-submission.
 
-To assist you and your doctor in providing the correct medical documentation, we suggest consulting the WADA’s [Checklists for TUE applications](https://www.wada-ama.org/en/search?q=Checklists%20for%20TUE%20Applications&amp;filters%5Bcontent_type%5D%5B%5D=%22resource%22) for guidance and support during the TUE application process, and [TUE Physcial Guidelines](https://www.wada-ama.org/en/search?q=TUE%20Physician%20Guidelines&amp;filters%5Bcontent_type%5D%5B%5D=%22resource%22) for guidance on specific common medical conditions, treatments, substances, etc. 
+To assist you and your doctor in providing the correct medical documentation, we suggest consulting the WADA’s [Checklists for TUE applications](https://www.wada-ama.org/en/search?q=Checklists%20for%20TUE%20Applications&amp;filters%5Bcontent_type%5D%5B%5D=%22resource%22) for guidance and support during the TUE application process, and [TUE Physical Guidelines](https://www.wada-ama.org/en/search?q=TUE%20Physician%20Guidelines&amp;filters%5Bcontent_type%5D%5B%5D=%22resource%22) for guidance on specific common medical conditions, treatments, substances, etc. 
 
 Keep a completed copy of the TUE application form and all medical information submitted in support of your application, and proof that it has been sent.
 
