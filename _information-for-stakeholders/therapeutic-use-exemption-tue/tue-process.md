@@ -2,6 +2,7 @@
 title: TUE Process
 permalink: /information-for-stakeholders/therapeutic-use-exemption/tue-process/
 third_nav_title: Therapeutic Use Exemption (TUE)
+variant: markdown
 ---
 ![TUE Process](/images/tue-process.png)
 The TUEC’s decision will be communicated in writing to you ***within 21 days* from the date of receipt of the complete TUE application**, including the required medical information, by your respective NADO, IF or MEO.
@@ -12,7 +13,7 @@ Each TUE has a specific duration, at the end of which it expires automatically. 
 Important note: The presence (following sample collection), use, possession or administration of the prohibited substance or method shall be consistent with the terms of your TUE. Therefore, in the event that, after your TUE is granted, you require a materially different dosage, frequency, route or duration of administration, you must apply for a new TUE.
 
 ##### What if my TUE application is Denied?
-A decision to deny a TUE application includes an explanation of the reason(s) for the denial. If it is not clear to you, please contact your NADO to understand exactly why the TUE was denied. Sometimes, there may be a critical piece of information, diagnostic test, laboratory results missing, etc. Failing this, you may request for an appeal to the TUE Appeal Committee of your NADO.
+A decision to deny a TUE application includes an explanation of the reason(s) for the denial. If it is not clear to you, you contact your NADO to understand exactly why the TUE was denied. Sometimes, there may be a critical piece of information, diagnostic test, laboratory results missing, etc. Failing this, you may request for an appeal to the TUE Appeal Committee of your NADO.
 
 **Appeals Involving International-Level Athletes or International Events**: In cases arising from participation in an International Event or in cases involving International-Level Athletes, the decision may be appealed exclusively to Court of Arbitration for Sport (CAS).
 
