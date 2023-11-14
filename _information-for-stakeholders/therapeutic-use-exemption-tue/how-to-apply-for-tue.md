@@ -2,10 +2,11 @@
 title: How to Apply for TUE
 permalink: /information-for-stakeholders/therapeutic-use-exemption/how-to-apply-for-tue/
 third_nav_title: Therapeutic Use Exemption (TUE)
+variant: markdown
 ---
 ##### Check with your NADO on the application process.
 
-NADOs can also download the [TUE Application Form](https://drive.google.com/file/d/1CaF5Gt4-HjGDoNYlc-4_YbzUnCNeOtgN/view?usp=drive_link) and customise the form for your needs.
+NADOs can also download the [TUE Application Form](https://drive.google.com/file/d/12v878NC_znUw-47HxBAbg-9JcOR3GWdX/view?usp=drive_link) and customise the form for your needs.
 
 Athletes are to note that your TUE application must be submitted in a legible form using capital letters or typing.
 
