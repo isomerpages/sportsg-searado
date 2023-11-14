@@ -5,7 +5,6 @@ collections:
       - doping-control/.keep
       - doping-control/testing-procedure.md
       - doping-control/anti-doping-rules.md
-      - therapeutic-use-exemption-tue/Useful Links.md
       - therapeutic-use-exemption-tue/.keep
       - therapeutic-use-exemption-tue/What is a Therapeutic Use Exemption
         (TUE)?.md
@@ -16,6 +15,7 @@ collections:
       - therapeutic-use-exemption-tue/How to Apply for a TUE.md
       - therapeutic-use-exemption-tue/tue-process.md
       - therapeutic-use-exemption-tue/confidentiality.md
+      - therapeutic-use-exemption-tue/Useful Links.md
       - results-management/.keep
       - results-management/about-results-management.md
       - results-management/adverse-analytical-finding-aaf.md
