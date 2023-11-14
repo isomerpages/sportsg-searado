@@ -5,16 +5,15 @@ collections:
       - doping-control/.keep
       - doping-control/testing-procedure.md
       - doping-control/anti-doping-rules.md
-      - therapeutic-use-exemption-tue/.keep
-      - therapeutic-use-exemption-tue/What is a Therapeutic Use Exemption
-        (TUE)?.md
-      - therapeutic-use-exemption-tue/criteria-for-granting-tue.md
-      - therapeutic-use-exemption-tue/Who should apply for a TUE? Where and When
-        to apply?.md
-      - therapeutic-use-exemption-tue/retroactive-tue.md
-      - therapeutic-use-exemption-tue/How to Apply for a TUE.md
-      - therapeutic-use-exemption-tue/tue-process.md
-      - therapeutic-use-exemption-tue/confidentiality.md
+      - Therapeutic Use Exemption/.keep
+      - Therapeutic Use Exemption/What is a Therapeutic Use Exemption (TUE)?.md
+      - Therapeutic Use Exemption/criteria-for-granting-tue.md
+      - Therapeutic Use Exemption/Who should apply for a TUE? Where and When to
+        apply?.md
+      - Therapeutic Use Exemption/retroactive-tue.md
+      - Therapeutic Use Exemption/How to Apply for a TUE.md
+      - Therapeutic Use Exemption/tue-process.md
+      - Therapeutic Use Exemption/confidentiality.md
       - results-management/.keep
       - results-management/about-results-management.md
       - results-management/adverse-analytical-finding-aaf.md
