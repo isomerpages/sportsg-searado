@@ -1,7 +1,7 @@
 ---
 title: Who should apply for a TUE? Where and When to apply?
 permalink: /information-for-stakeholders/therapeutic-use-exemption/who-should-apply-where-when/
-third_nav_title: Therapeutic Use Exemption (TUE)
+third_nav_title: Therapeutic Use Exemption
 variant: markdown
 description: ""
 ---

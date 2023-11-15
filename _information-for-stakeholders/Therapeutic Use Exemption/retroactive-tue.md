@@ -1,7 +1,7 @@
 ---
 title: Retroactive TUE
 permalink: /information-for-stakeholders/therapeutic-use-exemption/retroactive-tue/
-third_nav_title: Therapeutic Use Exemption (TUE)
+third_nav_title: Therapeutic Use Exemption
 variant: markdown
 ---
 ##### You may only apply retroactively for a TUE to your NADO if:

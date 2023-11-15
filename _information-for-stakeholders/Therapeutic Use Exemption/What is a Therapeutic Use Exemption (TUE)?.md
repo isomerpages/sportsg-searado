@@ -1,7 +1,7 @@
 ---
 title: What is a Therapeutic Use Exemption (TUE)?
 permalink: /information-for-stakeholders/therapeutic-use-exemption/what-is-a-tue/
-third_nav_title: Therapeutic Use Exemption (TUE)
+third_nav_title: Therapeutic Use Exemption
 variant: markdown
 description: ""
 ---

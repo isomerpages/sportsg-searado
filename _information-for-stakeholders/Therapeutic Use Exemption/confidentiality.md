@@ -1,7 +1,7 @@
 ---
 title: Confidentiality
 permalink: /information-for-stakeholders/therapeutic-use-exemption/confidentiality/
-third_nav_title: Therapeutic Use Exemption (TUE)
+third_nav_title: Therapeutic Use Exemption
 variant: markdown
 ---
 **WILL MY MEDICAL INFORMATION BE TREATED IN A CONFIDENTIAL MANNER?**
@@ -10,4 +10,4 @@ All the information contained in a TUE application including the supporting medi
 
 Please review the terms of the Athlete’s Declaration carefully. In particular, please note that should you wish to revoke the right of the NADO TUEC to obtain the information related to your TUE request in accordance with the Athlete’s Declaration, your TUE application will be deemed withdrawn without approval being granted.
 
-Your TUE request-related information will be retained by your NADO and any other authorised recipients for no longer than necessary for the purposes stated in the Athlete’s Declaration, in accordance with the International Standard for the Protection of Privacy and Personal Information.  
+Your TUE request-related information will be retained by your NADO and any other authorised recipients for no longer than necessary for the purposes stated in the Athlete’s Declaration, in accordance with the International Standard for the Protection of Privacy and Personal Information.
