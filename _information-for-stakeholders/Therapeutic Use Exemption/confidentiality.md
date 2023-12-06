@@ -6,7 +6,7 @@ variant: markdown
 ---
 **WILL MY MEDICAL INFORMATION BE TREATED IN A CONFIDENTIAL MANNER?**
 
-All the information contained in a TUE application including the supporting medical information, and any other information related to the evaluation of your TUE request is kept strictly confidential and treated in accordance with the Athlete’s Declaration contained in the ADAMS TUE process and in the [TUE application form](https://drive.google.com/file/d/12v878NC_znUw-47HxBAbg-9JcOR3GWdX/view?usp=drive_link). All members of the TUEC and any other authorised recipients of your TUE request and related information (as described in the Athlete’s Declaration) are subject to a professional or contractual confidentiality obligation.
+All the information contained in a TUE application including the supporting medical information, and any other information related to the evaluation of your TUE request is kept strictly confidential and treated in accordance with the Athlete’s Declaration contained in the ADAMS TUE process and in the [TUE application form](https://drive.google.com/file/d/1aPuQpSEu95MpNJRxJfzysj3Ng7QY1bHN/view?usp=drive_link). All members of the TUEC and any other authorised recipients of your TUE request and related information (as described in the Athlete’s Declaration) are subject to a professional or contractual confidentiality obligation.
 
 Please review the terms of the Athlete’s Declaration carefully. In particular, please note that should you wish to revoke the right of SEARADO's TUEC to obtain the information related to your TUE request in accordance with the Athlete’s Declaration, your TUE application will be deemed withdrawn without approval being granted.
 
