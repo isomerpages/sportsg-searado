@@ -17,7 +17,7 @@ You must exclusively submit your TUE application, including the required medical
 You are encouraged by your NADO to submit TUE applications via ADAMS, together with the required medical file. If you do not have an ADAMS account yet, please contact your NADO to have it set up.
 
 
-Otherwise, please download the [TUE application form](https://drive.google.com/file/d/12v878NC_znUw-47HxBAbg-9JcOR3GWdX/view?usp=drive_link), and once duly completed and signed, send it together with the required medical file to your NADO.
+Otherwise, please download the [TUE application form](https://drive.google.com/file/d/1aPuQpSEu95MpNJRxJfzysj3Ng7QY1bHN/view?usp=drive_link), and once duly completed and signed, send it together with the required medical file to your NADO.
 
 Your TUE application must be submitted in a legible form using capital letters or typing.
 
