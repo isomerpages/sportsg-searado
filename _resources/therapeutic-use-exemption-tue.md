@@ -76,4 +76,5 @@ Keep a complete copy of the TUE application form and all medical information sub
 [WADA Q&amp;A on Therapeutic Use Exemption](https://www.wada-ama.org/en/athletes-support-personnel/therapeutic-use-exemptions-tues)<br>
 [WADA Checklists for TUE applications](https://www.wada-ama.org/en/search?q=Checklist%20for%20TUE%20applications&amp;filters%5Bcontent_type%5D%5B%5D=%22resource%22)<br>
 [WADA International Standard for Therapeutic Use Exemptions (ISTUE)](https://www.wada-ama.org/en/resources/world-anti-doping-code-and-international-standards/international-standard-therapeutic-use)<br>
-[WADA Anti-Doping Education and Learning (ADEL)](https://adel.wada-ama.org/learn)
+[WADA Anti-Doping Education and Learning (ADEL)](https://adel.wada-ama.org/learn)<br>
+[WADA Guidelines for the International Standard for Therapeutic Use Exemptions (ISTUE)](https://www.wada-ama.org/en/resources/world-anti-doping-program/guidelines-international-standard-therapeutic-use-exemptions)
