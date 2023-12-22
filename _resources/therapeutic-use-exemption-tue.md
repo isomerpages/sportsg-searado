@@ -15,7 +15,7 @@ The purpose of the ISTUE is to establish
 - the strict confidentiality provisions that apply to the TUE process.
 
 #### WADA Therapeutic Use Exemption Guidelines
-This [TUE Guidelines](https://www.wada-ama.org/sites/default/files/2022-12/istue_guidelines_2023_en.pdf) document takes ADOs through the lifecycle of the TUE, starting with the criteria for granting a TUE.
+This [TUE Guidelines](https://www.wada-ama.org/en/resources/world-anti-doping-program/guidelines-international-standard-therapeutic-use-exemptions) document takes ADOs through the lifecycle of the TUE, starting with the criteria for granting a TUE.
 
 The Guidelines bring forward key ADO responsibilities, including support of Athletes making TUE applications, recognition of TUEs, and communication of TUE decisions. Confidentiality provisions and WADA’s role in the review of TUE decisions are also addressed.
 
