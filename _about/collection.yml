@@ -1,0 +1,11 @@
+collections:
+  about:
+    output: true
+    order:
+      - About SEARADO.md
+      - SEARADO Member Countries.md
+      - SEARADO Board Members.md
+      - SEARADO Constitution.md
+      - SEARADO Committees.md
+      - milestones.md
+      - anti-doping-services.md

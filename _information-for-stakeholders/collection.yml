@@ -1,0 +1,25 @@
+collections:
+  information-for-stakeholders:
+    output: true
+    order:
+      - doping-control/.keep
+      - doping-control/testing-procedure.md
+      - doping-control/anti-doping-rules.md
+      - Therapeutic Use Exemption/.keep
+      - Therapeutic Use Exemption/What is a Therapeutic Use Exemption (TUE)?.md
+      - Therapeutic Use Exemption/criteria-for-granting-tue.md
+      - Therapeutic Use Exemption/Who should apply for a TUE? Where and When to
+        apply?.md
+      - Therapeutic Use Exemption/retroactive-tue.md
+      - Therapeutic Use Exemption/How to Apply for a TUE.md
+      - Therapeutic Use Exemption/tue-process.md
+      - Therapeutic Use Exemption/confidentiality.md
+      - Therapeutic Use Exemption/Useful Links.md
+      - results-management/.keep
+      - results-management/about-results-management.md
+      - results-management/adverse-analytical-finding-aaf.md
+      - results-management/Sanctions for Anti doping Rule Violations (ADRVs).md
+      - education/.keep
+      - education/education-guidelines.md
+      - education/research.md
+      - education/online-learning.md
