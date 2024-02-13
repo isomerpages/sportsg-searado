@@ -2,6 +2,7 @@
 title: SEARADO Board Members
 permalink: /about/searado-board-members/
 description: ""
+variant: markdown
 ---
 The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up of one (1) Member Country Representative (MCR) from each of the member countries. Each representative is appointed by their respective Government and National Olympic Committee based on the preamble.
 
@@ -16,8 +17,8 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 | <a><img align="left" src="https://i.ibb.co/x1q8Nrz/final-version.jpg" style="border:non;margin:20px;width:180px;height:220px;"></a> Dr. Htet Wai <br>Myanmar    |
 |  <a><img align="left" src="https://i.ibb.co/7WcS7z5/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Alejandro Jr. Pineda<br>Philippines  |
 |  <a><img align="left" src="https://i.ibb.co/TrxSPhV/image.png" style="border:none;margin:20px;width:180px;height:180px;"></a>Dr. Meechai (Hilary) Inwood<br>Thailand  |
-| <a><img align="left" src="https://i.ibb.co/NmPWBH3/Whats-App-Image-2021-07-12-at-13-22-39.jpg" style="border:none;margin:20px;width:180px;height:190px;"></a> Mr. Fernando Da Costa<br>Timor-Leste  |
-|  <a><img align="left" src="https://i.ibb.co/L1zNdvk/Dr-Phu-MCR-photo.jpg" alt="Dr-Phu-MCR-photo" style="border:none;margin:20px;width:180px;heigh:190px;"></a>Dr. Nguyen Van Phu<br>Vietnam  |
+| Timor-Leste<br>To Be Confirmed |
+| Vietnam<br> To Be Confirmed  |
 
 |  Director General  |
 | --- |
@@ -25,7 +26,7 @@ The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is made up 
 
 |  Advisors  |
 | --- |
-|  <a><img align="left" src="https://i.ibb.co/kmrjC0d/image.png" style="border:none;margin:20px;width:180px;height:234px;"></a>Mr. Kazuhiro Hayashi<br>Director, Asia/Oceania Office<br>WADA  |
+|  <a><img align="left" src="https://i.ibb.co/JKXY58L/Yaya2.jpg" style="border:none;margin:20px;width:180px;height:234px;"></a>Dr. Mayumi Yaya Yamamoto<br>Director, Asia/Oceania Office<br>WADA  |
 |  <a><img align="left" src="https://i.ibb.co/mSJ7M8B/Ying-Cui-staff-portrait-May-2017.jpg" alt="Ying-Cui-staff-portrait-May-2017" style="border:none;margin:20px;width:180px;height:234px;"></a>Ms. Cui Ying<br>Manager, Program Development and NADO/RADO Relations<br>WADA  |
 
 | Operations |
