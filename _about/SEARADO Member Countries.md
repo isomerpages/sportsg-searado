@@ -25,7 +25,7 @@ programmes.</p>
 <p>Brunei Darussalam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.kkbs.gov.bn/pages/bdadc.aspx" rel="noopener noreferrer nofollow" target="_blank">Brunei Darussalam Anti-Doping Committee (BDADC)</a> 
+<p><a href="http://www.kkbs.gov.bn/pages/bdadc.aspx" rel="noopener noreferrer nofollow" target="_blank">Brunei Darussalam Anti-Doping Committee (BDADC)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/BruneiDarussalamAntiDopingCommittee/"><img style="border:none;width:26px;height:26px;" height="auto" width="100%" src="https://i.ibb.co/vjKKsp5/facebook.png"></a>
