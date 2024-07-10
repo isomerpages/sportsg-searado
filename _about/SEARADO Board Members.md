@@ -8,7 +8,10 @@ variant: tiptap
 made up of one (1) Member Country Representative (MCR) from each of the
 member countries. Each representative is appointed by their respective
 Government and National Olympic Committee based on the preamble.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,13 +105,17 @@ Government and National Olympic Committee based on the preamble.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Vietnam
-<br>To Be Confirmed</p>
+<br>Mr. Le Minh Ha</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -127,7 +134,10 @@ Government and National Olympic Committee based on the preamble.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -156,7 +166,10 @@ Government and National Olympic Committee based on the preamble.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
