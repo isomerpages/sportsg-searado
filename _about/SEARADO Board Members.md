@@ -2,13 +2,16 @@
 title: SEARADO Board Members
 permalink: /about/searado-board-members/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>The Southeast Asia Regional Anti-Doping Organisation (SEARADO) Board is
 made up of one (1) Member Country Representative (MCR) from each of the
 member countries. Each representative is appointed by their respective
 Government and National Olympic Committee based on the preamble.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,13 +105,20 @@ Government and National Olympic Committee based on the preamble.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.ibb.co/K6jZB8C/Le-Minh-Ha-1.jpg">
+</div>
 <p>Vietnam
-<br>To Be Confirmed</p>
+<br>Mr. Le Minh Ha</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -127,7 +137,10 @@ Government and National Olympic Committee based on the preamble.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -156,7 +169,10 @@ Government and National Olympic Committee based on the preamble.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
