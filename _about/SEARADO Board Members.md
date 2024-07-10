@@ -107,7 +107,7 @@ Government and National Olympic Committee based on the preamble.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/board-members/Le_Minh_Ha_2.jpg">
+<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.ibb.co/K6jZB8C/Le-Minh-Ha-1.jpg">
 </div>
 <p>Vietnam
 <br>Mr. Le Minh Ha</p>
