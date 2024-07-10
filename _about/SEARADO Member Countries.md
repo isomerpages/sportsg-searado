@@ -7,7 +7,12 @@ variant: tiptap
 <p>Anti-Doping Organisations (ADOs) can contact their respective National
 Anti-Doping Organisations (NADOs) for more information on their anti-doping
 programmes.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -66,7 +71,7 @@ programmes.</p>
 <p>Laos</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.moes.edu.la/laonado/index.php/en/" rel="noopener noreferrer nofollow" target="_blank">Lao National Anti-Doping Organisation (Lao-NADO)</a> 
+<p><a href="https://lnado.moes.edu.la/index.php/en/" rel="noopener noreferrer nofollow" target="_blank">Lao National Anti-Doping Organisation (Lao-NADO)</a> 
 <br>
 </p>
 </td>
@@ -93,11 +98,11 @@ programmes.</p>
 <p>Myanmar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mado.gov.mm/" rel="noopener noreferrer nofollow" target="_blank">Myanmar Anti-Doping Organisation (MADO)</a> 
+<p><a href="https://mado.gov.mm/" rel="noopener noreferrer nofollow" target="_blank">Myanmar Anti-Doping Organisation (MADO)</a> 
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/profile.php?id=100091348083429"><img style="border:none;width:26px;height:26px;" height="auto" width="100%" src="https://i.ibb.co/vjKKsp5/facebook.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.facebook.com/profile.php?id=100063934928237"><img style="border:none;width:26px;height:26px;" height="auto" width="100%" src="https://i.ibb.co/vjKKsp5/facebook.png"></a>
 </td>
 </tr>
 <tr>
@@ -120,7 +125,7 @@ programmes.</p>
 <p>Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sportsingapore.gov.sg/athletes-coaches/anti-doping-singapore" rel="noopener noreferrer nofollow" target="_blank">Anti-Doping Singapore (ADS)</a> 
+<p><a href="https://www.antidopingsingapore.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Anti-Doping Singapore (ADS)</a> 
 <br>
 </p>
 </td>
@@ -162,7 +167,7 @@ programmes.</p>
 <p>Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.vada.org.vn/" rel="noopener noreferrer nofollow" target="_blank">Vietnam Anti-Doping Centre</a> 
+<p><a href="https://vadc.org.vn/" rel="noopener noreferrer nofollow" target="_blank">Vietnam Anti-Doping Centre</a> 
 <br>
 </p>
 </td>
