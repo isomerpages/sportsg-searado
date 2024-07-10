@@ -19,3 +19,19 @@ Tan covering TUE administration.
 <br>SEARADO would like to thank the trainers and the PHI-NADO team n ensuring
 capacity is built and processes are in line with the Code.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TUE/TUE Course Manila/WhatsApp_Image_2024_06_29_at_17_42_39.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TUE/TUE Course Manila/WhatsApp_Image_2024_07_02_at_09_42_13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TUE/TUE Course Manila/WhatsApp_Image_2024_06_29_at_17_42_39__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TUE/TUE Course Manila/WhatsApp_Image_2024_06_29_at_17_42_40.jpg">
+</div>
+<p></p>
