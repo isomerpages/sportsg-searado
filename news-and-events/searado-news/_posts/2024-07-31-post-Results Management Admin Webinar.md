@@ -45,9 +45,9 @@ for their attendance.</p>
 </tr>
 </tbody>
 </table>
-<p>We strongly recommend all RM Administrators to ensure the processes are
-all in place (translate them if necessary) and if in doubt, send forth
-any queries to the RADOs.</p>
+<p>RM Administrators are strong encouraged to ensure the processes are all
+in place and translate them if necessary. Should there be any doubts, they
+should send their queries to the RADOs for clarification.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinars/RM Admin/SS1.jpg">
