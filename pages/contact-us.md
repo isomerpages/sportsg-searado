@@ -16,8 +16,9 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: (65) 6500 5383
+      - phone: ""
       - email: gobinair_dg@searado.com
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
