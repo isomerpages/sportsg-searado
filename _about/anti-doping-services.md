@@ -31,7 +31,7 @@ in the conduct of the following courses:</p>
 <p>RM Admin Workshop</p>
 </li>
 <li>
-<p>Therapeutic Use Exemption</p>
+<p>TUE Course</p>
 </li>
 </ul>
 <p>and these workshops:</p>
@@ -50,3 +50,4 @@ as, support Regional Games Organisers in carrying out various anti-doping
 activities.</p>
 <p>Please fill in this <a href="https://forms.gle/zjGarbENCRqYbt5M8" rel="noopener noreferrer nofollow" target="_blank">form</a> if you are keen on hosting
 a workshop or are interested in any of the services provided.</p>
+<p>If ADOs outside the Southeast Asia Region is keen, please email <a href="mingkai@searado.com" rel="noopener nofollow" target="_blank">mingkai@searado.com</a>.</p>
