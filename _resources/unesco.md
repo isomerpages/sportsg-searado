@@ -19,7 +19,7 @@ The Conference of Parties (COP) is the sovereign body of the Convention. It has 
 The functions of the COP, as foreseen in Article 30 of the Convention, include: 
 - Promotion of the purpose of the Convention; 
 - Discussion of the relationship with the World Anti-Doping Agency; 
-- Adoption of a plan for the use of the resources of the [Fund for the Elimination of Doping in Sport](https://en.unesco.org/themes/sport-and-anti-doping/fund);
+- Adoption of a plan for the use of the resources of the [Fund for the Elimination of Doping in Sport](https://www.unesco.org/en/sport-and-anti-doping/fund#:~:text=The%20Fund%20for%20the%20Elimination%20of%20Doping%20in%20Sport%20is,as%20revenue%20from%20fundraising%20activities.);
 - Examination of the monitoring of compliance with the Convention and the reports submitted by States Parties; and 
 - Examination and adoption of any amendments to the Convention
 
