@@ -65,11 +65,8 @@ Government and National Olympic Committee based on the preamble.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:198px;" height="auto" width="100%" src="https://i.ibb.co/FsY88Rm/Screenshot-2020-07-23-at-3-52-28-PM.png">
-</div>
-<p>Ms. Azura bte Abidin
-<br>Malaysia</p>
+<p>Malaysia
+<br>To Be Confirmed</p>	
 </td>
 </tr>
 <tr>
