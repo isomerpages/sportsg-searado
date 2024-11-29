@@ -49,24 +49,5 @@ sport. The organisation also assists and advises Member States wishing
 to elaborate or strengthen their training system in physical education.
 And it offers its expertise in the design and implementation of development
 programmes in the domain of sport.</p>
-<p><strong><u>Values-Based Education Resources</u></strong>
-</p>
-<p></p>
-<p><u>Resources from the Pan-American Regional Anti-Doping Organization (ORAD-PAN)</u>
-</p>
-<p><a href="https://drive.google.com/file/d/1KLbxyfgg_whzefIB7vRjqYjp5yffCBYa/view?usp=sharing" rel="noopener nofollow" target="_blank">The True Athlete Challenge</a>
-</p>
-<p></p>
-<p><u>Resources from Slovenian Anti-Doping Organization (SLOADO)</u>
-</p>
-<p><a href="https://drive.google.com/file/d/1HjHmcnIX1ogdIOmsCT7cmI6B1UsHgBcB/view?usp=sharing" rel="noopener nofollow" target="_blank">Mike the Little Chamois and His First Competition</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1jQUibUOW2PALlaILULG_j5Srz3wnCzCF/view?usp=sharing" rel="noopener nofollow" target="_blank">Mike the Little Chamois and Magic Berries</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1zBR8z6ERgdi-oLdpkBpSmF1CbnxN0gKM/view?usp=sharing" rel="noopener nofollow" target="_blank">I VALUE SPORT – Values-Based Education for Children</a>
-</p>
-<p></p>
-<p><a href="https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/Documents/Olympism-in-Action/Education-Through-Sport/Sport-Culture-and-Education-Brochure.pdf" rel="noopener nofollow" target="_blank">Resources from International Olympic Committee (IOC)</a>
-</p>
 <p></p>
 <p></p>
