@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - Values Based Education/.keep
       - the-code-and-code-compliance.md
       - international-standards-and-guidelines.md
       - therapeutic-use-exemption-tue.md
       - unesco.md
       - adams.md
+      - Values Based Education/.keep
       - useful-links.md
