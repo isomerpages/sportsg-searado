@@ -11,7 +11,7 @@ variant: tiptap
 conducted a Doping Control Officer (DCO) Re-accreditation Course for Philippine
 National Anti-Doping Organization (PHI-NADO) and Indonesia Anti-Doping
 Organization (IADO) respectively.</p>
-<p>As DCOs play a crucial role in the fight against doping., SEARADO is further
+<p>As DCOs play a crucial role in the fight against doping, SEARADO is further
 exploring programs to ensure continuity, as well as, professionalism among
 DCOs.</p>
 <table style="minWidth: 75px">
