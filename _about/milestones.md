@@ -1,6 +1,7 @@
 ---
 title: Milestones
 permalink: /about/milestones/
+variant: markdown
 ---
 | Year | Event/Activity |
 | --- | --- |
@@ -22,3 +23,4 @@ permalink: /about/milestones/
 | 2021 | • IDCO course for DCOs going for Tokyo Olympic Games<br>• Research from the region accepted for the WADA Social Research Grant<br>• Establish revised SEARADO Constitution and Terms of Reference |
 | 2022 | • Indonesia Anti-Doping Organisation (IADO) was formed<br>• SEARADO and Sportsradar signed MOU |
 | 2023 | • 1st Asia/Oceania Educational Symposium<br>• VADA renamed Vietnam Anti-Doping Centre (VADC) |
+| 2024 | • 1st Social Science Research Seminar to be held in the Southeast Asia Region. Organised by Anti-Doping Agency of Malaysia (ADAMAS), in collaboration with SEARADO and WADA
