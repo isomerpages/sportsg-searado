@@ -39,9 +39,9 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:190px;" height="auto" width="100%" src="https://i.ibb.co/8zFghh3/IMG-20240716-085536.jpg">
-<p>Cambodia
-<br>Mr. Kaden Meth Kado</p>
+<img style="border:none;margin:20px;width:180px;height:190px;" height="auto" width="100%" src="https://i.postimg.cc/d1j26Trp/Nareth-6074-copy-copy.jpg">
+<p>Ms. Sophanareth Leoung
+<br>Cambodia</p>
 </div></td>
 </tr>
 <tr>
@@ -89,9 +89,9 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.ibb.co/TrxSPhV/image.png">
+<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.postimg.cc/DzjJwdQ2/Suwit-Photo.png">
 </div>
-<p>Dr. Meechai (Hilary) Inwood
+<p>Mr. Suwit Kerdbumroung
 <br>Thailand</p>
 </td>
 </tr>
@@ -107,8 +107,8 @@ Government and National Olympic Committee based on the preamble.</p>
 <div class="isomer-image-wrapper">
 <img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.ibb.co/K6jZB8C/Le-Minh-Ha-1.jpg">
 </div>
-<p>Vietnam
-<br>Mr. Le Minh Ha</p>
+<p>Mr. Le Minh Ha
+<br>Vietnam</p>
 </td>
 </tr>
 </tbody>
@@ -158,10 +158,10 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" alt="Ying-Cui-staff-portrait-May-2017" src="https://i.ibb.co/mSJ7M8B/Ying-Cui-staff-portrait-May-2017.jpg">
+<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" src="">
 </div>
-<p>Ms. Cui Ying
-<br>Manager, Program Development and NADO/RADO Relations
+<p>Mr. Saravana Perumal
+<br>Manager, Asia/Oceania Office
 <br>WADA</p>
 </td>
 </tr>
