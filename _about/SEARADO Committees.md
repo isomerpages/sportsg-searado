@@ -18,4 +18,3 @@ variant: markdown
 | Mr. Thomas Delaye-Fortin (Advisor)<br>Canada |  
 | Ms. Nageswary Thiagarajan (Chairperson)<br>Malaysia |
 | Ms. Ruethairat Kongma (Deputy Chairperson<br>Thailand |
-
