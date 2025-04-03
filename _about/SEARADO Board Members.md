@@ -80,7 +80,7 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="">
+<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.postimg.cc/Mps0WqQy/Mr-Teo-Ser-Luck.jpg">
 </div>
 <p> Mr. Teo Ser Luck
 <br> Singapore</p>
