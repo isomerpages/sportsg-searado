@@ -21,10 +21,10 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" src="https://i.ibb.co/gMLwZnm/image.png">
+<img style="border:none;margin:20px;width:180px;height:190px;" height="auto" width="100%" src="https://i.ibb.co/f9dZFR3/Whats-App-Image-2022-09-30-at-9-39-45-PM.jpg">
 </div>
-<p>Dr. Patrick Goh (Chairman)
-<br>Singapore</p>
+<p>Mr. Gatot S. Dewa Broto (Chairman)
+<br>Indonesia</p>
 </td>
 </tr>
 <tr>
@@ -43,15 +43,6 @@ Government and National Olympic Committee based on the preamble.</p>
 <p>Ms. Sophanareth Leoung
 <br>Cambodia</p>
 </div></td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:190px;" height="auto" width="100%" src="https://i.ibb.co/f9dZFR3/Whats-App-Image-2022-09-30-at-9-39-45-PM.jpg">
-</div>
-<p>Mr. Gatot S. Dewa Broto
-<br>Indonesia</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -89,8 +80,16 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.postimg.cc/DzjJwdQ2/Suwit-Photo.png">
+<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="">
 </div>
+<p> Mr. Teo Ser Luck
+<br> Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" src="https://i.postimg.cc/DzjJwdQ2/Suwit-Photo.png">
+
 <p>Mr. Suwit Kerdbumroung
 <br>Thailand</p>
 </td>
