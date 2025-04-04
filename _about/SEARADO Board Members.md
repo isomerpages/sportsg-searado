@@ -159,7 +159,7 @@ Government and National Olympic Committee based on the preamble.</p>
 <div class="isomer-image-wrapper">
 <img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" src="https://i.postimg.cc/sxDW7WYv/Dr-S-Perumal-comp.jpg">
 </div>
-<p>Mr. Saravana Perumal
+<p>Dr. Saravana Perumal S
 <br>Manager, Asia/Oceania Office
 <br>WADA</p>
 </td>
