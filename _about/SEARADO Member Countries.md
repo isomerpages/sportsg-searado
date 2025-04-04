@@ -167,7 +167,7 @@ programmes.</p>
 <p>Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://vadc.org.vn/" rel="noopener noreferrer nofollow" target="_blank">Vietnam Anti-Doping Centre</a> 
+<p><a href="https://vadc.org.vn/" rel="noopener noreferrer nofollow" target="_blank">Vietnam Anti-Doping Agency</a> 
 <br>
 </p>
 </td>
