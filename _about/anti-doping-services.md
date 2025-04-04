@@ -3,7 +3,7 @@ title: Anti-Doping Services
 permalink: /about/anti-doping-services/
 variant: tiptap
 ---
-<h4><strong>Doping Control Services</strong></h4>
+<h4><strong>Anti-Doping Related Courses/Workshops</strong></h4>
 <p>One of the main objectives of SEARADO is to assist member countries with
 their anti-doping initiatives and programmes, as well as, to build capacity.
 The SEARADO Office is pleased to collaborate and assist member countries
@@ -29,6 +29,9 @@ in the conduct of the following courses:</p>
 </li>
 <li>
 <p>RM Admin Workshop</p>
+</li>
+<li>
+<p>SCP Train The Trainer Course</p>
 </li>
 <li>
 <p>TUE Course</p>
