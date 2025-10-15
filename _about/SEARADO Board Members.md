@@ -179,9 +179,9 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" alt="photo1626836016" src="https://i.ibb.co/rGCJM11/image1.jpg">
+<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" src="https://i.ibb.co/VYwDhWNq/Whats-App-Image-2025-10-14-at-17-51-44.jpg">
 </div>
-<p>Mr. Ming Kai Tan,
+<p>Mr. Singaravelan Seenivarsan,
 <br>Executive (Operations)</p>
 </td>
 </tr>
