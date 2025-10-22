@@ -23,7 +23,7 @@ Government and National Olympic Committee based on the preamble.</p>
 <div class="isomer-image-wrapper">
 <img style="border:none;margin:20px;width:180px;height:190px;" height="auto" width="100%" src="https://i.ibb.co/f9dZFR3/Whats-App-Image-2022-09-30-at-9-39-45-PM.jpg">
 </div>
-<p>Mr. Gatot S. Dewa Broto (Chairman)
+<p>Mr. Gatot S. Dewa Broto (Chairman-Designate)
 <br>Indonesia</p>
 </td>
 </tr>
@@ -159,7 +159,7 @@ Government and National Olympic Committee based on the preamble.</p>
 <div class="isomer-image-wrapper">
 <img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" src="https://i.postimg.cc/sxDW7WYv/Dr-S-Perumal-comp.jpg">
 </div>
-<p>Mr. Saravana Perumal
+<p>Dr. Saravana Perumal S
 <br>Manager, Asia/Oceania Office
 <br>WADA</p>
 </td>
@@ -179,9 +179,9 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" alt="photo1626836016" src="https://i.ibb.co/rGCJM11/image1.jpg">
+<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" src="https://i.ibb.co/VYwDhWNq/Whats-App-Image-2025-10-14-at-17-51-44.jpg">
 </div>
-<p>Mr. Ming Kai Tan,
+<p>Mr. Singaravelan Seenivarsan,
 <br>Executive (Operations)</p>
 </td>
 </tr>
