@@ -8,7 +8,7 @@ variant: markdown
 Under the World Anti-Doping Code, athletes are solely responsible for any prohibited substance found in their system, whether there was an intention to cheat or not. It is therefore very important for athletes to understand not only what is prohibited, but also what might potentially cause an inadvertent doping violation.
 
 #### **Medical Conditions**
-When visiting a doctor, athletes should always inform the doctor of their status as athletes, and that they are subject to doping control tests and the CURRENT [Prohibited List (2025)](https://www.wada-ama.org/en/resources/world-anti-doping-code-and-international-standards/prohibited-list) for the substances and methods of treatment that an athlete cannot be prescribed with.
+When visiting a doctor, athletes should always inform the doctor of their status as athletes, and that they are subject to doping control tests and the CURRENT [Prohibited List (2026)](https://www.wada-ama.org/en/resources/2026-prohibited-list) for the substances and methods of treatment that an athlete cannot be prescribed with.
 
 Before using any substance or methods of treatment, the athlete should always check the status of the substance or method against the Prohibited List, or available on-line drug information services listed below. Athletes should never assume it is safe to use a substance or medication if information is not available.
 > IGNORANCE IS NOT AN EXCUSE
