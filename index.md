@@ -25,7 +25,6 @@ sections:
         - title: WADA Youtube Channel
           description: Click here for WADA's Channel
           url: https://www.youtube.com/user/wadamovies
-  - infobar: {}
   - resources:
       title: News and Events
       subtitle: SEARADO and Member Countries
