@@ -28,6 +28,6 @@ sections:
   - resources:
       title: News and Events
       subtitle: SEARADO and Member Countries
+      id: resources
       button: View More
-      url: /news-and-events/latest/
 ---
