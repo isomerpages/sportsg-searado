@@ -1,0 +1,24 @@
+logo: /images/SEARADO Logo.png
+links:
+  - title: About
+    collection: about
+  - title: Personnel
+    collection: personnel
+  - title: Information for Stakeholders
+    collection: information-for-stakeholders
+  - title: Resources
+    collection: resources
+  - title: News & Events
+    resource_room: true
+  - title: Links
+    sublinks:
+      - title: CISP
+        url: https://www.wada-ama.org/en/code-implementation-support-program
+      - title: SEARADO Facebook
+        url: https://www.facebook.com/SouthEastAsiaRADO
+      - title: SEARADO Youtube Channel
+        url: https://www.youtube.com/channel/UCiDV3ju6gS8r6tSD6iMndwA
+      - title: WADA News
+        url: https://www.wada-ama.org/en/media/news
+      - title: WADA Speak Up!
+        url: https://www.wada-ama.org/en/athletes-support-personnel/speak-report-doping
