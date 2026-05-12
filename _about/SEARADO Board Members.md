@@ -8,7 +8,8 @@ variant: markdown
 made up of one (1) Member Country Representative (MCR) from each of the
 member countries. Each representative is appointed by their respective
 Government and National Olympic Committee based on the preamble.</p>
-<table style="minWidth: 25px">
+<div class="isomer-image-wrapper">
+</div><table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
@@ -47,16 +48,16 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:non;margin:20px;width:180px;height:220px;" height="auto" width="100%" alt="Dr-Silinthone-MCR-photo" src="https://i.ibb.co/yq8DwC6/Dr-Silinthone-MCR-photo.png">
+<img style="border:none;margin:20px;width:180px;height:190px;" height="auto" width="100%" alt="Whats App Image 2026 05 12 at 10 29 46" src="https://i.ibb.co/gbnV4nLZ/Whats-App-Image-2026-05-12-at-10-29-46.jpg">
 </div>
-<p>Dr. Silinthone Sacklokham
+<p>Mr. Sisamout Saenbouttaraj
 <br>Laos</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Malaysia
-<br>To Be Confirmed</p>	
+<br>Dr. Azril Syazwan Bin Mohd Ali </p>	
 </td>
 </tr>
 <tr>
@@ -78,12 +79,13 @@ Government and National Olympic Committee based on the preamble.</p>
 </td>
 </tr>
 <tr>
+
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-
+<img style="border:none;margin:20px;width:180px;height:180px;" height="auto" width="100%" border="0" alt="Whats App Image 2026 05 12 at 10 29 54" src="https://i.ibb.co/G37VYRPF/Whats-App-Image-2026-05-12-at-10-29-54.jpg">
 </div>
-<p> Singapore
-<br> To Be Confirmed</p>
+<p> Ms. Ang Lay Kwang
+<br> Singapore  </p>
 </td>
 </tr>
 <tr>
@@ -179,9 +181,9 @@ Government and National Olympic Committee based on the preamble.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" src="https://i.ibb.co/VYwDhWNq/Whats-App-Image-2025-10-14-at-17-51-44.jpg">
+<img style="border:none;margin:20px;width:180px;height:234px;" height="auto" width="100%" border="0" alt="Whats App Image 2026 05 12 at 10 02 36" src="https://i.ibb.co/RGLBwV3S/Whats-App-Image-2026-05-12-at-10-02-36.jpg">
 </div>
-<p>Mr. Singaravelan Seenivarsan,
+<p>Mr. Singaravelan Seenivarsan
 <br>Executive (Operations)</p>
 </td>
 </tr>
